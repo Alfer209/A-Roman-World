@@ -1,0 +1,15 @@
+characters = {
+	NUA_zacharius_makourios = {
+		name = "Захариас Макуриос"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_zacharius_makourios
+			}
+		}
+		country_leader = {
+		    desc = ZACH_MAK_DESC
+			ideology = patautocrat
+			traits = { skillful_diplomat }
+		}
+	}
+}

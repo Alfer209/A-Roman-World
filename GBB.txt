@@ -1,0 +1,14 @@
+characters = {
+	GBB_edward_viii = {
+		name = "Эдуард VIII"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GBB_edward_viii
+			}
+		}
+		country_leader = {
+			ideology = constitmonarch
+			traits = { constitutional_monarch }
+		}
+	}
+}

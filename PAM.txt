@@ -1,0 +1,25 @@
+characters = {
+	PAM_miklos_horthy = {
+		name = "Миклош Хорти"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PAM_miklos_horthy
+			}
+		}
+		country_leader = {
+			ideology = parliament
+			traits = {  }
+		}
+		
+	    field_marshal = {
+		traits = { politically_connected inflexible_strategist media_personality }
+		
+		skill = 2
+		attack_skill = 1
+		defense_skill = 1
+		planning_skill = 2
+		logistics_skill = 2
+
+		}
+	}
+}

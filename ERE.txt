@@ -1,0 +1,552 @@
+characters = {
+	ERE_isidoros_palaiologos = {
+		name = "Ісідорос Палеолог"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ERE_isidoros_palaiologos
+			}
+		}
+		country_leader = {
+			ideology = aristocracy
+			traits = { indomitable_perseverance constitutional_monarch popular_figurehead2 }
+		}
+	}
+}
+
+characters = {
+	ERE_dimitris_theodorakos = {
+		name = "Дімітріс Теодоракос"
+		portraits = {
+			civilian = {
+			small = GFX_advisor_dimitris_theodorakos
+			}
+		}
+		advisor = {
+		    slot = army_chief
+            idea_token = dimitris_theodorakos
+            ledger = army
+            traits = { army_chief_reform_1 }
+			cost = 100
+		}
+	}
+
+	ERE_cassian_alexiou = {
+		name = "Касіан Алексіу"
+		portraits = {
+			civilian = {
+			small = GFX_advisor_cassianalexiou
+			}
+		}
+
+		advisor = {
+		    slot = theorist
+            idea_token = cassianalexiou
+            ledger = army
+			allowed = {
+				original_tag = ERE
+			}
+            available = {
+                has_completed_focus = ERE_cassiandoctrine
+            }
+            traits = { mobile_warfare_expert }
+			cost = 100
+		}
+	}
+	ERE_aurelian_diamandis = {
+		name = "Авреліан Діамандіс"
+		portraits = {
+			civilian = {
+			small = GFX_advisor_aureliandiamandis
+			}
+		}
+		advisor = {
+		    slot = theorist
+            idea_token = aureliandiamandis
+            ledger = army
+			available = {
+				has_completed_focus = ERE_aurelianreforms
+			}
+            traits = { grand_battle_plan_expert }
+			cost = 100
+		}
+	}
+
+	ERE_charalambos_katsimitros={
+		name= "Хараламбос Кацимітрос"
+		portraits={
+			army={
+				large=GFX_portrait_ERE_charalambos_katsimitros
+			}
+		}
+		corps_commander={
+			traits={ inflexible_strategist trait_cautious war_hero trait_GRE_stauch_monarchist trickster trait_mountaineer }
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=304
+		}
+	}
+
+	ERE_markos_drakos={
+			name= "Маркос Дракос"
+			portraits={
+				army={
+					large=GFX_portrait_ERE_markos_drakos
+				}
+			}
+			corps_commander={
+				traits={ career_officer infantry_officer trickster trait_mountaineer }
+				skill=3
+				attack_skill=1
+				defense_skill=3
+				planning_skill=3
+				logistics_skill=3
+			}
+	}
+	ERE_alexandros_papagos={
+		name= "Александрос Папагос"
+		portraits={
+			army={
+				small=GFX_advisor_alexandros_papagos
+				large=GFX_portrait_ERE_alexandros_papagos
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = ERE_alexandros_papagos
+			allowed = {
+				original_tag = ERE
+			}
+			traits = {
+				army_chief_defensive_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		advisor={
+			cost = 100
+			slot = theorist
+			idea_token = ERE_alexandros_papagos_theorist
+			ledger = army
+			allowed = {
+				original_tag = ERE
+			}
+
+			traits = {
+				military_theorist
+			}
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		field_marshal={
+			traits={ old_guard inflexible_strategist career_officer war_hero trait_mountaineer }
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=2
+		}
+	}
+
+	ERE_napoleon_zervas={
+			name= "Наполеон Зервас"
+			portraits={
+				army={
+					small=GFX_advisor_napoleon_zervas
+					large=GFX_portrait_ERE_napoleon_zervas
+				}
+			}
+			advisor={
+				slot = high_command
+				idea_token = GRE_napoleon_zervas
+				ledger = army
+				name= "Наполеон Зервас"
+				allowed = {
+					original_tag = ERE
+				}
+
+				traits = {
+					army_infantry_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+			}
+			corps_commander={
+				traits={ harsh_leader infantry_officer trait_commando trait_reckless }
+				skill=3
+				attack_skill=4
+				defense_skill=3
+				planning_skill=2
+				logistics_skill=3
+			}
+	}
+	ERE_aris_velouchiotis={
+			name= "Аріс Велухіотіс"
+			portraits={
+				army={
+					small="GFX_advisor_aris_velouchiotis"
+					large = "GFX_portrait_ERE_aris_velouchiotis"
+				}
+			}
+			advisor={
+				slot = army_chief
+				idea_token = ERE_aris_velouchiotis
+				name = "Аріс Велухіотіс"
+				allowed = {
+					original_tag = ERE
+				}
+				traits = {
+					army_chief_defensive_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+			}
+			corps_commander={
+				traits = { harsh_leader brilliant_strategist trickster commando }
+				skill = 3
+				attack_skill = 4
+				defense_skill = 2
+				planning_skill = 2
+				logistics_skill = 2
+			}
+	}
+	ERE_romanos_katakalon={
+		name= "Романов Катакалон"
+		portraits={
+			army={
+				small="GFX_advisor_romanos_katakalon"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = ERE_romanos_katakalon
+			traits = {
+				army_chief_offensive_1
+			}
+				cost =  50
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	ERE_giorgios_kosmas={
+		name="Георгіос Космас"
+		portraits={
+			army={
+				small="GFX_advisor_giorgios_kosmas"
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = ERE_giorgios_kosmas
+			ledger = navy
+			traits = {
+				army_artillery_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+
+	ERE_gregorios_xiphilinos={
+			name="Григоріос Ксифілінус"
+			portraits={
+				army={
+					small="GFX_advisor_gregorios_xiphilinos"
+				}
+			}
+			advisor={
+				slot = air_chief
+				idea_token = ERE_gregorios_xiphilinos
+				name = "Григоріос Ксифілінус"
+				traits = {
+					air_chief_reform_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+			}
+	}
+	ERE_manuel_phokas={
+			name="Мануель Фокас"
+			portraits={
+				army={
+					small="GFX_advisor_manuel_phokas"
+				}
+			}
+			advisor={
+				slot = air_chief
+				idea_token = ERE_manuel_phokas
+				name = "Мануель Фокас"
+				traits = {
+					air_chief_safety_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+			}
+	}
+	ERE_demetrios_skleros = {
+		name = "Деметріос Склерос"
+		portraits = {
+			army = {
+				small = GFX_advisor_demetrios_skleros
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = ERE_demetrios_skleros
+			name = "Деметріос Склерос"
+			traits = {
+				silent_workhorse
+			}
+            cost = 150
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}
+	ERE_theodoros_lascaris = {
+		name = "Феодорос Ласкаріс"
+		portraits = {
+			army = {
+				small = GFX_advisor_theodoros_lascaris
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = ERE_theodoros_lascaris
+			name = "Феодорос Ласкаріс"
+			traits = {
+				war_industrialist
+			}
+			cost = 150
+			ai_will_do = {
+				base = 3.000
+			}
+		}
+	}
+
+	ERE_markos_vafiadis={
+			name="Маркос Ваффіадіс"
+			portraits={
+				army={
+					large="GFX_portrait_GRE_markos_vafiadis"
+					small=GFX_portrait_GRE_markos_vafiadis_small
+				}
+				civilian={
+					large=GFX_portrait_GRE_markos_vafiadis
+				}
+			}
+			advisor={
+				slot = political_advisor
+				idea_token = ERE_markos_vafiadis
+
+				traits = {
+					guerilla_warfare_expert
+				}
+			}
+
+			corps_commander={
+				traits = { politically_connected trait_reckless media_personality commando urban_assault_specialist }
+				skill = 3
+				attack_skill = 2
+				defense_skill = 2
+				planning_skill = 3
+				logistics_skill = 3
+			}
+	}
+
+	ERE_dimitrios_psarros = {
+		name="Дімітріос Псаррос"
+		portraits={
+			army={
+				large="GFX_portrait_gre_dimitrios_psarros"
+				small=GFX_portrait_GRE_dimitrios_psarros_small
+			}
+		}
+
+		corps_commander = {
+				traits = { war_hero trait_reckless trickster commando }
+				skill = 2
+				attack_skill = 2
+				defense_skill = 1
+				planning_skill = 2
+				logistics_skill = 2
+		}
+	}
+
+	ERE_theodoros_pangalos = {
+		name="Феодорос Пангалос"
+		portraits={
+			army={
+				large="GFX_portrait_gre_theodoros_pangalos"
+				small=GFX_portrait_GRE_theodoros_pangalos_small
+			}
+		}
+
+		corps_commander = {
+				traits = { media_personality harsh_leader commando }
+				skill = 3 #10
+				attack_skill = 4
+				defense_skill = 2
+				planning_skill = 1
+				logistics_skill = 3
+		}
+	}
+
+	ERE_andrew_koukidis={
+		name="Андреас Кукідіс"
+		portraits={
+			army={
+				small="GFX_idea_tur_fahrettin_altay"
+				large="GFX_portrait_tur_fahrettin_altay"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = ERE_andrew_koukidis
+
+			traits = {
+				army_chief_maneuver_3
+			}
+
+			cost = 200
+
+		}
+
+		corps_commander={
+			traits={ brilliant_strategist cavalry_officer war_hero hill_fighter }
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=2
+		}
+	}
+
+
+	ERE_alexandros_sakellariou={
+			name="Александрос Сакелларіу"
+			portraits={
+				army={
+					small="GFX_idea_gre_alexandros_sakellariou"
+					large=GFX_portrait_GRE_alexandros_sakellariou
+				}
+			}
+			advisor={
+				slot = navy_chief
+				idea_token = ERE_alexandros_sakellariou
+				name = "Александрос Сакелларіу"
+				traits = {
+					navy_chief_decisive_battle_2
+				}
+				cost = 100
+			}
+
+			navy_leader={
+				traits={ navy_media_personality bold caustic_personality fleet_protector }
+				skill=3
+				attack_skill=3
+				defense_skill=2
+				maneuvering_skill=3
+				coordination_skill=2
+			}
+
+	}
+
+	ERE_dimitri_markellos={
+
+			name="Дімітрій Маркеллос"
+			portraits={
+				army={
+					small="GFX_idea_tur_mumtaz_okmen"
+				}
+			}
+			advisor={
+				slot = political_advisor
+				idea_token = ERE_dimitri_markellos
+				name = "Дімітрій Маркеллос"
+				traits = {
+					captain_of_industry
+				}
+			}
+        }
+
+	ERE_nikola_mihov = {
+		name = "Нікола Міхов"
+		portraits = {
+			army = {
+				large = "GFX_portrait_bul_nikola_mihov"
+				small = GFX_portrait_BUL_nikola_mihov_small
+			}
+		}
+		field_marshal = {
+			traits = { career_officer politically_connected fortress_buster }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+
+	ERE_nikos_beloyannis={
+
+			name="Нікос Белоянніс"
+			portraits={
+				army={
+					small="GFX_idea_gre_nikos_beloyannis"
+				}
+			}
+			advisor={
+				slot = high_command
+				idea_token = ERE_nikos_beloyannis
+				ledger = army
+				name = "Нікос Белоянніс"
+
+				traits = {
+					army_regrouping_2
+				}
+
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+			}
+		}
+
+	ERE_konstantinos_maniadakis={
+		name="Константінос Маніадакіс"
+		portraits={
+			army={
+				small="GFX_idea_generic_political_advisor_south_america_3"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = GRE_konstantinos_maniadakis
+
+			traits = {
+				prince_of_terror
+			}
+		}
+	}
+}

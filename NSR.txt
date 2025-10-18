@@ -1,0 +1,10 @@
+characters = {
+	NSR_alfonso_xiii = {
+		name = "Альфонсо XIII"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NSR_alfonso_xiii
+			}
+		}
+	}
+}

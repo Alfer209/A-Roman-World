@@ -1,0 +1,14 @@
+characters = {
+	KHH_rudolf_roessler = {
+		name = "Рудольф Рёсслер"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rudolf_roessler
+			}
+		}
+		country_leader = {
+			ideology = teutonic
+			traits = { }
+		}
+	}
+}

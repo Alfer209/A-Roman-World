@@ -1,0 +1,14 @@
+characters = {
+	FAC_albert_lebrun = {
+		name = "Альбер Лебрен"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FAC_albert_lebrun
+			}
+		}
+		country_leader = {
+			ideology = patautocrat
+			traits = {  }
+		}
+	}
+}

@@ -1,0 +1,14 @@
+characters = {
+	DKT_sophie = {
+		name = "Софи"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_DKT_sophie
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+}

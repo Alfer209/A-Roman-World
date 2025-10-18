@@ -1,0 +1,14 @@
+characters = {
+	HVI_henri_guisan = {
+		name = "Анри Гизан"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_henri_guisan
+			}
+		}
+		country_leader = {
+			ideology = constitmonarch
+			traits = { }
+		}
+	}
+}

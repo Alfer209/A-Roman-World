@@ -1,0 +1,14 @@
+characters = {
+	GSX_great_sioux_council = {
+		name = "Великий Сиуский Совет"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_great_sioux_council
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+}

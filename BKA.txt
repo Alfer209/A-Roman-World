@@ -1,0 +1,14 @@
+characters = {
+	BKA_yakiv_marackin = {
+		name = "Яков Марачкин"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BKA_yakiv_marackin
+			}
+		}
+		country_leader = {
+			ideology = provs
+			traits = { war_hero charismatic }
+		}
+	}
+}

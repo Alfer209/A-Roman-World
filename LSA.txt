@@ -1,0 +1,328 @@
+characters = {
+	LSA_george_marshall = {
+		name = "Джордж Маршалл"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_LSA_george_marshall
+			}
+		}
+		country_leader = {
+			ideology = neoromanism
+			traits = { war_hero brilliant_strategist bearer_of_artillery charismatic }
+		}
+	}
+
+	LSA_douglas_macarthur={
+		name="Дуглас Макартур"
+		portraits={
+			army={
+				small="GFX_advisor_douglas_macarthur"
+			}
+			army={
+				large=GFX_portrait_ERE_douglas_macarthur
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = LSA_douglas_macarthur
+			allowed = {
+				original_tag = LSA
+			}
+			available = {
+				has_completed_focus = LSA_voiceofthelegions
+			}
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		field_marshal={
+			traits={ brilliant_strategist career_officer media_personality politically_connected offensive_doctrine }
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=2
+		}
+	}
+	
+	LSA_george_s_patton={
+		name="Джордж Смит Паттон"
+		portraits={
+			army={
+				large=GFX_portrait_USA_george_s_patton
+			}
+			army={
+				small="GFX_idea_george_patton"
+			}
+		}
+		advisor={
+			cost = 150
+
+			slot = theorist
+			idea_token = LSA_george_patton
+			ledger = army
+
+				traits = {
+					mobile_warfare_expert
+				}
+		}
+
+		corps_commander={
+			traits={ trait_reckless armor_officer war_hero trickster panzer_leader }
+			skill=5
+			attack_skill=7
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=4
+		}
+	}
+	
+	LSA_dwight_d_eisenhower={
+		name="Дуайт Дэвид Эйзенхауэр"
+		portraits={
+			army={
+				large=GFX_portrait_USA_dwight_d_eisenhower
+			}
+			army={
+				small="GFX_idea_dwight_eisenhower"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = LSA_dwight_eisenhower
+
+			traits = {
+				army_chief_offensive_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		field_marshal={
+			traits={ trait_cautious armor_officer politically_connected organizer logistics_wizard offensive_doctrine }
+			skill=5
+			attack_skill=3
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=5
+		}
+	}
+	
+	LSA_omar_bradley={
+		name="Омар Брэдли"
+		portraits={
+			army={
+				small="GFX_idea_omar_bradley"
+			}
+			army={
+				large=GFX_portrait_USA_omar_bradley
+			}
+		}
+		advisor={
+			cost = 150
+			slot = theorist
+			idea_token = LSA_omar_bradley
+			ledger = army
+
+			traits = {
+				superior_firepower_expert
+			}
+		}
+
+		corps_commander={
+			traits={ brilliant_strategist trait_cautious harsh_leader trait_engineer }
+			skill=5
+			attack_skill=3
+			defense_skill=5
+			planning_skill=4
+			logistics_skill=4
+		}
+	}
+	
+	LSA_mark_clark={
+		name="Марк Уэйн Кларк"
+		portraits={
+			army={
+				small="GFX_idea_mark_clark"
+			}
+			army={
+				large=GFX_portrait_USA_mark_clark
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = LSA_mark_clark
+			ledger = army
+				traits = {
+					army_infantry_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+
+		corps_commander={
+			traits={ trait_reckless infantry_officer }
+			skill=4
+			attack_skill=5
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=3
+		}
+	}
+	
+	LSA_courtney_hodges={
+		name="Кортни Ходжес"
+		portraits={
+			army={
+				small="GFX_idea_courtney_hodges"
+			}
+			army={
+				large=GFX_portrait_USA_courtney_hodges
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = LSA_courtney_hodges
+			ledger = army
+
+			traits = {
+				army_commando_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		corps_commander={
+			traits={ career_officer infantry_officer panzer_leader }
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=4
+		}
+	}
+	
+	LSA_lucian_truscott={
+		name="Луциан Траскотт"
+		portraits={
+			army={
+				large=GFX_portrait_USA_lucian_truscott
+				small=GFX_portrait_USA_lucian_truscott_small
+			}
+		}
+		corps_commander={
+			traits={ cavalry_officer trait_engineer commando }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+		}
+	}
+
+	LSA_walter_krueger={
+		name="Уолтер Крюгер"
+		portraits={
+			army={
+				small="GFX_idea_USA_walter_krueger"
+			}
+			army={
+				large=GFX_portrait_USA_walter_krueger
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = LSA_walter_krueger
+
+			traits = {
+				army_chief_planning_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		corps_commander={
+			traits={ brilliant_strategist career_officer armor_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=2
+		}
+	}
+	
+	LSA_robert_taft={
+		name="Роберт Тафт"
+		portraits={
+			army={
+				small="GFX_idea_generic_political_advisor_europe_1"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = LSA_robert_taft
+			allowed  = {
+				original_tag  = LSA
+			}
+			traits  = {
+				silent_workhorse
+			}
+		}
+	}
+	
+
+	LSA_henry_stimson={
+		name="Генри Стимсон"
+		portraits={
+			army={
+				small=GFX_portrait_USA_henry_stimson_small
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = LSA__henry_stimson
+			allowed  = {
+				original_tag  = LSA
+			}
+			traits  = {
+				war_industrialist
+			}
+		}
+	}
+	
+	LSA_henry_arnold={
+		name="Генри Арнолд"
+		portraits={
+			army={
+				small="GFX_idea_henry_arnold"
+			}
+		}
+		advisor={
+			slot = air_chief
+			idea_token = LSA_henry_arnold
+			allowed = {
+				original_tag = LSA
+			}
+			traits = {
+				air_chief_reform_3
+			}
+			cost = 200
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+}

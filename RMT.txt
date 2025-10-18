@@ -1,0 +1,14 @@
+characters = {
+	RMT_antoninus_miller = {
+		name = "Антонинус Миллер"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RMT_antoninus_miller
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { war_hero charismatic }
+		}
+	}
+}

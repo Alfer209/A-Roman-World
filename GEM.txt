@@ -1,0 +1,457 @@
+characters = {
+	GEM_wilhelm_ii = {
+		name = "Вильгельм II"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GEM_wilhelm_ii
+			}
+		}
+		country_leader = {
+			ideology = teutonic
+			traits = { dictator indomitable_perseverance autocratic_imperialist }
+		}
+	}
+	
+	GEM_walter_model = {
+		name = "Вальтер Модель"
+		portraits = {
+			army = {
+				large = GFX_portrait_GEM_walter_model
+			}
+		}
+		corps_commander = { 
+			traits = { harsh_leader inflexible_strategist }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+			visible = {
+				OR = {
+					has_completed_focus = GEM_reorganisetheheer
+				}
+			}
+		}
+	}
+	
+	GEM_hermann_hoth = {
+		name = "Герман Гот"
+		portraits = {
+			army = {
+				large = GFX_portrait_GEM_hermann_hoth
+			}
+		}
+		corps_commander = {
+			traits = { trait_reckless armor_officer }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 4
+			visible = {
+				OR = {
+					has_completed_focus = GEM_reorganisetheheer
+				}
+			}
+		}
+	}
+
+	GEM_josef_kammhuber = {
+		name = "Йозеф Каммхубер"
+		portraits = {
+			army = {
+				small = GFX_advisor_josef_kammhuber
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = GEM_josef_kammhuber
+			allowed = {
+				original_tag = GEM
+				has_completed_focus = GEM_puppetprimeminister
+			}
+
+			traits = {
+				connected_citizen 
+			}
+			cost = 100
+		}
+	}
+	GEM_friedrich_paulus = {
+		name = "Фридрих Паулюс"
+		portraits = {
+			army = {
+				large = GFX_portrait_GEM_friedrich_paulus
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	
+	GEM_gotthard_heinrici = {
+		name = "Готхард Хейнрици"
+		portraits = {
+			army = {
+				large = GFX_portrait_GEM_Gotthard_Heinrici
+			}
+		}
+		corps_commander = {
+			traits = { old_guard infantry_officer inflexible_strategist }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 4
+			logistics_skill = 2
+		}
+	}
+	
+	GEM_werner_von_fritsch = {
+		name = "Вернер фон Фрич"
+		portraits = {
+			army = {
+				large = GFX_portrait_GEM_werner_von_fritsch
+			}
+		}
+
+		advisor = {
+			slot = high_command
+			idea_token = GEM_werner_von_fritsch_high_command
+			ledger = army
+			allowed = {
+				original_tag = GEM
+			}
+			visible = {
+				NOT = {
+					has_completed_focus = GER_reorganize_the_wehrmacht
+				}
+			}
+
+			traits = {
+				army_logistics_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+
+		advisor = {
+			slot = army_chief
+			idea_token = GEM_werner_von_fritsch_army_chief
+			ledger = army
+			allowed = {
+				original_tag = GEM
+			}
+
+			traits = {
+				army_chief_army_high_command
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+
+		corps_commander = {
+			traits = { trait_cautious old_guard }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 3
+
+		}
+	}
+	
+	GEM_heinz_guderian = {
+		name = "Хайнц Гудериан"
+		portraits = {
+			army = {
+				large = GFX_portrait_GEM_Heinz_Guderian
+				small = GFX_advisor_heinz_guderian
+			}
+		}
+		advisor = {
+			cost = 200
+			slot = theorist
+			idea_token = GEM_heinz_guderian
+			ledger = army
+			allowed = {
+				original_tag = GEM
+			}
+			traits = {
+				blitzkrieg_theorist
+			}
+		}
+		
+		corps_commander = {
+			traits = { brilliant_strategist career_officer armor_officer trickster panzer_leader }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+	
+	GEM_gerd_von_rundstedt = {
+		name = "Герд фон Рундштедт"
+		portraits = {
+			army = {
+				large = GFX_portrait_GER_gerd_von_rundstedt
+				small = GFX_idea_gerd_von_rundstedt
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = GEM_gerd_von_rundstedt
+			ledger = army
+			allowed = {
+				original_tag = GEM
+			}
+			traits = {
+				army_regrouping_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+		
+		corps_commander = { 
+			traits = { trait_cautious brilliant_strategist old_guard }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 2
+			legacy_id = 1
+		}
+	}
+	
+	GEM_ludwig_beck = {
+		name = "Людвиг Бек"
+		portraits = {
+			army = {
+				small = GFX_idea_ludwig_beck
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = ludwig_beck
+			allowed = {
+				original_tag = GEM
+			}
+			traits = {
+				army_chief_organizational_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 8.000
+			}
+		}
+	}
+	
+
+	GEM_werner_von_blomberg = {
+		name = "Вернер фон Бломберг"
+		portraits = {
+			army = {
+				large = GFX_portrait_GER_werner_von_blomberg
+				small = GFX_portrait_GER_werner_von_blomberg_small
+			}
+		}
+
+		field_marshal = { 
+			traits = { defensive_doctrine thorough_planner }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 2
+		}
+
+		advisor = {
+			cost = 150
+			slot = theorist
+			idea_token = GEM_werner_von_blomberg
+			ledger = army
+			allowed = {
+				original_tag = GEM
+			}
+			traits = {
+				grand_battle_plan_expert
+			}
+		}
+	}
+	
+	GEM_erich_von_manstein = {
+		name = "Эрих фон Манштейн"
+		portraits = {
+			army = {
+				large = GFX_portrait_GER_erich_von_manstein
+				small = GFX_idea_manstein
+			}
+		}
+		advisor = {
+			cost = 150
+			slot = theorist
+			idea_token = manstein
+			ledger = army
+			allowed = {
+				original_tag = GEM
+			}
+			traits = {
+				mobile_warfare_expert
+			}
+		}
+		
+		corps_commander = {
+			traits = { brilliant_strategist armor_officer trickster trait_engineer }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 2
+			legacy_id = 5
+		}
+	}
+	
+	GEM_maximilian_von_weichs = {
+		name = "Максимилиан фон Вейхс"
+		portraits = {
+			army = {
+				large = GFX_portrait_GER_maximilian_von_weichs
+				small = GFX_portrait_GER_maximilian_von_weichs_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 4
+			legacy_id = 11
+		}
+	}
+	
+	GEM_oswald_lutz = {
+		name = "Освальд Лутц"
+		portraits = {
+			army = {
+				large = GFX_portrait_GER_oswald_lutz
+				small = GFX_portrait_GER_oswald_lutz_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_leader combined_arms_expert }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+	
+
+	GEM_walther_funk = {
+		name = "Вальтер Функ"
+		portraits = {
+			army = {
+				small = GFX_idea_walther_funk
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = GEM_walther_funk
+
+			traits = {
+				GER_reich_minister_of_economy 
+			}
+
+		}		
+	}
+	
+	GEM_franz_seldte = {	
+
+		name = "Франц Зельдте"
+
+		portraits = {
+			army = {
+				small = GFX_portrait_GER_franz_seldte_small
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = GEM_franz_seldte
+
+			traits = {
+				GER_reich_minister_for_labor
+			}
+		}
+			
+	}
+	
+	GEM_julius_leber = {
+		name = "Юлиус Лебер"
+		portraits = {
+			army = {
+				small = GFX_idea_GER_julius_leber
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = GER_julius_leber
+
+			traits = {
+				silent_workhorse
+			}
+
+		}
+	}
+	
+	GEM_ludwig_erhard = {
+		name = "Людвиг Эрхард"
+		portraits = {
+			army = {
+				small = GFX_portrait_GER_ludwig_erhard_small
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = GEM_ludwig_erhard
+
+			traits = {
+				economic_reformer
+			}
+		}		
+	}
+	
+	GEM_wilhelm_keitel = {
+		name = "Вильгельм Кейтель"
+		portraits = {
+			army = {
+				small = GFX_idea_wilhelm_keitel
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = GEM_wilhelm_keitel
+
+			traits = {
+				army_chief_drill_2
+			}
+			cost = 100
+
+		}		
+	}
+
+}

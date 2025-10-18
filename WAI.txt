@@ -1,0 +1,14 @@
+characters = {
+	WAI_michael_i = {
+		name = "Михай I"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_WAI_michael_i
+			}
+		}
+		country_leader = {
+			ideology = constitmonarch
+			traits = { constitutional_monarch }
+		}
+	}
+}

@@ -1,0 +1,14 @@
+characters = {
+	JKK_yi_hui = {
+		name = "И Хуэй"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_gojong
+			}
+		}
+		country_leader = {
+			ideology = mandateofheaven
+			traits = { }
+		}
+	}
+}

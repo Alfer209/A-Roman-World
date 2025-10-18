@@ -1,0 +1,236 @@
+characters = {
+	MIG_zhu_wanshan = {
+		name = "Чжу Ваньшань"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_MIG_zhu_wanshan
+			}
+		}
+		country_leader = {
+			ideology = mandateofheaven
+			traits = { war_hero brilliant_strategist bearer_of_artillery charismatic }
+		}
+	}
+	
+	MIG_fu_zuoyi={
+		name="Фу Цзои"
+		portraits={
+			army={
+				large="GFX_portrait_chi_fu_zuoyi"
+				small="GFX_idea_CHI_fu_zuoyi"
+			}
+		}
+		corps_commander={
+		    traits = { trait_cautious brilliant_strategist old_guard }
+			skill=4
+			attack_skill=5
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=-1
+		}
+	}
+	MIG_wei_lihuang={
+		name="Вэй Лихуан"
+		portraits={
+			army={
+				large="GFX_portrait_chi_wei_lihuang"
+				small="GFX_idea_CHI_wei_lihuang"
+			}
+		}
+		corps_commander={
+			traits = { defensive_doctrine thorough_planner infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=-1
+		}
+	}
+	
+	MIG_tai_anlan={
+		name="Дай Аньлань"
+		portraits={
+			army={
+				large="GFX_portrait_chi_tai_an_lan"
+				small="GFX_idea_CHI_tai_an_lan"
+			}
+		}
+		field_marshal={
+			traits={ career_officer trait_reckless offensive_doctrine }
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=-1
+		}
+	}
+	
+	MIG_zhang_xueliang={
+		name="Чжан Сюэлян"
+		portraits={
+			army={
+				large="GFX_portrait_chi_zhang_xueliang"
+				small="GFX_idea_CHI_zhang_xueliang"
+			}
+		}
+		field_marshal={
+		    traits = { old_guard infantry_officer inflexible_strategist }
+			skill=4
+			attack_skill=4
+			defense_skill=2
+			planning_skill=4
+			logistics_skill=2
+			legacy_id=-1
+		}
+	}
+	
+	MIG_wang_yaowu={
+		name="Ван Яоу"
+		portraits={
+			army={
+				large="GFX_portrait_chi_wang_yaowu"
+				small="GFX_idea_CHI_wang_yaowu"
+			}
+		}
+		field_marshal={
+			traits={ trait_cautious infantry_officer defensive_doctrine }
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=-1
+		}
+	}
+	
+	MIG_sun_li_jen={
+		name="Сунь Лижэнь"
+		portraits={
+			army={
+				large="GFX_portrait_chi_sun_li_jen"
+				small="GFX_idea_CHI_sun_li_jen"
+			}
+		}
+		corps_commander={
+			traits={ brilliant_strategist }
+			skill=4
+			attack_skill=5
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=-1
+		}
+	}
+	
+	MIG_nalan_xingde={
+		name="Налань Синде"
+		portraits={
+			civilian={
+				small="GFX_idea_CHI_chiang_ching_kuo"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = MIG_nalan_xingde
+			allowed  = {
+				original_tag  = MIG
+			}
+			traits  = {
+				silent_workhorse 
+			}
+		}
+	}
+	
+	MIG_wang_zhang={ 
+		name = "Ван Чжан"
+		portraits={
+			army={
+				small="GFX_idea_generic_army_asia_4"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = MIG_wang_zhang
+
+			traits = {
+				army_chief_offensive_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	
+	MIG_gao_zhihang={
+		name="Гао Чжихан"
+		portraits={
+			army={
+				small="GFX_idea_CHI_gao_zihang"
+			}
+		}
+		advisor={	
+			slot = high_command
+			idea_token = MIG_gao_zhihang
+			ledger = air
+
+			traits = {
+				air_air_superiority_3
+			}
+			cost = 200
+			ai_will_do = {
+				factor = 0.200
+			}
+		}
+	}
+	
+	MIG_xiao_yisu={
+		name="Сяо Ису"
+		portraits={
+			army={
+				small="GFX_idea_generic_army_asia_2"
+			}
+		}
+		advisor={	
+			slot = high_command
+			idea_token = MIG_xiao_yisu
+			ledger = army
+			allowed = {
+				original_tag = MIG
+			}
+			traits = {
+				army_infantry_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 2.000
+			}
+		}
+	}
+	
+	MIG_bo_yibo={
+		name="Бо Ибо"
+		portraits={
+			army={
+				small="GFX_idea_generic_army_asia_2"
+			}
+		}
+		advisor={
+			cost = 100			
+			slot = theorist
+			idea_token = MIG_bo_yibo
+			ledger = army
+			allowed = {
+				original_tag = MIG
+			}
+			
+			traits = {
+				military_theorist
+			}
+		}
+	}
+	
+}

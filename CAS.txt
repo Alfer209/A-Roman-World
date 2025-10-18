@@ -1,0 +1,14 @@
+characters = {
+	CAS_george_orwell = {
+		name = "Джордж Оруэлл"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CAS_george_orwell
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+}

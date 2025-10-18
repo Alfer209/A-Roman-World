@@ -1,0 +1,14 @@
+characters = {
+	APA_carlo_keziah = {
+		name = "Карло Кезия"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_carlo_keziah
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+		}
+	}
+}

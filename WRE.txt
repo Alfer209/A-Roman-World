@@ -1,0 +1,395 @@
+characters = {
+	WRE_lorenzo_laurence = {
+		name = "Лоренцо Лоренс"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_WRE_lorenzolaurence
+			}
+		}
+		country_leader = {
+			ideology = autocratia
+			traits = { war_hero brilliant_strategist bearer_of_artillery charismatic }
+		}
+	}
+	
+	WRE_rodolfo_graziani = {
+		name = "Родольфо Грациани"
+		portraits = {
+			army = {
+				small = GFX_idea_rodolfo_graziani
+				large = GFX_portrait_ITA_rodolfo_graziani
+			}
+		}
+
+		advisor = {
+			cost = 150
+			slot = theorist
+			idea_token = WRE_rodolfo_graziani
+			ledger = army
+			traits = {
+				grand_battle_plan_expert
+			}
+			ai_will_do = {
+				base = 3.000
+			}
+		}
+
+		field_marshal = {
+			traits = { trait_cautious politically_connected offensive_doctrine desert_fox }
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	
+	WRE_emilio_de_bono = {
+		name = "Эмилио Де Боно"
+		portraits = {
+			army = {
+				small = GFX_idea_emilio_de_bono
+				large = GFX_portrait_ITA_emilio_de_bono
+			}
+		}
+
+		advisor = {
+			slot = army_chief
+			idea_token = WRE_emilio_de_bono
+			traits = {
+				army_chief_defensive_1
+			}
+			cost = 50
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		
+		field_marshal = {
+			traits = { old_guard trait_cautious politically_connected defensive_doctrine }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	
+	WRE_pietro_badoglio = {
+		name = "Пьетро Бадольо"
+		portraits = {
+			army = {
+				small = GFX_idea_pietro_badoglio
+				large = GFX_portrait_ITA_pietro_badoglio
+			}
+		}
+
+		advisor = {
+			slot = army_chief
+			idea_token = WRE_pietro_badoglio
+
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 100
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+
+		field_marshal = {
+			traits = { old_guard inflexible_strategist politically_connected defensive_doctrine organizer }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	
+	WRE_giovanni_messe = {
+		name = "Джованни Мессе"
+		portraits = {
+			army = {
+				small = GFX_idea_giovanni_messe
+				large = GFX_portrait_ITA_giovanni_messe
+			}
+		}
+
+		advisor = {
+			cost = 150
+			slot = theorist
+			idea_token = WRE_giovanni_messe
+			ledger = army
+
+			traits = {
+				mobile_warfare_expert
+			}
+		}
+		
+		corps_commander = {
+			traits = { armor_officer war_hero }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 4
+		}
+	}
+	
+	WRE_ettore_baldassarre = {
+		name = "Этторе Бальдассарре"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_ettore_baldasarre_small
+				large = GFX_portrait_ITA_ettore_baldasarre
+			}
+		}
+		
+		corps_commander = {
+			traits = { old_guard trait_engineer fortress_buster trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	
+	WRE_ugo_cavallero = {
+		name = "Уго Кавальеро"
+		portraits = {
+			army = {
+				small = GFX_idea_ugo_cavallero
+				large = GFX_portrait_ITA_ugo_cavallero
+			}
+		}
+
+		advisor = {
+			slot = army_chief
+			idea_token = WRE_ugo_cavallero
+
+			traits = {
+				army_chief_organizational_1 # Was army_chief_maneuver_2 (replaced by Alberto Pariani)
+			}
+			cost = 50
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+		
+		corps_commander = {
+			traits = { old_guard career_officer trait_cautious organisational_leader }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+	
+	WRE_alberto_pariani = {
+		name = "Альберто Париани"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_alberto_pariani_small
+			}
+		}
+
+		advisor = {
+			slot = army_chief
+			idea_token = ITA_alberto_pariani
+
+			traits = {
+				army_chief_maneuver_2
+			}
+			cost = 100
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}
+	
+	WRE_ezio_rosi = {
+		name = "Эцио Рози"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_ezio_rosi_small
+				large = GFX_portrait_ITA_ezio_rosi
+			}
+		}
+		
+		corps_commander = {
+			traits = { infantry_officer organizer } #Logistics and Infantry
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	
+	WRE_giacomo_acerbo = {
+		name = "Джакомо Ачербо"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_giacomo_acerbo_small
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = WRE_giacomo_acerbo
+
+			traits = {
+				war_industrialist 
+			}
+			ai_will_do = {
+				base = 3.000
+			}
+		}
+	}
+	
+	WRE_alberto_beneduce = {
+		name = "Альберто Бенедуче"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_alberto_beneduce_small
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = WRE_alberto_beneduce
+
+			traits = {
+				captain_of_industry
+			}
+
+			ai_will_do = {
+				base = 0.300
+				modifier = {
+					factor = 0
+				}
+			}
+		}
+	}
+	
+	WRE_adelchi_serena = {
+		name = "Адельки Серена"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_adelchi_serena_small
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = WRE_adelchi_serena
+
+			traits = {
+				silent_workhorse
+			}
+
+			ai_will_do = {
+				base = 0.300
+			}
+		}
+	}
+	
+	WRE_roberto_farinacci = {
+		name = "Роберто Фариначчи"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_roberto_farinacci_small
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = WRE_roberto_farinacci
+
+			traits = {
+				backroom_backstabber 
+			}
+			ai_will_do = {
+				base = 0.000
+			}
+		}
+	}
+	
+	WRE_alfredo_guzzoni = {
+		name = "Альфредо Гуццони"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_alfredo_guzzoni_small
+				large = GFX_portrait_ITA_alfredo_guzzoni
+			}
+		}
+
+		advisor = {
+			slot = high_command
+			idea_token = WRE_alfredo_guzzoni
+			ledger = army
+
+			traits = {
+				army_infantry_2
+			}
+			cost = 100
+			ai_will_do = {
+				base = 2.000
+			}
+		}
+		
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	
+	WRE_francesco_pricolo = {
+		name = "Франческо Приколо"
+		portraits = {
+			army = {
+				small = GFX_idea_francesco_pricolo
+			}
+		}
+
+		advisor = {
+			slot = air_chief
+			idea_token = WRE_francesco_pricolo
+			traits = {
+				air_chief_reform_2
+			}
+			cost = 100
+			ai_will_do = {
+				base = 1.000
+			}
+		}		
+	}
+
+	WRE_aldo_pellegrini = {
+		name = "Альдо Пеллегрини"
+		portraits = {
+			army = {
+				small = GFX_portrait_ITA_aldo_pellegrini_small
+			}
+		}
+
+		advisor = {
+			slot = air_chief
+			idea_token = WRE_aldo_pellegrini
+			traits = {
+				air_chief_ground_support_1
+			}
+			cost = 50
+			ai_will_do = {
+				base = 1.000
+			}
+		}
+	}
+}

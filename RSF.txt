@@ -1,0 +1,14 @@
+characters = {
+	RSF_yerzov_bogdan = {
+		name = "Ерзов Богдан"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RSF_yerzov_bogdan
+			}
+		}
+		country_leader = {
+			ideology = socdem
+			traits = { war_hero charismatic }
+		}
+	}
+}

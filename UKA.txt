@@ -1,0 +1,14 @@
+characters = {
+	UKA_mykhailo_omelianovych_pavlenko = {
+		name = "Михаил Омельянович-Павленко"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_UKA_mykhailo_omelianovych_pavlenko
+			}
+		}
+		country_leader = {
+			ideology = provs
+			traits = { war_hero charismatic }
+		}
+	}
+}

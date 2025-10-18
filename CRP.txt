@@ -1,0 +1,15 @@
+characters = {
+	CRP_wang_jingwei = {
+		name = "Ван Цзинвэй"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CRP_wang_jingwei
+			}
+		}
+		country_leader = {
+		    desc = WANG_MING_DESC
+			ideology = minsheng
+			expire="1965.1.1.1"
+		}
+	}
+}

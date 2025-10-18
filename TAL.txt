@@ -1,0 +1,14 @@
+characters = {
+	TAL_roger_masson = {
+		name = "Роже Массон"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_roger_masson
+			}
+		}
+		country_leader = {
+			ideology = teutonic
+			traits = { }
+		}
+	}
+}

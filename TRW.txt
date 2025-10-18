@@ -1,0 +1,14 @@
+characters = {
+	TRW_poop_rockafeller = {
+		name = "Пуп Рокфеллер"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_poop_rockafeller
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+		}
+	}
+}

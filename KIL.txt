@@ -1,0 +1,14 @@
+characters = {
+	KIL_adel_brice = {
+		name = "Адель Брайс"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_adel_brice
+			}
+		}
+		country_leader = {
+			ideology = constitmonarch
+			traits = {  }
+		}
+	}
+}

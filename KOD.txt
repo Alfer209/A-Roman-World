@@ -1,0 +1,14 @@
+characters = {
+	KOD_max_leo_keller = {
+		name = "Макс Лео Келлер"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_max_leo_keller
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+		}
+	}
+}

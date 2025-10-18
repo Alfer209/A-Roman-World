@@ -1,0 +1,14 @@
+characters = {
+	LEX_adolphus = {
+		name = "Адольфус"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_adolphus
+			}
+		}
+		country_leader = {
+			ideology = autocratia
+			traits = { }
+		}
+	}
+}

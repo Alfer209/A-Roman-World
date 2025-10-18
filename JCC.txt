@@ -1,0 +1,15 @@
+characters = {
+	JCC_marcus_varro = {
+		name = "Марк Варрон"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JCC_marcus_varro
+			}
+		}
+		country_leader = {
+		    desc = MARCUS_VARRO_DESC
+			ideology = corppat
+			traits = { corporate_knight skillful_diplomat }
+		}
+	}
+}

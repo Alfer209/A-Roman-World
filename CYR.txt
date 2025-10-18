@@ -1,0 +1,14 @@
+characters = {
+	CYR_kargala_ramla = {
+		name = "Каргала Рамла"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_kargala_ramla
+			}
+		}
+		country_leader = {
+			ideology = aristocracy
+			traits = { }
+		}
+	}
+}

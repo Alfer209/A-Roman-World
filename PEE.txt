@@ -1,0 +1,14 @@
+characters = {
+	PEE_josh_mackenzie = {
+		name = "Джош Маккензи"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_josh_mackenzie
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+		}
+	}
+}
