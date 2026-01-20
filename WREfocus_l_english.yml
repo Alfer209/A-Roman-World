@@ -1,249 +1,250 @@
 ﻿l_english:
+ WRE_assemble_the_roman_senate:0 "Assemble the Roman Senate"
+ WRE_assemble_the_roman_senate_desc:0 "The Curia once more fills with the voices of senators. By assembling the Senate, we decide the foundations of our future government—whether to place power in the hands of the Senate, the people, or both. This act will set the tone for the rebirth of Western Rome."
 
-#Треба пройтися
+ WRE_springtime_of_nations:0 "Springtime of Nations"
+ WRE_springtime_of_nations_desc:0 "Across Europe, the cries for liberty, unity, and reform echo. We must decide how Rome will respond to this great tide of nationalism and republicanism sweeping the continent."
 
-WRE_assemble_the_roman_senate:0 "Скликання римського сенату"
-WRE_assemble_the_roman_senate_desc:0 "Курія знову наповнюється голосами сенаторів. Скликаючи сенат, ми визначаємо основи нашого майбутнього уряду — чи покласти владу в руки сенату, народу, чи обох. Цей акт задасть тон відродженню Західного Риму."
+ WRE_scars_of_1926:0 "Scars of 1926"
+ WRE_scars_of_1926_desc:0 "The disastrous struggles of the 1920s in Illyria still haunt our nation. The scars left upon our people, our politics, and our lands must be acknowledged—and healed—before Rome can rise again."
 
-WRE_springtime_of_nations:0 "Весна народів"
-WRE_springtime_of_nations_desc:0 "По всій Європі лунають заклики до свободи, єдності та реформ. Ми повинні вирішити, як Рим відреагує на цю велику хвилю націоналізму та республіканізму, що охоплює континент."
+ WRE_issue_of_the_illyrian_border:0 "Issue of the Illyrian Border"
+ WRE_issue_of_the_illyrian_border_desc:0 "The Illyrian frontier remains a contested and unstable region. Left unresolved, it threatens to reignite the flames of war. The Senate must take decisive action to resolve the border dispute."
 
-WRE_scars_of_1926:0 "Шрами 1926 року"
-WRE_scars_of_1926_desc:0 "Катастрофічні боротьби 1920-х років в Іллірії досі переслідують нашу націю. Шрами, залишені на нашому народі, політиці та землях, необхідно визнати — і зцілити — перш ніж Рим зможе відродитися."
+ WRE_reorganise_the_military_industrial_complex:0 "Reorganise the Military-Industrial Complex"
+ WRE_reorganise_the_military_industrial_complex_desc:0 "Our military and industry remain fractured and inefficient. By restructuring the military-industrial complex, we can ensure that Rome’s economy and armies work hand-in-hand toward national renewal."
 
-WRE_issue_of_the_illyrian_border:0 "Питання іллірійського кордону"
-WRE_issue_of_the_illyrian_border_desc:0 "Іллірійський кордон залишається спірним і нестабільним регіоном. Якщо не вирішити це питання, воно загрожує знову розпалити полум'я війни. Сенат повинен діяти рішуче, щоб врегулювати прикордонну суперечку."
+ WRE_stitching_the_scars:0 "Stitching the Scars"
+ WRE_stitching_the_scars_desc:0 "The wounds of the 1926 Illyrian War have left our nation bleeding. Through careful investment in industry, infrastructure, and reconciliation, we will begin to stitch together a stronger Rome."
 
-WRE_reorganise_the_military_industrial_complex:0 "Реорганізація військово-промислового комплексу"
-WRE_reorganise_the_military_industrial_complex_desc:0 "Наші військові та промисловість залишаються роздробленими та неефективними. Реструктуризація військово-промислового комплексу забезпечить, щоб економіка та армії Риму працювали разом для національного відродження."
+ WRE_springlock_rebellion:0 "Springlock Rebellion"
+ WRE_springlock_rebellion_desc:0 "As teutonic ideas spread, rebellion brews. The Springlock uprising threatens to destabilise the Empire unless decisive measures are taken. How we respond will shape Rome’s path forward."
 
-WRE_stitching_the_scars:0 "Зшивання шрамів"
-WRE_stitching_the_scars_desc:0 "Рани іллірійської війни 1926 року залишили нашу націю знекровленою. Завдяки ретельним інвестиціям у промисловість, інфраструктуру та примирення ми почнемо зшивати міцніший Рим."
+ WRE_looming_senate_coup:0 "Looming Senate Coup"
+ WRE_looming_senate_coup_desc:0 "The Senate grows restless. Whispers of a coup d’état swirl within its halls, as ambitious senators seek to expand their power. If unchecked, their schemes may imperil the Empire itself."
 
-WRE_springlock_rebellion:0 "Повстання Спрінглока"
-WRE_springlock_rebellion_desc:0 "У міру поширення тевтонських ідей зароджується бунт. Повстання Спрінглока загрожує дестабілізувати імперію, якщо не будуть вжиті рішучі заходи. Наша відповідь визначить подальший шлях Риму."
+ WRE_solve_the_internal_crisis:0 "Solve the Internal Crisis"
+ WRE_solve_the_internal_crisis_desc:0 "Our internal instability cannot be ignored. By restoring public confidence, stabilising politics, and rewarding loyalty, we can finally end this era of endless crises."
 
-WRE_looming_senate_coup:0 "Надвигається переворот у сенаті"
-WRE_looming_senate_coup_desc:0 "Сенат стає неспокійним. Шепіт про державний переворот гудить у його залах, коли амбітні сенатори прагнуть розширити свою владу. Якщо не зупинити їхні плани, вони можуть поставити імперію під загрозу."
+ WRE_looking_inward:0 "Looking Inward"
+ WRE_looking_inward_desc:0 "Rather than meddling in foreign adventures, we must focus on internal reform. By looking inward, Rome will strengthen its laws, institutions, and national cohesion."
 
-WRE_solve_the_internal_crisis:0 "Вирішення внутрішньої кризи"
-WRE_solve_the_internal_crisis_desc:0 "Нашу внутрішню нестабільність не можна ігнорувати. Відновлюючи довіру громадськості, стабілізуючи політику та винагороджуючи лояльність, ми зможемо нарешті покласти край ері нескінченних криз."
+ WRE_amend_the_taxaation_system:0 "Amend the Taxation System"
+ WRE_amend_the_taxaation_system_desc:0 "Our outdated tax structure is riddled with corruption and inefficiency. Reforming the system will provide the state with new revenues and curb abuses by Rome’s elites."
 
-WRE_looking_inward:0 "Погляд всередину"
-WRE_looking_inward_desc:0 "Замість втручання у зовнішні авантюри ми повинні зосередитися на внутрішніх реформах. Поглянувши всередину, Рим зміцнить свої закони, інститути та національну єдність."
+ WRE_stamp_out_corruption:0 "Stamp Out Corruption"
+ WRE_stamp_out_corruption_desc:0 "Corruption festers within every corner of our administration. By rooting out the corrupt and enforcing accountability, we can restore integrity to the Empire."
 
-WRE_amend_the_taxaation_system:0 "Реформа системи оподаткування"
-WRE_amend_the_taxaation_system_desc:0 "Наша застаріла податкова система пронизана корупцією та неефективністю. Реформування системи забезпечить державу новими доходами та приборкає зловживання римської еліти."
+ WRE_reorganise_the_corpus_juris_civilis:0 "Reorganise the Corpus Juris Civilis"
+ WRE_reorganise_the_corpus_juris_civilis_desc:0 "Rome’s laws, the very foundation of order, have become tangled and contradictory. By reorganising the Corpus Juris Civilis, we will restore clarity and justice to our legal system."
 
-WRE_stamp_out_corruption:0 "Викорінення корупції"
-WRE_stamp_out_corruption_desc:0 "Корупція гніздиться в кожному куточку нашої адміністрації. Виявивши та усунувши корумпованих і запровадивши підзвітність, ми відновимо чесність імперії."
+ WRE_further_inward:0 "Further Inward"
+ WRE_further_inward_desc:0 "Having reorganised our state and laws, we must continue to deepen reform. By further looking inward, Rome will achieve stability through order and legal unity."
 
-WRE_reorganise_the_corpus_juris_civilis:0 "Реорганізація Corpus Juris Civilis"
-WRE_reorganise_the_corpus_juris_civilis_desc:0 "Закони Риму, основа порядку, стали заплутаними та суперечливими. Реорганізувавши Corpus Juris Civilis, ми відновимо ясність і справедливість у нашій правовій системі."
+ WRE_strength_war_honour:0 "Strength, War, Honour"
+ WRE_strength_war_honour_desc:0 "Rome’s survival has always depended on strength of arms and the honour of its soldiers. We must embrace these values and forge a society bound by martial pride."
 
-WRE_further_inward:0 "Ще глибший погляд всередину"
-WRE_further_inward_desc:0 "Реорганізувавши державу та закони, ми повинні продовжити поглиблення реформ. Дивлячись ще глибше всередину, Рим досягне стабільності через порядок і правову єдність."
+ WRE_unity_virtue_prosperity:0 "Unity, Virtue, Prosperity"
+ WRE_unity_virtue_prosperity_desc:0 "Rome’s destiny lies not in endless strife, but in unity and shared virtue. By fostering prosperity for all, we will prove that the Empire can thrive through harmony."
 
-WRE_strength_war_honour:0 "Сила, війна, честь"
-WRE_strength_war_honour_desc:0 "Виживання Риму завжди залежало від сили зброї та честі його солдатів. Ми повинні прийняти ці цінності та створити суспільство, об'єднане бойовою гордістю."
+ WRE_the_roman_juggernaut:0 "The Roman Juggernaut"
+ WRE_the_roman_juggernaut_desc:0 "With our crises behind us and our state reorganised, Rome rises as an unstoppable force. The world will once again tremble before the might of the Roman juggernaut."
 
-WRE_unity_virtue_prosperity:0 "Єдність, доброчесність, процвітання"
-WRE_unity_virtue_prosperity_desc:0 "Доля Риму полягає не в нескінченних чварах, а в єдності та спільній доброчесності. Сприяючи процвітанню для всіх, ми доведемо, що імперія може процвітати через гармонію."
+ WRE_unity_above_all:0 "Unity Above All"
+ WRE_unity_above_all_desc:0 "Rome’s rebirth culminates in one truth: unity above all else. By binding our people together in one will and one destiny, we secure the eternal future of the West Roman Empire."
 
-WRE_the_roman_juggernaut:0 "Римський гігант"
-WRE_the_roman_juggernaut_desc:0 "Кризи позаду, держава реорганізована, і Рим постає як нестримна сила. Світ знову тремтітиме перед міццю римського гіганта."
+ WRE_peaceful_diplomacy:0 "Peaceful Diplomacy"
+ WRE_peaceful_diplomacy_desc:0 "Rather than resorting to bloodshed, we shall extend our hands across the empire. If there is any hope of Roman unity, it will be forged through careful negotiation and patient diplomacy."
 
-WRE_unity_above_all:0 "Єдність понад усе"
-WRE_unity_above_all_desc:0 "Відродження Риму завершується однією істиною: єдність понад усе. Об'єднавши наш народ в одній волі та одній долі, ми забезпечимо вічне майбутнє Західної Римської Імперії."
+ WRE_the_olive_branch_of_peace:0 "The Olive Branch of Peace"
+ WRE_the_olive_branch_of_peace_desc:0 "The olive branch, symbol of concord, will be raised high in our time. We must rally our people behind the idea of reconciliation with the East and prove that Rome’s future lies not in war, but in peace."
 
-WRE_peaceful_diplomacy:0 "Мирна дипломатія"
-WRE_peaceful_diplomacy_desc:0 "Замість кровопролиття ми простягнемо руки через імперію. Якщо є надія на римську єдність, вона буде викована через обережні переговори та терплячу дипломатію."
+ WRE_offer_recompensation_for_illyria:0 "Offer Recompensation for Illyria"
+ WRE_offer_recompensation_for_illyria_desc:0 "Though Illyria remains a point of bitter contention, we can offer material compensation and gestures of goodwill to Constantinople. While costly, such measures may open the road to understanding."
 
-WRE_the_olive_branch_of_peace:0 "Оливкова гілка миру"
-WRE_the_olive_branch_of_peace_desc:0 "Оливкова гілка, символ злагоди, буде піднята високо в наш час. Ми повинні згуртувати наш народ за ідеєю примирення зі Сходом і довести, що майбутнє Риму лежить не у війні, а в мирі."
+ WRE_attempt_reconciliation_with_constantinople:0 "Attempt Reconciliation with Constantinople"
+ WRE_attempt_reconciliation_with_constantinople_desc:0 "Rome and Constantinople have been estranged for too long. A formal attempt to reconcile may succeed—or fail spectacularly. Nevertheless, the future of the empire depends upon this bold move."
 
-WRE_offer_recompensation_for_illyria:0 "Пропозиція компенсації за Іллірію"
-WRE_offer_recompensation_for_illyria_desc:0 "Хоча Іллірія залишається болючим питанням, ми можемо запропонувати матеріальну компенсацію та жести доброї волі Константинополю. Хоча це дорого, такі заходи можуть відкрити шлях до взаєморозуміння."
+ WRE_meeting_of_the_dual_emperors:0 "Meeting of the Dual Emperors"
+ WRE_meeting_of_the_dual_emperors_desc:0 "The West and East have long claimed to be the true Roman Empire. It is time for both emperors to meet face to face, to determine whether there is a path toward cooperation—or inevitable war."
 
-WRE_attempt_reconciliation_with_constantinople:0 "Спроба примирення з Константинополем"
-WRE_attempt_reconciliation_with_constantinople_desc:0 "Рим і Константинополь занадто довго були відчужені. Формальна спроба примирення може вдатися — або зазнати грандіозного провалу. Проте майбутнє імперії залежить від цього сміливого кроку."
+ WRE_unification_or_death:0 "Unification or Death"
+ WRE_unification_or_death_desc:0 "If reconciliation fails, then only the sword remains. We must prepare for a struggle to the bitter end: either the empire shall be whole again, or it shall perish in the attempt."
 
-WRE_meeting_of_the_dual_emperors:0 "Зустріч двох імператорів"
-WRE_meeting_of_the_dual_emperors_desc:0 "Захід і Схід довго претендували на звання справжньої Римської Імперії. Настав час обом імператорам зустрітися віч-на-віч, щоб визначити, чи є шлях до співпраці — чи неминучої війни."
+ WRE_one_empire_two_emperors:0 "One Empire, Two Emperors"
+ WRE_one_empire_two_emperors_desc:0 "Unity does not have to mean the end of imperial duality. For the survival of Rome, we may establish a system where both emperors share power—one empire, yet two thrones."
 
-WRE_unification_or_death:0 "Об'єднання або смерть"
-WRE_unification_or_death_desc:0 "Якщо примирення зазнає невдачі, залишиться лише меч. Ми повинні готуватися до боротьби до гіркого кінця: або імперія знову стане цілісною, або загине в цій спробі."
+ WRE_imperial_directive_78:0 "Imperial Directive 78"
+ WRE_imperial_directive_78_desc:0 "The emperors have issued Directive 78: a sweeping mobilization order to prepare the Roman world for the great struggle ahead. Every citizen must now give their strength to the empire."
 
-WRE_one_empire_two_emperors:0 "Одна імперія, два імператори"
-WRE_one_empire_two_emperors_desc:0 "Єдність не означає кінець імперської дуальності. Для виживання Риму ми можемо встановити систему, де обидва імператори ділять владу — одна імперія, але два трони."
+ WRE_the_final_frontier:0 "The Final Frontier"
+ WRE_the_final_frontier_desc:0 "Our defenses must hold, for beyond them lies only annihilation. We will fortify every inch of our frontiers, transforming them into impenetrable bulwarks against any would-be invader."
 
-WRE_imperial_directive_78:0 "Імперська директива 78"
-WRE_imperial_directive_78_desc:0 "Імператори видали директиву 78: масштабний наказ про мобілізацію, щоб підготувати римський світ до великої боротьби попереду. Кожен громадянин тепер має віддати свою силу імперії."
+ WRE_preparations_for_the_final_war:0 "Preparations for the Final War"
+ WRE_preparations_for_the_final_war_desc:0 "The clash between Rome and its enemies is no longer a question of 'if,' but 'when.' We must prepare for the last, decisive war that will determine the fate of the empire forever."
 
-WRE_the_final_frontier:0 "Останній рубіж"
-WRE_the_final_frontier_desc:0 "Наша оборона повинна встояти, адже за ними лежить лише знищення. Ми укріпимо кожен дюйм наших кордонів, перетворюючи їх на непроникні бастіони проти будь-якого загарбника."
+ WRE_operation_lowland:0 "Operation Lowland"
+ WRE_operation_lowland_desc:0 "Plans are being drawn up to crush Hispania and its resistance once and for all. By striking swiftly and decisively, Rome will reclaim the lowlands and restore her rightful dominion."
 
-WRE_preparations_for_the_final_war:0 "Підготовка до останньої війни"
-WRE_preparations_for_the_final_war_desc:0 "Зіткнення між Римом і його ворогами більше не питання 'якщо', а 'коли'. Ми повинні підготуватися до останньої, вирішальної війни, що назавжди визначить долю імперії."
+ WRE_operation_phoenix:0 "Operation Phoenix"
+ WRE_operation_phoenix_desc:0 "The Francian pretenders have risen from the ashes too many times. Now, the empire will ensure that from these flames rises only Rome’s rebirth—not theirs."
 
-WRE_operation_lowland:0 "Операція 'Низовина'"
-WRE_operation_lowland_desc:0 "Розробляються плани, щоб раз і назавжди розгромити Гіспанію та її опір. Завдавши швидкого та рішучого удару, Рим поверне низовини та відновить своє законне панування."
+ WRE_the_inevitable:0 "The Inevitable"
+ WRE_the_inevitable_desc:0 "The storm with the Teutonic Empire can no longer be avoided. The war that history has conspired toward is upon us. Only the steel of Rome shall decide whether we prevail."
 
-WRE_operation_phoenix:0 "Операція 'Фенікс'"
-WRE_operation_phoenix_desc:0 "Франкські претенденти занадто часто воскресали з попелу. Тепер імперія забезпечить, щоб із цього полум'я відродився лише Рим — а не вони."
 
-WRE_the_inevitable:0 "Неминуче"
-WRE_the_inevitable_desc:0 "Буря з Тевтонською імперією більше не може бути відвернута. Війна, до якої вела історія, уже тут. Лише сталь Риму вирішить, чи ми переможемо."
+ WRE_inspection_of_the_armed_forces:0 "Inspection of the Armed Forces"
+ WRE_inspection_of_the_armed_forces_desc:0 "The state of our legions, fleets, and squadrons must be carefully reviewed. Years of neglect and political turmoil have left our military a shadow of its former self. By undertaking a thorough inspection, we can identify weaknesses, reward competence, and prepare Rome’s sword for the trials to come."
 
-WRE_inspection_of_the_armed_forces:0 "Інспекція збройних сил"
-WRE_inspection_of_the_armed_forces_desc:0 "Стан наших легіонів, флотів і ескадрилій необхідно ретельно перевірити. Роки занедбаності та політичних потрясінь зробили нашу армію тінню її минулої слави. Провівши ретельну інспекцію, ми виявимо слабкі місця, винагородимо компетентність і підготуємо меч Риму до прийдешніх випробувань."
+ WRE_the_roman_legions:0 "The Roman Legions"
+ WRE_the_roman_legions_desc:0 "Once the backbone of the Empire, the legions are more than just soldiers—they are the very embodiment of Roman order. By re-emphasizing discipline, training, and modern battlefield doctrine, we shall restore their place as the most feared land force in the world."
 
-WRE_the_roman_legions:0 "Римські легіони"
-WRE_the_roman_legions_desc:0 "Колись основа імперії, легіони — це не лише солдати, а втілення римського порядку. Наголошуючи на дисципліні, навчанні та сучасній бойовій доктрині, ми відновимо їх як найстрашнішу сухопутну силу в світі."
+ WRE_a_roman_legacy:0 "A Roman Legacy"
+ WRE_a_roman_legacy_desc:0 "The victories of the Caesars echo across the ages. To reclaim that legacy, we must learn from both our ancient glories and the hard lessons of recent defeats. By codifying these experiences into doctrine, our army will march with renewed strength and purpose."
 
-WRE_a_roman_legacy:0 "Римська спадщина"
-WRE_a_roman_legacy_desc:0 "Перемоги Цезарів відлунюють крізь віки. Щоб повернути цю спадщину, ми повинні вчитися як на наших стародавніх звитягах, так і на важких уроках недавніх поразок. Кодифікуючи цей досвід у доктрину, наша армія маршируватиме з новою силою та метою."
+ WRE_strengthen_the_legions:0 "Strengthen the Legions"
+ WRE_strengthen_the_legions_desc:0 "The legions cannot fight with spirit alone. Modern infantry weapons, efficient artillery support, and improved tactical doctrine will give our soldiers the tools they need to carry the Roman eagle to triumph once more."
 
-WRE_strengthen_the_legions:0 "Зміцнення легіонів"
-WRE_strengthen_the_legions_desc:0 "Легіони не можуть боротися лише духом. Сучасна піхотна зброя, ефективна артилерійська підтримка та вдосконалена тактична доктрина дадуть нашим солдатам інструменти, необхідні для тріумфального повернення римського орла."
+ WRE_mob_of_the_armed_forces:0 "Mobilisation of the Armed Forces"
+ WRE_mob_of_the_armed_forces_desc:0 "Rome requires total mobilization. By uniting our air wings, legions, and naval squadrons into a single coordinated machine, we will ensure that the full strength of the Empire is ready to answer any threat."
 
-WRE_mob_of_the_armed_forces:0 "Мобілізація збройних сил"
-WRE_mob_of_the_armed_forces_desc:0 "Рим потребує тотальної мобілізації. Об'єднавши наші авіаційні крила, легіони та морські ескадри в єдину скоординовану машину, ми забезпечимо готовність усієї сили імперії до будь-якої загрози."
+ WRE_the_roman_airforce:0 "The Roman Airforce"
+ WRE_the_roman_airforce_desc:0 "A new battlefield has emerged in the skies. Our airforce must be expanded and modernized to secure our cities, support our legions, and strike terror into those who dare defy Rome."
 
-WRE_the_roman_airforce:0 "Римські повітряні сили"
-WRE_the_roman_airforce_desc:0 "Нове поле бою з'явилося в небесах. Наші повітряні сили мають бути розширені та модернізовані, щоб захистити наші міста, підтримати легіони та вселити жах у тих, хто наважиться кинути виклик Риму."
+ WRE_purge_incompetent_officers:0 "Purge Incompetent Officers"
+ WRE_purge_incompetent_officers_desc:0 "Corruption, nepotism, and incompetence infest the officer corps. The legions cannot be commanded by fools. Through decisive purges, we will sweep away the weak and elevate the capable, no matter how bloody the process."
 
-WRE_purge_incompetent_officers:0 "Чистка некомпетентних офіцерів"
-WRE_purge_incompetent_officers_desc:0 "Корупція, кумівство та некомпетентність заполонили офіцерський корпус. Легіонами не можуть командувати дурні. Через рішучі чистки ми позбудемося слабких і піднімемо здатних, незалежно від того, наскільки кривавим буде цей процес."
+ WRE_submarine_flotilla:0 "Submarine Flotilla"
+ WRE_submarine_flotilla_desc:0 "Beneath the waves lies Rome’s dagger. By investing in submarine warfare, we will deny our enemies secure trade routes and choke their supply lines. Silent hunters will serve as the hidden fangs of the Imperial fleet."
 
-WRE_submarine_flotilla:0 "Флотилія підводних човнів"
-WRE_submarine_flotilla_desc:0 "Під хвилями ховається кинджал Риму. Інвестуючи в підводну війну, ми позбавимо ворогів безпечних торговельних шляхів і задушимо їхні лінії постачання. Мовчазні мисливці стануть прихованими іклами імперського флоту."
+ WRE_soaring_the_skies:0 "Soaring the Skies"
+ WRE_soaring_the_skies_desc:0 "Our pilots are the new legionaries, their cockpits the chariots of the modern age. From light fighters to mighty bombers, Rome’s airforce must soar above the battlefield and dominate the heavens."
 
-WRE_soaring_the_skies:0 "Ширяння в небесах"
-WRE_soaring_the_skies_desc:0 "Наші пілоти — нові легіонери, їхні кабіни — колісниці сучасної епохи. Від легких винищувачів до потужних бомбардувальників, повітряні сили Риму повинні панувати над полем бою та домінувати в небесах."
+ WRE_revival_of_the_armed_forces:0 "Revival of the Armed Forces"
+ WRE_revival_of_the_armed_forces_desc:0 "At last, our reforms bear fruit. The legions are drilled, the fleets are modernized, the squadrons are equipped, and our officers are tested. Rome’s armed forces rise once more, a phoenix of steel and discipline, ready to defend and expand the Empire."
 
-WRE_revival_of_the_armed_forces:0 "Відродження збройних сил"
-WRE_revival_of_the_armed_forces_desc:0 "Нарешті наші реформи приносять плоди. Легіони вишколені, флоти модернізовані, ескадрильї оснащені, а офіцери перевірені. Збройні сили Риму відроджуються, як фенікс зі сталі та дисципліни, готові захищати та розширювати імперію."
+ WRE_the_roman_navy:0 "The Roman Navy"
+ WRE_the_roman_navy_desc:0 "The seas once bowed to Rome. To restore that dominance, we must invest in naval doctrine, expand our fleets, and ensure that no power can rival us on the waves."
 
-WRE_the_roman_navy:0 "Римський флот"
-WRE_the_roman_navy_desc:0 "Моря колись схилялися перед Римом. Щоб відновити це домінування, ми повинні інвестувати в морську доктрину, розширити наші флоти та забезпечити, щоб жодна сила не могла змагатися з нами на хвилях."
+ WRE_roaming_the_seas:0 "Roaming the Seas"
+ WRE_roaming_the_seas_desc:0 "Our ships shall roam the seas as in centuries past, from the Pillars of Hercules to the distant coasts. Cruisers, carriers, and mighty battleships will once again carry Roman banners across the waters, a reminder to the world that Mare Nostrum is ours."
 
-WRE_roaming_the_seas:0 "Блукання морями"
-WRE_roaming_the_seas_desc:0 "Наші кораблі блукатимуть морями, як за століття до цього, від Стовпів Геракла до далеких узбереж. Крейсери, авіаносці та могутні лінкори знову нестимуть римські прапори через води, нагадуючи світу, що Mare Nostrum належить нам."
+ WRE_revisit_the_treaty_of_belgrade:0 "Revisit the Treaty of Belgrade"
+ WRE_revisit_the_treaty_of_belgrade_desc:0 "The Treaty of Belgrade, signed in 1926, ended the bloody Illyrian War between East and West. It left the once-united Illyria partitioned, carved up between our Empire and Constantinople after years of attrition. Though peace was restored, the treaty is regarded in the West as a humiliation — a half-measure born of exhaustion rather than victory."
 
-WRE_revisit_the_treaty_of_belgrade:0 "Перегляд Белградського договору"
-WRE_revisit_the_treaty_of_belgrade_desc:0 "Белградський договір, підписаний у 1926 році, поклав край кривавій іллірійській війні між Сходом і Заходом. Він залишив колись єдину Іллірію розділеною між нашою імперією та Константинополем після років виснаження. Хоча мир було відновлено, на Заході договір вважають приниженням — половинчастим заходом, народженим від виснаження, а не перемоги."
+ WRE_the_diplomatic_solution:0 "The Diplomatic Solution"
+ WRE_the_diplomatic_solution_desc:0 "Lorenzo must pursue foreign affairs of the Western Roman Empire, whether he likes it or not. He must guide our eternal empire toward different paths, one that leads to peace with Constantinople, or inevitable war..."
 
-WRE_the_diplomatic_solution:0 "Дипломатичне рішення"
-WRE_the_diplomatic_solution_desc:0 "Лоренцо повинен займатися зовнішніми справами Західної Римської Імперії, хоче він того чи ні. Він має спрямувати нашу вічну імперію різними шляхами: до миру з Константинополем або до неминучої війни..."
+ WRE_aggressive_diplomacy:0 "Aggressive Diplomacy"
+ WRE_aggressive_diplomacy_desc:0 "Our Eastern brothers believe patience and subtlety will preserve the Empire. We in the West know that only strength and intimidation keep borders secure. By openly pursuing a policy of threats and demands, we remind both allies and enemies that Rome is still to be feared."
 
-WRE_aggressive_diplomacy:0 "Агресивна дипломатія"
-WRE_aggressive_diplomacy_desc:0 "Наші східні брати вірять, що терпіння та тонкість збережуть імперію. Ми на Заході знаємо, що лише сила та залякування забезпечують безпеку кордонів. Відкрито проводячи політику погроз і вимог, ми нагадаємо союзникам і ворогам, що Риму ще варто боятися."
+ WRE_force_constantinoples_hand:0 "Force Constantinople’s Hand"
+ WRE_force_constantinoples_hand_desc:0 "The Eastern Roman Empire must be made to choose — cooperation with us or open confrontation. By pressuring them militarily and diplomatically, we will ensure their submission to Western policy."
 
-WRE_force_constantinoples_hand:0 "Примус Константинополя"
-WRE_force_constantinoples_hand_desc:0 "Східну Римську Імперію потрібно змусити вибрати — співпраця з нами чи відкрите протистояння. Військовим і дипломатичним тиском ми забезпечимо їхню покору західній політиці."
+ WRE_man_border_postings:0 "Man the Border Postings"
+ WRE_man_border_postings_desc:0 "The Rhine, the Alps, and the Danube — our legions must guard them all. By deploying new equipment and fresh divisions, we prepare to meet any incursion head-on."
 
-WRE_man_border_postings:0 "Охорона прикордонних постів"
-WRE_man_border_postings_desc:0 "Рейн, Альпи та Дунай — усі вони мають бути захищені нашими легіонами. Розгортаючи нове обладнання та свіжі дивізії, ми підготуємося до відбиття будь-якого вторгнення."
+ WRE_initiate_border_conflicts:0 "Initiate Border Conflicts"
+ WRE_initiate_border_conflicts_desc:0 "Border skirmishes are a time-honored Roman tradition. By escalating patrols into organized clashes, we test our enemy’s readiness and give our soldiers valuable experience."
 
-WRE_initiate_border_conflicts:0 "Ініціювання прикордонних конфліктів"
-WRE_initiate_border_conflicts_desc:0 "Прикордонні сутички — це почесна римська традиція. Ескалація патрулів у організовані зіткнення дозволить перевірити готовність ворога та дасть нашим солдатам цінний досвід."
+ WRE_the_belgrade_incident:0 "The Belgrade Incident"
+ WRE_the_belgrade_incident_desc:0 "Tensions boil over in Illyria. A manufactured crisis in Belgrade will give us the justification we need to openly declare war on Constantinople and pursue our vision of a united Rome."
 
-WRE_the_belgrade_incident:0 "Белградський інцидент"
-WRE_the_belgrade_incident_desc:0 "Напруга в Іллірії досягає точки кипіння. Сфабрикована криза в Белграді дасть нам необхідне виправдання для відкритої війни з Константинополем і реалізації нашого бачення єдиного Риму."
+ WRE_west_roman_warfare:0 "West Roman Warfare"
+ WRE_west_roman_warfare_desc:0 "Our style of war differs from the East. We value decisive blows, heavy armor, and modern tactics. By codifying our methods, the Western way of war shall dominate the Empire once again."
 
-WRE_west_roman_warfare:0 "Західноримська війна"
-WRE_west_roman_warfare_desc:0 "Наш стиль війни відрізняється від східного. Ми цінуємо рішучі удари, важку броню та сучасні тактики. Кодифікуючи наші методи, західний спосіб війни знову домінуватиме в імперії."
+ WRE_bastico_plan:0 "The Bastico Plan"
+ WRE_bastico_plan_desc:0 "General Bastico proposes a comprehensive restructuring of the legions, emphasizing doctrine reform and modern organization. Though costly, it may be the blueprint for a resurgent Western military machine."
 
-WRE_bastico_plan:0 "План Бастіко"
-WRE_bastico_plan_desc:0 "Генерал Бастіко пропонує комплексну реструктуризацію легіонів, наголошуючи на реформі доктрин і сучасній організації. Хоча це дорого, це може стати планом для відродження західної військової машини."
+ WRE_mechanised_warfare:0 "Mechanised Warfare"
+ WRE_mechanised_warfare_desc:0 "The future of Rome lies not in tired infantry columns but in mechanized legions. With armored carriers and motorized formations, we will restore the thunder of Roman legions across Europe."
 
-WRE_mechanised_warfare:0 "Механізована війна"
-WRE_mechanised_warfare_desc:0 "Майбутнє Риму — не в стомлених піхотних колонах, а в механізованих легіонах. З броньованими транспортерами та моторизованими формуваннями ми відновимо грім римських легіонів по всій Європі."
+ WRE_mastering_tank_tech:0 "Mastering Tank Technology"
+ WRE_mastering_tank_tech_desc:0 "Our engineers have studied foreign tanks and armored warfare doctrines. Now we must surpass them, producing uniquely Roman armored designs that will spearhead our future conquests."
 
-WRE_mastering_tank_tech:0 "Опанування танкових технологій"
-WRE_mastering_tank_tech_desc:0 "Наші інженери вивчили іноземні танки та доктрини броньованої війни. Тепер ми повинні перевершити їх, створюючи унікальні римські броньовані конструкції, які очолять наші майбутні завоювання."
+ WRE_light_warfare:0 "Light Warfare"
+ WRE_light_warfare_desc:0 "Speed, mobility, and agility — the tools of victory for light armored formations. By refining our doctrines, we can outmaneuver heavier but slower enemies."
 
-WRE_light_warfare:0 "Легка війна"
-WRE_light_warfare_desc:0 "Швидкість, мобільність і маневреність — інструменти перемоги для легких броньованих формувань. Удосконалюючи наші доктрини, ми зможемо обійти важчих, але повільніших ворогів."
+ WRE_the_art_of_mechanised_warfare:0 "The Art of Mechanised Warfare"
+ WRE_the_art_of_mechanised_warfare_desc:0 "Combining armor, infantry, and support into one seamless machine — this is the art of modern mechanised warfare. Our legions will become juggernauts, unstoppable and disciplined."
 
-WRE_the_art_of_mechanised_warfare:0 "Мистецтво механізованої війни"
-WRE_the_art_of_mechanised_warfare_desc:0 "Поєднання броні, піхоти та підтримки в одну бездоганну машину — це мистецтво сучасної механізованої війни. Наші легіони стануть гігантськими, нестримними та дисциплінованими."
+ WRE_the_art_of_light_warfare:0 "The Art of Light Warfare"
+ WRE_the_art_of_light_warfare_desc:0 "Some battles are not won through brute force, but through cunning maneuvers and rapid exploitation. Light divisions will be our spearpoints, striking where the enemy least expects."
 
-WRE_the_art_of_light_warfare:0 "Мистецтво легкої війни"
-WRE_the_art_of_light_warfare_desc:0 "Деякі битви виграються не грубою силою, а хитрими маневрами та швидким використанням можливостей. Легкі дивізії стануть нашими вістрями, що б'ють там, де ворог найменше очікує."
+ WRE_the_roman_mind:0 "The Roman Mind"
+ WRE_the_roman_mind_desc:0 "Our military genius is not in copying foreign doctrines, but in adapting them to Roman discipline. The Roman mind has always been the greatest weapon of our people — and it will be again."
 
-WRE_the_roman_mind:0 "Римський розум"
-WRE_the_roman_mind_desc:0 "Наш військовий геній полягає не в копіюванні іноземних доктрин, а в адаптації їх до римської дисципліни. Римський розум завжди був найвеличнішою зброєю нашого народу — і буде знову."
+ WRE_graziani_plan:0 "The Graziani Plan"
+ WRE_graziani_plan_desc:0 "General Graziani calls for aggressive expansion of infantry forces and the adoption of new doctrines to exploit manpower advantages. His plan envisions massive, disciplined legions dominating the battlefield."
 
-WRE_graziani_plan:0 "План Граціані"
-WRE_graziani_plan_desc:0 "Генерал Граціані закликає до агресивного розширення піхотних сил і прийняття нових доктрин для використання переваг у живій силі. Його план передбачає величезні, дисципліновані легіони, що домінують на полі бою."
+ WRE_deep_battle_warfare:0 "Deep Battle Warfare"
+ WRE_deep_battle_warfare_desc:0 "Rather than win battles piecemeal, we will strike deep, overwhelming the enemy’s lines and dismantling their capacity to fight. This is a doctrine of annihilation, not attrition."
 
-WRE_deep_battle_warfare:0 "Глибока бойова війна"
-WRE_deep_battle_warfare_desc:0 "Замість перемог у боях по частинах ми вдаримо глибоко, приголомшуючи ворожі лінії та знищуючи їхню здатність воювати. Це доктрина знищення, а не виснаження."
+ WRE_new_infantry_tech:0 "New Infantry Technologies"
+ WRE_new_infantry_tech_desc:0 "The legionary of tomorrow must be equipped with modern rifles, machine guns, and tactical knowledge. By embracing technological progress, our infantry can once again be the backbone of Rome."
 
-WRE_new_infantry_tech:0 "Нові піхотні технології"
-WRE_new_infantry_tech_desc:0 "Легіонер завтрашнього дня має бути оснащений сучасними гвинтівками, кулеметами та тактичними знаннями. Приймаючи технологічний прогрес, наша піхота знову стане основою Риму."
+ WRE_artillery_bombardment:0 "Artillery Bombardment"
+ WRE_artillery_bombardment_desc:0 "The legions of old had their catapults and ballistae. Ours shall have the thunder of modern artillery. With devastating barrages, the enemy will crumble before our advance."
 
-WRE_artillery_bombardment:0 "Артилерійське бомбардування"
-WRE_artillery_bombardment_desc:0 "Легіони минулого мали свої катапульти та балісти. Наші матимуть грім сучасної артилерії. З нищівними обстрілами ворог розвалиться перед нашим наступом."
+ WRE_the_art_of_deep_battle_warfare:0 "The Art of Deep Battle"
+ WRE_the_art_of_deep_battle_warfare_desc:0 "Deep Battle is not merely a tactic, but a philosophy. By training elite troops and refining doctrines, we will perfect the art of crushing our foes in decisive campaigns."
 
-WRE_the_art_of_deep_battle:0 "Мистецтво глибокої битви"
-WRE_the_art_of_deep_battle_desc:0 "Глибока битва — це не просто тактика, а філософія. Навчаючи елітні війська та вдосконалюючи доктрини, ми вдосконалимо мистецтво знищення ворогів у вирішальних кампаніях."
+ WRE_art_of_artillery:0 "The Art of Artillery"
+ WRE_art_of_artillery_desc:0 "Artillery is more than firepower — it is the hammer that shapes the battlefield. By mastering its use, our legions will wield fire and steel as extensions of Roman will."
 
-WRE_art_of_artillery:0 "Мистецтво артилерії"
-WRE_art_of_artillery_desc:0 "Артилерія — це більше, ніж вогнева міць, це молот, що формує поле бою. Опанувавши її використання, наші легіони володітимуть вогнем і сталлю як продовженням римської волі."
+ WRE_the_roman_legacy:0 "The Roman Legacy"
+ WRE_the_roman_legacy_desc:0 "Rome has survived for centuries, adapting and enduring through every challenge. Now we shall forge a military legacy equal to our forebears — a legacy to dominate the modern world."
 
-WRE_the_roman_legacy:0 "Римська спадщина"
-WRE_the_roman_legacy_desc:0 "Рим виживав століттями, адаптуючись і витримуючи кожне випробування. Тепер ми викуємо військову спадщину, гідну наших предків — спадщину, що домінуватиме в сучасному світі."
+ WRE_one_empire_one_emperor:0 "One Empire, One Emperor"
+ WRE_one_empire_one_emperor_desc:0 "The division of East and West was always a temporary compromise. Now, after centuries, the dream of uniting the Empire under one banner and one Emperor can finally be achieved. The world shall once again bow to Rome."
 
-WRE_one_empire_one_emperor:0 "Одна імперія, один імператор"
-WRE_one_empire_one_emperor_desc:0 "Розділення Сходу та Заходу завжди було тимчасовим компромісом. Тепер, після століть, мрія об'єднання імперії під одним прапором і одним імператором нарешті може бути досягнута. Світ знову вклониться Риму."
+ WRE_recovery_directive_66:0 "Recovery Directive 66"
+ WRE_recovery_directive_66_desc:0 "The war has scarred our lands, and the West Roman economy remains fractured. Directive 66 orders the immediate restoration of key infrastructure, reconnecting cities and provinces to ensure Rome may rise again."
 
-WRE_recovery_directive_66:0 "Директива відновлення 66"
-WRE_recovery_directive_66_desc:0 "Війна залишила шрами на наших землях, а економіка Західного Риму залишається роздробленою. Директива 66 наказує негайне відновлення ключової інфраструктури, з'єднуючи міста та провінції, щоб Рим міг відродитися."
+ WRE_development_plan_north:0 "Development Plan: North"
+ WRE_development_plan_north_desc:0 "The northern provinces, rich in resources and manpower, must be revitalised. By directing new investments and opening land for construction, we will transform these regions into pillars of Roman industry."
 
-WRE_development_plan_north:0 "План розвитку: Північ"
-WRE_development_plan_north_desc:0 "Північні провінції, багаті на ресурси та робочу силу, мають бути відроджені. Спрямовуючи нові інвестиції та відкриваючи землі для будівництва, ми перетворимо ці регіони на стовпи римської промисловості."
+ WRE_invest_in_the_steel_companies:0 "Invest in the Steel Companies"
+ WRE_invest_in_the_steel_companies_desc:0 "Steel is the backbone of modern power. By expanding and modernising our steel companies, we guarantee that Rome’s armies and factories will never lack the resources to forge victory."
 
-WRE_invest_in_the_steel_companies:0 "Інвестиції в сталеливарні компанії"
-WRE_invest_in_the_steel_companies_desc:0 "Сталь — це хребет сучасної сили. Розширюючи та модернізуючи наші сталеливарні компанії, ми гарантуємо, що армії та заводи Риму ніколи не бракуватимуть ресурсів для кування перемоги."
+ WRE_development_plan_south:0 "Development Plan: South"
+ WRE_development_plan_south_desc:0 "The southern territories have long been neglected, yet their potential is vast. By channelling resources into their development, we will open new opportunities for growth and prosperity."
 
-WRE_development_plan_south:0 "План розвитку: Південь"
-WRE_development_plan_south_desc:0 "Південні території довго залишалися занедбаними, але їхній потенціал величезний. Спрямовуючи ресурси на їхній розвиток, ми відкриємо нові можливості для зростання та процвітання."
+ WRE_invest_in_the_aluminum_companies:0 "Invest in the Aluminum Companies"
+ WRE_invest_in_the_aluminum_companies_desc:0 "Aluminum is vital for modern aircraft production and industrial expansion. By strengthening our southern aluminum industry, we secure the skies for West Rome."
 
-WRE_invest_in_the_aluminum_companies:0 "Інвестиції в алюмінієві компанії"
-WRE_invest_in_the_aluminum_companies_desc:0 "Алюміній життєво важливий для виробництва сучасних літаків і промислового розширення. Зміцнюючи нашу південну алюмінієву промисловість, ми забезпечимо небо для Західного Риму."
+ WRE_development_plan_west:0 "Development Plan: West"
+ WRE_development_plan_west_desc:0 "The western provinces are the heartland of our empire. A grand plan of urban expansion and industrial reform will ensure these lands shine as Rome’s greatest beacon of recovery."
 
-WRE_development_plan_west:0 "План розвитку: Захід"
-WRE_development_plan_west_desc:0 "Західні провінції — серце нашої імперії. Великий план міського розширення та промислової реформи забезпечить, що ці землі сяятимуть як найбільший маяк відродження Риму."
+ WRE_military_industrial_complex:0 "The Military-Industrial Complex"
+ WRE_military_industrial_complex_desc:0 "Rome’s security depends on the strength of her arms. We will unite industry and the military into a single engine of war, producing the weapons and factories required to defend and expand our realm."
 
-WRE_military_industrial_complex:0 "Військово-промисловий комплекс"
-WRE_military_industrial_complex_desc:0 "Безпека Риму залежить від сили її зброї. Ми об'єднаємо промисловість і армію в єдиний двигун війни, виробляючи зброю та заводи, необхідні для захисту та розширення нашого царства."
+ WRE_civilian_industrial_complex:0 "The Civilian Industrial Complex"
+ WRE_civilian_industrial_complex_desc:0 "Rome cannot survive on war alone. By expanding our civilian industrial base, we provide the people with jobs, stability, and the consumer goods that strengthen national unity."
 
-WRE_civilian_industrial_complex:0 "Цивільний промисловий комплекс"
-WRE_civilian_industrial_complex_desc:0 "Рим не може вижити лише на війні. Розширюючи нашу цивільну промислову базу, ми забезпечимо людей робочими місцями, стабільністю та споживчими товарами, які зміцнюють національну єдність."
+ WRE_awakening_the_roman_industrial_giant:0 "Awakening the Roman Industrial Giant"
+ WRE_awakening_the_roman_industrial_giant_desc:0 "With our industries unified, our infrastructure restored, and our resources harnessed, Rome’s industrial might will awaken in full. The world will once again tremble before the economic power of the Eternal Empire."
 
-WRE_awakening_the_roman_industrial_giant:0 "Пробудження римського промислового гіганта"
-WRE_awakening_the_roman_industrial_giant_desc:0 "З об'єднаними галузями, відновленою інфраструктурою та використаними ресурсами промислова міць Риму повністю прокинеться. Світ знову тремтітиме перед економічною силою Вічної Імперії."
+ WRE_the_lorenzean_era:0 "The Lorenzean Era"
+ WRE_the_lorenzean_era_desc:0 "Lorenzo rises as Emperor, ushering in a new age of centralized power and stability for the Empire."
 
-WRE_the_lorenzean_era:0 "Ера Лоренцо"
-WRE_the_lorenzean_era_desc:0 "Лоренцо постає як імператор, відкриваючи нову еру централізованої влади та стабільності для імперії."
+ WRE_operation_francia:0 "Operation Francia"
+ WRE_operation_francia_desc:0 "Francia, once the heartland of Western Europe, now stands defiant against the reborn Roman Empire. Their pretensions to continental dominance cannot coexist with our divine mission. Operation Francia will bring their proud republics and kingdoms under the true banner of civilization. Let their legions remember who taught them empire."
 
-WRE_operation_francia:0 "Операція 'Франція'"
-WRE_operation_francia_desc:0 "Франція, колись серце Західної Європи, тепер кидає виклик відродженій Римській Імперії. Їхні претензії на континентальне панування не можуть співіснувати з нашою божественною місією. Операція 'Франція' приведе їхні горді республіки та королівства під справжній прапор цивілізації. Нехай їхні легіони згадають, хто навчив їх імперії."
+ WRE_operation_sunset:0 "Operation Sunset"
+ WRE_operation_sunset_desc:0 "To the far east lies the Empire of the Setting Sun — heirs to an ancient warrior code and the last great naval power beyond Rome’s reach. Yet even the sun must bow to the horizon of eternity. Operation Sunset will bring the islands of the Far East into the embrace of Imperial order and fulfill the dream of a world united beneath the twin eagles."
 
-WRE_operation_sunset:0 "Операція 'Захід сонця'"
-WRE_operation_sunset_desc:0 "На далекому сході лежить Імперія Сонця, що заходить — спадкоємці стародавнього воїнського кодексу та остання велика морська сила поза досяжністю Риму. Але навіть сонце мусить схилитися перед горизонтом вічності. Операція 'Захід сонця' приведе острови Далекого Сходу в обійми імперського порядку та здійснить мрію про світ, об'єднаний під двома орлами."
+ WRE_operation_storm:0 "Operation Storm"
+ WRE_operation_storm_desc:0 "The Teutonic Empire to the north once tore at Rome’s borders with steel and flame. They have long considered themselves heirs to our legacy — imitators of imperial grandeur. Now, they shall face the storm of the true Rome reborn. Operation Storm will strike swiftly across the Rhine and bring their false empire to its knees."
 
-WRE_operation_storm:0 "Операція 'Буря'"
-WRE_operation_storm_desc:0 "Тевтонська імперія на півночі колись роздирала кордони Риму сталлю та полум'ям. Вони довго вважали себе спадкоємцями нашої величі — імітацією імперської слави. Тепер вони зіткнуться з бурею справжнього відродженого Риму. Операція 'Буря' швидко вдарить через Рейн і поставить їхню фальшиву імперію на коліна."
+ WRE_operation_turtle:0 "Operation Turtle"
+ WRE_operation_turtle_desc:0 "The Persian Empire — ancient rival, eternal shadow. Since the days of the Caesars, Persia has stood as Rome’s mirror in the East. Operation Turtle will finally end that age-old rivalry. Our legions will cross the deserts and mountains once more, bringing Roman law and order to the lands of Cyrus and Darius."
 
-WRE_operation_turtle:0 "Операція 'Черепаха'"
-WRE_operation_turtle_desc:0 "Перська імперія — давній суперник, вічна тінь. Від часів Цезарів Персія була дзеркалом Риму на Сході. Операція 'Черепаха' нарешті покладе край цьому віковому суперництву. Наші легіони знову перетнуть пустелі та гори, несучи римський закон і порядок у землі Кіра та Дарія."
+ WRE_operation_shovel:0 "Operation Shovel"
+ WRE_operation_shovel_desc:0 "In the cold heart of the north, the Russian dominion rises — vast, unyielding, and convinced of its divine right to rule. But no kingdom of man stands eternal before Rome. Operation Shovel will dig deep into the steppes and sweep away the old world, replacing it with a single, indivisible Empire stretching from the Atlantic to the Urals."
 
-WRE_operation_shovel:0 "Операція 'Лопата'"
-WRE_operation_shovel_desc:0 "У холодному серці півночі піднімається російське панування — величезне, непохитне та переконане у своєму божественному праві правити. Але жодне людське королівство не стоїть вічно перед Римом. Операція 'Лопата' глибоко вріжеться в степи та змете старий світ, замінивши його єдиною, неподільною імперією від Атлантики до Уралу."
+ WRE_the_final_war:0 "The Final War"
+ WRE_the_final_war_desc:0 "The world stands on the edge of its last great conflict. Rome has united her allies, forged her legions, and raised her banners one final time. The Emperor proclaims: this shall be the last war mankind will ever wage. When it ends, no borders shall divide us, no crowns shall rival ours — for Rome shall be the world itself."
 
-WRE_the_final_war:0 "Остання війна"
-WRE_the_final_war_desc:0 "Світ стоїть на межі останнього великого конфлікту. Рим об'єднав своїх союзників, викував свої легіони та підняв свої прапори востаннє. Імператор проголошує: це буде остання війна, яку людство коли-небудь вело. Коли вона закінчиться, жодні кордони не розділятимуть нас, жодні корони не змагатимуться з нашою — адже Рим стане самим світом."
+
+

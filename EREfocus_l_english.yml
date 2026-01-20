@@ -1,471 +1,485 @@
 ﻿l_english:
 
-#Я є*бав цю нецікаву країхни перекладаьт. ШІ сам все зробив. Редагування потребує
+ ERE_test:0 "Test Focus"
+ ERE_test_desc:0 "EAST ROMAN SUPREMACY!"
+ 
+ ERE_test2:0 "Test Focus 2"
+ ERE_test2_desc:0 "EAST ROMAN SUPREMACY 2222222"
 
-ERE_test:0 "Тестовий фокус"
-ERE_test_desc:0 "ПЕРЕВАГА СХІДНОГО РИМУ!"
+ ERE_coorporatewithwest:0 "Reapproach the West"
+ ERE_coorporatewithwest_desc:0 "Diplomatic overtures are extended to the Western 'Romans'. Cooperation may yet restore unity and strength before the storm breaks."
 
-ERE_test2:0 "Тестовий фокус 2"
-ERE_test2_desc:0 "ПЕРЕВАГА СХІДНОГО РИМУ 2222222"
+ ERE_rallyunificationmovements:0 "Rally Unification Movements"
+ ERE_rallyunificationmovements_desc:0 "Across the empire, voices call for reunification. We shall amplify them, forging a pan-Roman identity to rally our people."
 
-ERE_coorporatewithwest:0 "Зближення із Заходом"
-ERE_coorporatewithwest_desc:0 "Дипломатичні ініціативи спрямовуються до західних ''римлян''. Співпраця може відновити єдність і силу перед наближенням бурі."
+ ERE_jointmilitaryexcerises:0 "Joint Military Excersises"
+ ERE_jointmilitaryexcerises_desc:0 "Joint drills with Western forces will strengthen coordination and prepare our legions for the trials of modern warfare."
 
-ERE_rallyunificationmovements:0 "Підтримка рухів за об'єднання"
-ERE_rallyunificationmovements_desc:0 "По всій імперії лунають заклики до возз'єднання. Ми підтримаємо їх, формуючи загальноримську ідентичність, щоб згуртувати наш народ."
+ ERE_rebuildromanroads:0 "Rebuild Roman Roads"
+ ERE_rebuildromanroads_desc:0 "The ancient arteries of empire must be restored. Revitalising our infrastructure will ensure swift mobilization and economic resilience."
+ 
+ ERE_revitalisebothromes:0 "Revitalise Both Romes"
+ ERE_revitalisebothromes_desc:0 "From Constantinople to Rome, the twin hearts of empire must beat as one. Cultural and administrative renewal will bind East and West."
 
-ERE_jointmilitaryexcerises:0 "Спільні військові навчання"
-ERE_jointmilitaryexcerises_desc:0 "Спільні навчання із західними силами посилять координацію та підготують наші легіони до випробувань сучасної війни."
+ ERE_mendtheschism:0 "Mend the Schism"
+ ERE_mendtheschism_desc:0 "The divide between churches has long weakened our unity. A bold initiative to reconcile faiths may heal centuries of discord."
 
-ERE_rebuildromanroads:0 "Відновлення римських доріг"
-ERE_rebuildromanroads_desc:0 "Стародавні артерії імперії мають бути відновлені. Відродження інфраструктури забезпечить швидку мобілізацію та економічну стійкість."
+ ERE_rectifythealliance:0 "Rectify the Alliance"
+ ERE_rectifythealliance_desc:0 "The alliance has faltered, strained by years of mistrust and divergent goals. It is time to restore its foundations and redefine our shared purpose."
 
-ERE_revitalisebothromes:0 "Відродження обох Римів"
-ERE_revitalisebothromes_desc:0 "Від Константинополя до Риму два серця імперії мають битися як одне. Культурне та адміністративне оновлення об'єднає Схід і Захід."
+ ERE_theromanleague:0 "The Roman League"
+ ERE_theromanleague_desc:0 "The time has come to unite all Roman-aligned states under a single banner. East and West shall stand together once more, bound by legacy, strength, and the promise of a restored empire."
 
-ERE_mendtheschism:0 "Подолання розколу"
-ERE_mendtheschism_desc:0 "Розкол між церквами довго послаблював нашу єдність. Смілива ініціатива з примирення віри може зцілити століття розбрату."
+ ERE_militarysupportforWRE:0 "Military Support for the West"
+ ERE_militarysupportforWRE_desc:0 "In the spirit of imperial unity, we shall extend military aid to our Western brethren. Our legions will bolster their defenses, and our officers will guide their armies. Together, we may yet restore the glory of Rome."
 
-ERE_rectifythealliance:0 "Відновлення альянсу"
-ERE_rectifythealliance_desc:0 "Альянс похитнувся через роки недовіри та розбіжних цілей. Настав час відновити його основи та переосмислити нашу спільну мету."
+ ERE_buildfortsinsouthillyria:0 "Forts in South Illyria"
+ ERE_buildfortsinsouthillyria_desc:0 "South Illyria remains a vulnerable frontier. By constructing a network of fortified positions, we shall secure the region against barbarian incursions and Western instability."
 
-ERE_theromanleague:0 "Римська Ліга"
-ERE_theromanleague_desc:0 "Настав час об'єднати всі римські держави під єдиним прапором. Схід і Захід знову стоятимуть разом, пов'язані спадщиною, силою та обіцянкою відновленої імперії."
+ ERE_garrisonnorthafricanfrontier:0 "Garrison North Africa"
+ ERE_garrisonnorthafricanfrontier_desc:0 "The deserts and coasts of North Africa are vital to our imperial supply lines. A permanent garrison will ensure stability, suppress unrest, and project power across the southern Mediterranean."
 
-ERE_militarysupportforWRE:0 "Військова підтримка Заходу"
-ERE_militarysupportforWRE_desc:0 "У дусі імперської єдності ми надамо військову допомогу нашим західним братам. Наші легіони підсилять їхню оборону, а наші офіцери керуватимуть їхніми арміями. Разом ми ще можемо відновити славу Риму."
+ ERE_rapidarmyexpansion:0 "Rapid Army Expansion"
+ ERE_rapidarmyexpansion_desc:0 "The threats we face demand swift and decisive action. We must expand our army at an accelerated pace, recruiting and training new legions to defend the empire’s borders and interests."
 
-ERE_buildfortsinsouthillyria:0 "Фортеці в Південній Іллірії"
-ERE_buildfortsinsouthillyria_desc:0 "Південна Іллірія залишається вразливим рубежем. Створення мережі укріплених позицій захистить регіон від варварських вторгнень і західної нестабільності."
+ ERE_formaliseintelligencering:0 "Formalise Intelligence Ring"
+ ERE_formaliseintelligencering_desc:0 "Our intelligence efforts have long operated in the shadows. It is time to formalise these networks into a cohesive ring of agents, analysts, and operatives loyal to the imperial cause."
 
-ERE_garrisonnorthafricanfrontier:0 "Гарнізон у Північній Африці"
-ERE_garrisonnorthafricanfrontier_desc:0 "Пустелі та узбережжя Північної Африки є життєво важливими для наших імперських ліній постачання. Постійний гарнізон забезпечить стабільність, придушить заворушення та посилить нашу владу в південному Середземномор'ї."
+ ERE_formthe:0 "Form Department"
+ ERE_formthe_desc:0 "To coordinate our covert operations, we shall establish a dedicated department tasked with espionage, counterintelligence, and strategic deception. The enemies of Rome will never see us coming."
 
-ERE_rapidarmyexpansion:0 "Швидке розширення армії"
-ERE_rapidarmyexpansion_desc:0 "Загрози, з якими ми стикаємося, вимагають швидких і рішучих дій. Ми повинні прискорено розширити нашу армію, набираючи та тренуючи нові легіони для захисту кордонів та інтересів імперії."
+ ERE_effectiveoperations:0 "Effective Operations"
+ ERE_effectiveoperations_desc:0 "With our intelligence apparatus refined, we can now execute operations with precision and efficiency. Sabotage, infiltration, and subversion will become tools of imperial policy."
 
-ERE_formaliseintelligencering:0 "Формалізація розвідувальної мережі"
-ERE_formaliseintelligencering_desc:0 "Наші розвідувальні зусилля довго діяли в тіні. Настав час формалізувати ці мережі в єдину систему агентів, аналітиків і оперативників, вірних імперській справі."
+ ERE_agentsinalltheatres:0 "Agents in All Theatres"
+ ERE_agentsinalltheatres_desc:0 "From the sands of Africa to the forests of Germania, our agents will operate in every theatre. Their eyes and ears will guide our decisions, and their hands will shape the fate of nations."
 
-ERE_formthe:0 "Створення департаменту"
-ERE_formthe_desc:0 "Для координації наших таємних операцій ми створимо спеціальний департамент, відповідальний за шпигунство, контррозвідку та стратегічний обман. Вороги Риму ніколи не побачать нас."
+ ERE_consolidateintheeast:0 "Consolidate in the East"
+ ERE_consolidateintheeast_desc:0 "The West is a lost cause, we must now secure the heart of our empire. By consolidating our holdings in the East, we ensure stability, prosperity, and a strong foundation for future ambitions."
 
-ERE_effectiveoperations:0 "Ефективні операції"
-ERE_effectiveoperations_desc:0 "З удосконаленим розвідувальним апаратом ми можемо виконувати операції з точністю та ефективністю. Саботаж, проникнення та підрив стануть інструментами імперської політики."
+ ERE_centralisedcommand:0 "Centralised Command"
+ ERE_centralisedcommand_desc:0 "Fragmented authority has weakened our military response. By centralising command under a unified structure, we ensure swift coordination and decisive action across all fronts."
 
-ERE_agentsinalltheatres:0 "Агенти на всіх театрах"
-ERE_agentsinalltheatres_desc:0 "Від пісків Африки до лісів Германії наші агенти діятимуть на всіх театрах. Їхні очі та вуха керуватимуть нашими рішеннями, а їхні руки формуватимуть долю народів."
+ ERE_homelegions:0 "Home Legions"
+ ERE_homelegions_desc:0 "The people must become the shield of the Empire. By forming Home Legions from local citizens, we prepare every province for defense, turning villages into bastions of resistance."
 
-ERE_consolidateintheeast:0 "Консолідація на Сході"
-ERE_consolidateintheeast_desc:0 "Захід — втрачена справа, ми повинні забезпечити серце нашої імперії. Консолідація наших володінь на Сході забезпечить стабільність, процвітання та міцну основу для майбутніх амбіцій."
+ ERE_protectnorthborder:0 "Protect Our Northern Border"
+ ERE_protectnorthborder_desc:0 "The northern frontier is vulnerable to incursion. Reinforcing this border with troops and fortifications will deter aggression and buy us time to mobilise."
 
-ERE_centralisedcommand:0 "Централізоване командування"
-ERE_centralisedcommand_desc:0 "Фрагментована влада послабила нашу військову реакцію. Централізація командування під єдиною структурою забезпечить швидку координацію та рішучі дії на всіх фронтах."
+ ERE_protectcoastal:0 "Protect Our Coast"
+ ERE_protectcoastal_desc:0 "Our coasts are gateways to both trade and invasion. Naval patrols, coastal batteries, and fortified ports will safeguard our shores from enemy fleets."
 
-ERE_homelegions:0 "Домашні легіони"
-ERE_homelegions_desc:0 "Народ має стати щитом імперії. Формуючи домашні легіони з місцевих громадян, ми підготуємо кожну провінцію до оборони, перетворюючи села на бастіони опору."
+ ERE_rallythepeople:0 "Rally The People"
+ ERE_rallythepeople_desc:0 "The Empire stands only as long as its people do. Through speeches, symbols, and shared purpose, we will ignite the spirit of unity and resilience across every province."
 
-ERE_protectnorthborder:0 "Захист північного кордону"
-ERE_protectnorthborder_desc:0 "Північний кордон вразливий до вторгнень. Посилення цього кордону військами та укріпленнями стримає агресію та дасть нам час на мобілізацію."
+ ERE_protectconstantinople:0 "Protect Constantinople"
+ ERE_protectconstantinople_desc:0 "Constantinople is the heart of our realm. We must fortify its walls, secure its supply lines, and ensure its survival—no matter the cost."
 
-ERE_protectcoastal:0 "Захист узбережжя"
-ERE_protectcoastal_desc:0 "Наші узбережжя — це ворота до торгівлі та вторгнень. Морські патрулі, берегові батареї та укріплені порти захистять наші береги від ворожих флотів."
+ ERE_protectourskies:0 "Protect Our Skies"
+ ERE_protectourskies_desc:0 "The war planes of the enemies of Rome will be shot down if they dare enter within our airspace of Constantinople."
 
-ERE_rallythepeople:0 "Згуртувати народ"
-ERE_rallythepeople_desc:0 "Імперія стоїть лише доти, доки стоїть її народ. Через промови, символи та спільну мету ми розпалимо дух єдності та стійкості в кожній провінції."
+ ERE_theroadtowar:0 "The Road To War"
+ ERE_theroadtowar_desc:0 "The Teutonic Empire sharpens its blades. War is inevitable. We must prepare our armies, reinforce our borders, and ready our people for the storm that approaches."
 
-ERE_protectconstantinople:0 "Захист Константинополя"
-ERE_protectconstantinople_desc:0 "Константинополь — серце нашого царства. Ми повинні укріпити його мури, забезпечити лінії постачання та гарантувати його виживання — за будь-яку ціну."
+ ERE_assistourchinesebrothers:0 "Assist Our Chinese Brothers"
+ ERE_assistourchinesebrothers_desc:0 "The Chinese Empire always stood with us and as ancient eternal brothers, we shall extend our hand in solidarity, offering diplomatic and logistical support in their time of need."
 
-ERE_protectourskies:0 "Захист нашого неба"
-ERE_protectourskies_desc:0 "Ворожі літаки, що наважаться увійти в наш повітряний простір над Константинополем, будуть збиті."
+ ERE_limitedintervention:0 "Limited Intervention"
+ ERE_limitedintervention_desc:0 "While avoiding full entanglement, we can provide strategic aid—advisors, supplies, and intelligence—to help the Chinese Empire resist the Republican insurgency."
 
-ERE_theroadtowar:0 "Шлях до війни"
-ERE_theroadtowar_desc:0 "Тевтонська імперія гострить свої мечі. Війна неминуча. Ми повинні підготувати наші армії, укріпити кордони та налаштувати народ на бурю, що наближається."
+ ERE_directintervention:0 "Direct Intervention"
+ ERE_directintervention_desc:0 "The time for caution has passed. We will commit forces directly to the conflict, standing shoulder to shoulder with our imperial allies against the southern rebellion."
 
-ERE_assistourchinesebrothers:0 "Допомога нашим китайським братам"
-ERE_assistourchinesebrothers_desc:0 "Китайська імперія завжди стояла поруч із нами, і як давні вічні брати ми протягнемо руку солідарності, надаючи дипломатичну та логістичну підтримку в час їхньої потреби."
+ ERE_militarysupportforCHI:0 "Military Support for China"
+ ERE_militarysupportforCHI_desc:0 "Our legions will reinforce Chinese positions, supply lines will flow eastward, and our officers will help shape the battlefield. The Empire defends its own."
 
-ERE_limitedintervention:0 "Обмежене втручання"
-ERE_limitedintervention_desc:0 "Уникаючи повного залучення, ми можемо надати стратегічну допомогу — радників, припаси та розвідку — щоб допомогти Китайській імперії протистояти республіканському повстанню."
+ ERE_embargotherepublicans:0 "Embargo the Republicans"
+ ERE_embargotherepublicans_desc:0 "The Republican rebels threaten imperial order. We shall cut off their access to trade, resources, and foreign aid—isolating them economically and diplomatically."
 
-ERE_directintervention:0 "Пряме втручання"
-ERE_directintervention_desc:0 "Час обережності минув. Ми спрямуємо війська безпосередньо в конфлікт, стоячи пліч-о-пліч із нашими імперськими союзниками проти південного повстання."
+ ERE_destroytherepublicanblight:0 "Destroy the Republican Blight"
+ ERE_destroytherepublicanblight_desc:0 "Republicanism is a disease that corrodes civilization. We will eradicate this blight from China, ensuring the survival of imperial authority and the triumph of tradition."
 
-ERE_militarysupportforCHI:0 "Військова підтримка Китаю"
-ERE_militarysupportforCHI_desc:0 "Наші легіони підсилять китайські позиції, лінії постачання потечуть на схід, а наші офіцери допоможуть формувати поле бою. Імперія захищає своїх."
+ ERE_strikewest:0 "Strike West"
+ ERE_strikewest_desc:0 "The time for hesitation is over. We must turn our gaze westward, reclaim lost provinces, and restore Roman authority across the continent. The East shall lead the charge."
 
-ERE_embargotherepublicans:0 "Ембарго республіканців"
-ERE_embargotherepublicans_desc:0 "Республіканські повстанці загрожують імперському порядку. Ми відріжемо їх від торгівлі, ресурсів і іноземної допомоги, ізолюючи їх економічно та дипломатично."
+ ERE_restorethewesternforums:0 "Restore the Western Forums"
+ ERE_restorethewesternforums_desc:0 "The forums of the West once echoed with the voices of emperors and philosophers. Restoring these centers of civic life will rekindle Roman identity and unify our people."
 
-ERE_destroytherepublicanblight:0 "Знищення республіканської загрози"
-ERE_destroytherepublicanblight_desc:0 "Республіканізм — це хвороба, що роз’їдає цивілізацію. Ми викорінимо цю заразу з Китаю, забезпечуючи виживання імперської влади та тріумф традицій."
+ ERE_embracelatinhellenicsolidatry:0 "Embrace Latin Hellenic Solidarity"
+ ERE_embracelatinhellenicsolidatry_desc:0 "Though divided by geography, Latin and Hellenic cultures share a common legacy. We shall embrace this solidarity to forge a stronger, united Roman civilization."
 
-ERE_strikewest:0 "Удар на Захід"
-ERE_strikewest_desc:0 "Час вагань минув. Ми повинні повернути свій погляд на захід, повернути втрачені провінції та відновити римську владу на континенті. Схід очолить наступ."
+ ERE_revivethelegionsofgaul:0 "Revive the Legions of Gaul"
+ ERE_revivethelegionsofgaul_desc:0 "Gaul was once the backbone of imperial defense. By reviving its legions, we restore a proud tradition and reinforce our western military presence."
 
-ERE_restorethewesternforums:0 "Відновлення західних форумів"
-ERE_restorethewesternforums_desc:0 "Форуми Заходу колись гуділи голосами імператорів і філософів. Відновлення цих осередків громадянського життя розпалить римську ідентичність і об'єднає наш народ."
+ ERE_sparktheflameofreconquest:0 "Spark the Flame of Reconquest"
+ ERE_sparktheflameofreconquest_desc:0 "The dream of a united Rome burns still. We shall ignite the flame of reconquest, rallying our forces to reclaim what was lost and punish those who defiled it."
 
-ERE_embracelatinhellenicsolidatry:0 "Солідарність латинської та елліністичної культур"
-ERE_embracelatinhellenicsolidatry_desc:0 "Хоча й розділені географією, латинська та елліністична культури мають спільну спадщину. Ми приймемо цю солідарність, щоб створити сильнішу, об'єднану римську цивілізацію."
+ ERE_protectwestrome:0 "Protect West Rome"
+ ERE_protectwestrome_desc:0 "West Rome remains vulnerable to foreign aggression. We must fortify its defenses and ensure its survival as a symbol of imperial continuity."
 
-ERE_revivethelegionsofgaul:0 "Відродження легіонів Галлії"
-ERE_revivethelegionsofgaul_desc:0 "Галлія колись була основою імперської оборони. Відроджуючи її легіони, ми відновлюємо горду традицію та посилюємо нашу військову присутність на Заході."
+ ERE_marchintohispania:0 "March Into Hispania"
+ ERE_marchintohispania_desc:0 "Hispania was once a jewel of the empire. Our legions will march westward, liberating its lands and restoring Roman governance."
 
-ERE_sparktheflameofreconquest:0 "Розпалити полум'я відвоювання"
-ERE_sparktheflameofreconquest_desc:0 "Мрія про об'єднаний Рим досі палає. Ми розпалимо полум'я відвоювання, згуртувавши наші сили, щоб повернути втрачене та покарати тих, хто його осквернив."
+ ERE_striketheteutonsfirst:0 "Strike the Teutons First"
+ ERE_striketheteutonsfirst_desc:0 "The Teutonic Empire threatens our western ambitions. We must strike first—decisively and without mercy—to secure our path to reunification."
 
-ERE_protectwestrome:0 "Захист Західного Риму"
-ERE_protectwestrome_desc:0 "Західний Рим залишається вразливим до іноземної агресії. Ми повинні укріпити його оборону та забезпечити його виживання як символ імперської спадкоємності."
+ ERE_reclaimbritannia:0 "Reclaim Britainnia"
+ ERE_reclaimbritannia_desc:0 "Britannia, long lost to barbarism, shall be Roman once more. Our forces will cross the channel and restore imperial rule to the island."
 
-ERE_marchintohispania:0 "Марш у Гіспанію"
-ERE_marchintohispania_desc:0 "Гіспанія колись була перлиною імперії. Наші легіони рушать на захід, звільняючи її землі та відновлюючи римське правління."
+ ERE_alphinefortifications:0 "Alphine Fortifications"
+ ERE_alphinefortifications_desc:0 "The Alpine passes are key to our western advance. Fortifying these strategic chokepoints will protect our supply lines and secure our flanks."
 
-ERE_striketheteutonsfirst:0 "Удар по тевтонах першим"
-ERE_striketheteutonsfirst_desc:0 "Тевтонська імперія загрожує нашим західним амбіціям. Ми повинні вдарити першими — рішуче і без милосердя — щоб забезпечити наш шлях до возз'єднання."
+ ERE_romaneurope:0 "Roman Europe"
+ ERE_romaneurope_desc:0 "Europe must be Roman again. Through diplomacy, conquest, and cultural revival, we shall reshape the continent in the image of the empire."
 
-ERE_reclaimbritannia:0 "Відвоювання Британії"
-ERE_reclaimbritannia_desc:0 "Британія, давно втрачена через варварство, знову стане римською. Наші сили перетнуть канал і відновлять імперське правління на острові."
+ ERE_romansolidatry:0 "Roman Solidarity"
+ ERE_romansolidatry_desc:0 "All Roman-aligned states must stand together. By fostering solidarity, we build a coalition rooted in shared heritage and imperial destiny."
 
-ERE_alphinefortifications:0 "Альпійські укріплення"
-ERE_alphinefortifications_desc:0 "Альпійські перевали є ключовими для нашого просування на захід. Укріплення цих стратегічних точок захистить наші лінії постачання та забезпечить наші фланги."
+ ERE_invitewesternindustries:0 "Invite Western Industries"
+ ERE_invitewesternindustries_desc:0 "To rebuild the West, we must harness its industrial potential. By inviting Western enterprises into our fold, we accelerate modernization and foster mutual prosperity under Roman oversight."
 
-ERE_romaneurope:0 "Римська Європа"
-ERE_romaneurope_desc:0 "Європа знову має стати римською. Через дипломатію, завоювання та культурне відродження ми переформатуємо континент за образом імперії."
+ ERE_instilldiscipline:0 "Instill Discipline"
+ ERE_instilldiscipline_desc:0 "A fractured empire cannot stand. Through rigorous training, strict codes, and centralized command, we shall instill discipline across our ranks—military and civil alike."
 
-ERE_romansolidatry:0 "Римська солідарність"
-ERE_romansolidatry_desc:0 "Усі римські держави повинні стояти разом. Сприяючи солідарності, ми будуємо коаліцію, засновану на спільній спадщині та імперській долі."
+ ERE_integrateeconomies:0 "Integrate Economies"
+ ERE_integrateeconomies_desc:0 "The East and West must no longer operate as separate entities. By integrating our economies, we create a unified Roman market, resilient to foreign influence and primed for expansion."
 
-ERE_invitewesternindustries:0 "Залучення західних промисловців"
-ERE_invitewesternindustries_desc:0 "Щоб відбудувати Захід, ми повинні використати його промисловий потенціал. Запрошуючи західні підприємства до нашого союзу, ми прискорюємо модернізацію та сприяємо спільному процвітанню під римським наглядом."
+ ERE_ambition:0 "Ambition"
+ ERE_ambition_desc:0 "The flame of Rome still burns. Our ambitions stretch beyond mere survival—we seek restoration, dominance, and eternal glory."
 
-ERE_instilldiscipline:0 "Впровадження дисципліни"
-ERE_instilldiscipline_desc:0 "Розділена імперія не може встояти. Через суворі тренування, чіткі кодекси та централізоване командування ми впровадимо дисципліну в наших лавах — як військових, так і цивільних."
+ ERE_turntoouroldally:0 "Turn To Our Old Ally"
+ ERE_turntoouroldally_desc:0 "The Persian Empire once aided us in times of the Islamic expansion. We once again call for their aid."
 
-ERE_integrateeconomies:0 "Інтеграція економік"
-ERE_integrateeconomies_desc:0 "Схід і Захід більше не повинні діяти окремо. Інтегруючи наші економіки, ми створюємо єдиний римський ринок, стійкий до зовнішнього впливу та готовий до розширення."
+ ERE_invitethespainards:0 "Invite the Spainards"
+ ERE_invitethespainards_desc:0 "Hispania was once a jewel of the Empire. By inviting the modern Spanish states into our fold, we rekindle the legacy of Roman Iberia"
 
-ERE_ambition:0 "Амбіція"
-ERE_ambition_desc:0 "Полум'я Риму досі палає. Наші амбіції виходять за межі простого виживання — ми прагнемо відновлення, домінування та вічної слави."
+ ERE_purgetheeasternmenance:0 "Purge the Eastern Menance"
+ ERE_purgetheeasternmenance_desc:0 "The Persians have always proved to be a thorn at our side. Our ancestors may have failed in taking them, but with our superior force we will conquer them once and for all."
 
-ERE_turntoouroldally:0 "Звернення до старого союзника"
-ERE_turntoouroldally_desc:0 "Перська імперія колись допомагала нам у часи ісламської експансії. Ми знову закликаємо до їхньої підтримки."
+ ERE_scipioslegacy:0 "Scipio's Legacy"
+ ERE_scipioslegacy_desc:0 "Scipio Africanus once conquered all of Hispania, and his legacy will not be in vain."
 
-ERE_invitethespainards:0 "Запрошення іспанців"
-ERE_invitethespainards_desc:0 "Гіспанія колись була перлиною імперії. Запрошуючи сучасні іспанські держави до нашого союзу, ми відроджуємо спадщину римської Іберії."
+ ERE_massproduction:0 "Mass Production"
+ ERE_massproduction_desc:0 "To sustain our legions, we must embrace modern industrial methods. Let the factories roar with the sound of imperial might."
 
-ERE_purgetheeasternmenance:0 "Очищення від східної загрози"
-ERE_purgetheeasternmenance_desc:0 "Перси завжди були перешкодою на нашому боці. Наші предки, можливо, не змогли їх подолати, але з нашою переважаючою силою ми завоюємо їх раз і назавжди."
+ ERE_tankdefense:0 "Tank Defense"
+ ERE_tankdefense_desc:0 "Steel beasts shall guard our borders. We prioritize armored warfare to ensure our legions are never outmatched."
 
-ERE_scipioslegacy:0 "Спадщина Сципіона"
-ERE_scipioslegacy_desc:0 "Сципіон Африканський колись завоював усю Гіспанію, і його спадщина не буде марною."
+ ERE_airdefense:0 "Air Defense"
+ ERE_airdefense_desc:0 "The skies are the new frontier of war. We invest in aerial supremacy to protect our empire from above."
 
-ERE_massproduction:0 "Масове виробництво"
-ERE_massproduction_desc:0 "Щоб підтримувати наші легіони, ми повинні прийняти сучасні промислові методи. Нехай заводи гудуть звуком імперської могутності."
+ ERE_inetgratesubjecteconomies:0 "Integrate Subject Economies"
+ ERE_inetgratesubjecteconomies_desc:0 "Our subjects must serve the empire not only in loyalty but in labor. Their economies will be woven into the imperial machine."
 
-ERE_tankdefense:0 "Танкова оборона"
-ERE_tankdefense_desc:0 "Сталеві звірі охоронятимуть наші кордони. Ми надаємо пріоритет броньованій війні, щоб наші легіони ніколи не поступалися ворогу."
+ ERE_inetgratewestromanindustries:0 "Integrate West Roman Industries"
+ ERE_inetgratewestromanindustries_desc:0 "The industrial heartlands of the West shall beat for Rome once more. We reclaim and repurpose their output for imperial strength."
 
-ERE_airdefense:0 "Повітряна оборона"
-ERE_airdefense_desc:0 "Небо — новий рубіж війни. Ми інвестуємо в повітряну перевагу, щоб захистити нашу імперію згори."
+ ERE_alloutdefense:0 "All Out Defense"
+ ERE_alloutdefense_desc:0 "Every citizen, every soldier, every resource—dedicated to the defense of the Empire. We shall not yield."
 
-ERE_inetgratesubjecteconomies:0 "Інтеграція економік підлеглих"
-ERE_inetgratesubjecteconomies_desc:0 "Наші підлеглі повинні служити імперії не лише вірністю, але й працею. Їхні економіки будуть вплетені в імперську машину."
+ ERE_antiteutoniclegions:0 "Anti Teutonic Legions"
+ ERE_antiteutoniclegions_desc:0 "The Teutonic threat will be pacified. We form specialised legions trained to counter their tactics and crush their ambitions."
 
-ERE_inetgratewestromanindustries:0 "Інтеграція промисловості Західного Риму"
-ERE_inetgratewestromanindustries_desc:0 "Промислові серця Заходу знову битимуться за Рим. Ми повернемо та перепрофілюємо їхню продукцію для імперської сили."
+ ERE_rallyromanfrancianforces:0 "Rally Roman Francian Forces"
+ ERE_rallyromanfrancianforces_desc:0 "The legacy of Roman Gaul lives on in the Francian territories. By rallying these forces under our banner, we awaken the martial spirit of the West and prepare for a unified campaign to reclaim Europe."
 
-ERE_alloutdefense:0 "Тотальна оборона"
-ERE_alloutdefense_desc:0 "Кожен громадянин, кожен солдат, кожен ресурс — присвячені захисту імперії. Ми не поступимося."
+ ERE_denoouncetheillegimatebritishregime:0 "Denounce the Illegimate British Regime"
+ ERE_denoouncetheillegimatebritishregime_desc:0 "The British regime stands as a relic of rebellion and illegitimacy. We shall publicly denounce their false rule, expose their hypocrisy, and prepare the ideological groundwork for their inevitable downfall."
 
-ERE_antiteutoniclegions:0 "Анти-тевтонські легіони"
-ERE_antiteutoniclegions_desc:0 "Тевтонську загрозу буде приборкано. Ми формуємо спеціалізовані легіони, навчені протистояти їхнім тактикам і знищувати їхні амбіції."
+ ERE_unitedunderoneemperor:0 "United Under One Emperor"
+ ERE_unitedunderoneemperor_desc:0 "The fractured lands of Rome must be united once more—not in name, but in truth. Under one Emperor, one vision, and one destiny, we shall restore the eternal empire and bring order to a chaotic world."
 
-ERE_rallyromanfrancianforces:0 "Згуртування римсько-франкських сил"
-ERE_rallyromanfrancianforces_desc:0 "Спадщина римської Галлії живе в франкських територіях. Згуртувавши ці сили під нашим прапором, ми пробуджуємо бойовий дух Заходу та готуємося до єдиної кампанії з повернення Європи."
+ ERE_endoftheenemiesofrome:0 "End the Enemies of Rome"
+ ERE_endoftheenemiesofrome_desc:0 "The time for diplomacy has passed. All who oppose the Roman order shall be crushed beneath our banners. The enemies of Rome will know fear, and the world will know peace through conquest."
 
-ERE_denoouncetheillegimatebritishregime:0 "Засудження нелегітимного британського режиму"
-ERE_denoouncetheillegimatebritishregime_desc:0 "Британський режим є пережитком бунту та нелегітимності. Ми публічно засудимо їхнє фальшиве правління, викриємо їхнє лицемірство та підготуємо ідеологічний ґрунт для їхнього неминучого падіння."
+ ERE_rootoutantiromans:0 "Root Out Anti Romans"
+ ERE_rootoutantiromans_desc:0 "Subversion festers within and beyond our borders. We must identify and eliminate all anti-Roman elements—traitors, dissidents, and foreign agents who threaten imperial unity."
 
-ERE_unitedunderoneemperor:0 "Об'єднані під одним імператором"
-ERE_unitedunderoneemperor_desc:0 "Розділені землі Риму мають бути об'єднані знову — не лише за назвою, а й по суті. Під одним імператором, одним баченням і однією долею ми відновимо вічну імперію та принесемо порядок у хаотичний світ."
+ ERE_paxromana:0 "Pax Romana"
+ ERE_paxromana_desc:0 "With our enemies vanquished and our dominion secured, we shall usher in a new age of peace and prosperity. The Pax Romana returns—not as a dream, but as a global reality."
 
-ERE_endoftheenemiesofrome:0 "Кінець ворогів Риму"
-ERE_endoftheenemiesofrome_desc:0 "Час дипломатії минув. Усі, хто протистоїть римському порядку, будуть розчавлені під нашими прапорами. Вороги Риму пізнають страх, а світ пізнає мир через завоювання."
+ ERE_alignsouthamerica:0 "Align South America"
+ ERE_alignsouthamerica_desc:0 "South America holds strategic and ideological value. By aligning its nations with our imperial vision, we extend Roman influence across the southern hemisphere."
 
-ERE_rootoutantiromans:0 "Викорінення антиримлян"
-ERE_rootoutantiromans_desc:0 "Підривна діяльність процвітає як всередині, так і за межами наших кордонів. Ми повинні виявити та знищити всіх антиримських елементів — зрадників, дисидентів і іноземних агентів, які загрожують імперській єдності."
+ ERE_hegemonyoveramerica:0 "Hegemony Over America"
+ ERE_hegemonyoveramerica_desc:0 "The Americas must bow to Roman supremacy. Through diplomacy, pressure, and force, we will establish hegemony and reshape the continent in our image."
 
-ERE_paxromana:0 "Pax Romana"
-ERE_paxromana_desc:0 "З переможеними ворогами та забезпеченим домінуванням ми відкриємо нову еру миру та процвітання. Pax Romana повертається — не як мрія, а як глобальна реальність."
+ ERE_strikeattheeast:0 "Strike At The East"
+ ERE_strikeattheeast_desc:0 "Eastern Europe remains a bastion of resistance. We shall launch a decisive campaign to break their defenses and bring the region under Roman control once and for all."
 
-ERE_alignsouthamerica:0 "Вирівнювання Південної Америки"
-ERE_alignsouthamerica_desc:0 "Південна Америка має стратегічну та ідеологічну цінність. Вирівнюючи її нації з нашим імперським баченням, ми поширюємо римський вплив на південну півкулю."
+ ERE_conquerasia:0 "Conquer Asia"
+ ERE_conquerasia_desc:0 "Asia is vast, rich, and fractured. By conquering its lands, we secure resources, strategic depth, and the final piece of our imperial puzzle. Rome shall span the world."
 
-ERE_hegemonyoveramerica:0 "Гегемонія над Америкою"
-ERE_hegemonyoveramerica_desc:0 "Америки повинні підкоритися римській перевазі. Через дипломатію, тиск і силу ми встановимо гегемонію та переформатуємо континент за нашим образом."
+ ERE_romannavalinstitution:0 "Roman Naval Institution"
+ ERE_romannavalinstitution_desc:0 "The Empire rekindles its ancient maritime legacy, laying the foundation for a modern navy inspired by the disciplined might of Roman tradition."
 
-ERE_strikeattheeast:0 "Удар по Сходу"
-ERE_strikeattheeast_desc:0 "Східна Європа залишається бастіоном опору. Ми розпочнемо рішучу кампанію, щоб зламати їхню оборону та привести регіон під римський контроль раз і назавжди."
+ ERE_legionstatesadvisors:0 "Legion States Advisors"
+ ERE_legionstatesadvisors_desc:0 "Naval strategists from the Legion States are summoned to Rome, bringing regional expertise and diverse tactics to shape a unified command."
 
-ERE_conquerasia:0 "Завоювання Азії"
-ERE_conquerasia_desc:0 "Азія величезна, багата та розділена. Завоювавши її землі, ми забезпечимо ресурси, стратегічну глибину та останню частину нашої імперської головоломки. Рим охопить весь світ."
+ ERE_surfacewarfare:0 "Surface Warfare"
+ ERE_surfacewarfare_desc:0 "Emphasising dominance in open-sea combat, the Empire trains its fleets to engage enemy vessels head-on with precision and overwhelming firepower."
 
-ERE_romannavalinstitution:0 "Римська морська установа"
-ERE_romannavalinstitution_desc:0 "Імперія відроджує свою давню морську спадщину, закладаючи основу для сучасного флоту, натхненного дисциплінованою міццю римської традиції."
+ ERE_battlecrusiers:0 "Battle Crusiers"
+ ERE_battlecrusiers_desc:0 "Fast, heavily armed cruisers are commissioned to chase down enemy ships and strike with brutal efficiency, embodying Rome’s aggressive doctrine."
 
-ERE_legionstatesadvisors:0 "Радники держав легіонів"
-ERE_legionstatesadvisors_desc:0 "Морські стратеги з держав легіонів викликаються до Риму, приносячи регіональну експертизу та різноманітні тактики для формування єдиного командування."
+ ERE_heavyguns:0 "Heavy Guns"
+ ERE_heavyguns_desc:0 "Naval engineers develop colossal artillery pieces, turning every warship into a floating fortress capable of devastating long-range bombardment."
 
-ERE_surfacewarfare:0 "Наземна війна"
-ERE_surfacewarfare_desc:0 "Наголошуючи на домінуванні у відкритому морі, імперія тренує свої флоти для прямого бою з ворожими суднами з точністю та переважаючою вогневою силою."
+ ERE_lightcrusiers:0 "Light Crusiers"
+ ERE_lightcrusiers_desc:0 "Agile and versatile, these ships scout ahead and protect the battle line, ensuring the fleet’s cohesion and tactical flexibility."
 
-ERE_battlecrusiers:0 "Бойові крейсери"
-ERE_battlecrusiers_desc:0 "Швидкі, важкоозброєні крейсери замовляються для переслідування ворожих кораблів та нанесення ударів із жорстокою ефективністю, втілюючи агресивну доктрину Риму."
+ ERE_battleships:0 "Battleships"
+ ERE_battleships_desc:0 "Massive battleships are constructed to serve as symbols of imperial power, dominating the seas with unmatched firepower and resilience."
 
-ERE_heavyguns:0 "Важкі гармати"
-ERE_heavyguns_desc:0 "Морські інженери розробляють величезні артилерійські гармати, перетворюючи кожен корабель на плавучу фортецю, здатну до нищівного далекобійного обстрілу."
+ ERE_legiontorpedos:0 "Legion Torpedos"
+ ERE_legiontorpedos_desc:0 "Borrowing designs from Legion States, Rome enhances its torpedo arsenal, enabling smaller vessels to deliver lethal strikes against larger foes."
 
-ERE_lightcrusiers:0 "Легкі крейсери"
-ERE_lightcrusiers_desc:0 "Маневрені та універсальні, ці кораблі розвідують попереду та захищають бойову лінію, забезпечуючи згуртованість флоту та тактичну гнучкість."
+ ERE_submarinewarfare:0 "Submarine Warfare"
+ ERE_submarinewarfare_desc:0 "The Empire expands its underwater fleet, embracing stealth and sabotage to cripple enemy supply lines and sow chaos beneath the waves."
 
-ERE_battleships:0 "Лінкори"
-ERE_battleships_desc:0 "Величезні лінкори будуються як символи імперської могутності, домінуючи на морях із неперевершеною вогневою силою та стійкістю."
+ ERE_legionstateassistance:0 "Legion States Assistance"
+ ERE_legionstateassistance_desc:0 "Constantinople's fleet cannot survive alone, especially across global theatres. The Legion States weld a powerful navy which combined with ours, are able to dominate the seven seas."
 
-ERE_legiontorpedos:0 "Торпеди легіонів"
-ERE_legiontorpedos_desc:0 "Запозичуючи конструкції з держав легіонів, Рим удосконалює свій торпедний арсенал, дозволяючи меншим суднам завдавати смертельних ударів по більших ворогах."
+ ERE_jointnavaldominance:0 "Joint Naval Dominance"
+ ERE_jointnavaldominance_desc:0 "Coordinated operations with Legion fleets ensure shared control of strategic waters, creating a unified front against foreign threats."
 
-ERE_submarinewarfare:0 "Підводна війна"
-ERE_submarinewarfare_desc:0 "Імперія розширює свій підводний флот, приймаючи стелс і саботаж для знищення ворожих ліній постачання та сіяння хаосу під хвилями."
+ ERE_offerdefensetreaties:0 "Offer Defense Treaties"
+ ERE_offerdefensetreaties_desc:0 "Rome proposes formal defense pacts, solidifying alliances and guaranteeing mutual protection in times of war."
 
-ERE_legionstateassistance:0 "Допомога держав легіонів"
-ERE_legionstateassistance_desc:0 "Флот Константинополя не може вистояти сам, особливо на глобальних театрах. Держави легіонів володіють потужним флотом, який у поєднанні з нашим здатний домінувати на семи морях."
+ ERE_bringthelegionstatesintothefold:0 "Bring the Legion States Into The Fold"
+ ERE_bringthelegionstatesintothefold_desc:0 "For an ensured victory, we must convince the Legion States across the Altantic to join us in fighting the enemies of Rome."
 
-ERE_jointnavaldominance:0 "Спільне морське домінування"
-ERE_jointnavaldominance_desc:0 "Координовані операції з флотами легіонів забезпечують спільний контроль над стратегічними водами, створюючи єдиний фронт проти іноземних загроз."
+ ERE_expandshipbuildingplants:0 "Expand Ship Building Plants"
+ ERE_expandshipbuildingplants_desc:0 "New shipyards rise across the Empire, accelerating production and preparing for a fleet worthy of Roman ambition."
 
-ERE_offerdefensetreaties:0 "Пропозиція оборонних договорів"
-ERE_offerdefensetreaties_desc:0 "Рим пропонує офіційні оборонні пакти, зміцнюючи альянси та гарантуючи взаємний захист у часи війни."
+ ERE_divertmanpowertobuildingships:0 "Divert Manpower to Building Ships"
+ ERE_divertmanpowertobuildingships_desc:0 "Civilian labor is redirected toward naval construction, transforming cities into engines of war."
 
-ERE_bringthelegionstatesintothefold:0 "Залучення держав легіонів"
-ERE_bringthelegionstatesintothefold_desc:0 "Для забезпечення перемоги ми повинні переконати держави легіонів за Атлантикою приєднатися до нас у боротьбі з ворогами Риму."
+ ERE_coorperationprograms:0 "Cooperation Programs"
+ ERE_coorperationprograms_desc:0 "Joint industrial ventures with allies improve efficiency and innovation, ensuring the Empire stays ahead in naval technology."
 
-ERE_expandshipbuildingplants:0 "Розширення кораблебудівних заводів"
-ERE_expandshipbuildingplants_desc:0 "Нові верфі виникають по всій імперії, прискорюючи виробництво та готуючи флот, гідний римських амбіцій."
+ ERE_independentnavy:0 "Independent Navy"
+ ERE_independentnavy_desc:0 "Rejecting foreign influence, the Empire charts its own course, crafting a naval doctrine rooted in pure Roman ingenuity."
 
-ERE_divertmanpowertobuildingships:0 "Перенаправлення робочої сили на будівництво кораблів"
-ERE_divertmanpowertobuildingships_desc:0 "Цивільна робоча сила перенаправляється на морське будівництво, перетворюючи міста на двигуни війни."
+ ERE_atraditionalsurfacefleet:0 "Traditional Surface Fleet"
+ ERE_atraditionalsurfacefleet_desc:0 "A balanced fleet of cruisers and battleships is developed, echoing the disciplined formations of Rome’s legions."
 
-ERE_coorperationprograms:0 "Програми співпраці"
-ERE_coorperationprograms_desc:0 "Спільні промислові ініціативи з союзниками підвищують ефективність та інновації, забезпечуючи перевагу імперії в морських технологіях."
+ ERE_offensivemaritimefleet:0 "Offensive Maritime Fleet"
+ ERE_offensivemaritimefleet_desc:0 "The navy is reshaped for aggressive operations, capable of projecting power far beyond Roman shores."
 
-ERE_independentnavy:0 "Незалежний флот"
-ERE_independentnavy_desc:0 "Відкидаючи іноземний вплив, імперія прокладає власний курс, створюючи морську доктрину, засновану на чистій римській винахідливості."
+ ERE_deepwaternavy:0 "Deep Water Navy"
+ ERE_deepwaternavy_desc:0 "Rome prepares for global reach, designing ships and logistics to operate in distant waters and foreign theaters."
 
-ERE_atraditionalsurfacefleet:0 "Традиційний надводний флот"
-ERE_atraditionalsurfacefleet_desc:0 "Розвивається збалансований флот із крейсерів і лінкорів, що відображає дисципліновані формування римських легіонів."
+ ERE_modernsubmarinewarfare:0 "Modern Submarine Warfare"
+ ERE_modernsubmarinewarfare_desc:0 "Advanced submarines are deployed to disrupt enemy convoys and gather intelligence beneath the waves."
 
-ERE_offensivemaritimefleet:0 "Наступальний морський флот"
-ERE_offensivemaritimefleet_desc:0 "Флот переформовується для агресивних операцій, здатний проєктувати силу далеко за межі римських берегів."
+ ERE_torpedomanufacturing:0 "Torpedo Manufacturing"
+ ERE_torpedomanufacturing_desc:0 "Industrial efforts focus on producing vast quantities of torpedoes, ensuring every vessel is armed to the teeth."
 
-ERE_deepwaternavy:0 "Глибоководний флот"
-ERE_deepwaternavy_desc:0 "Рим готується до глобального охоплення, проектуючи кораблі та логістику для операцій у віддалених водах і іноземних театрах."
+ ERE_expandnavalresearch:0 "Expand Naval Research"
+ ERE_expandnavalresearch_desc:0 "Research institutions are expanded, pushing the boundaries of naval science and unlocking new possibilities."
 
-ERE_modernsubmarinewarfare:0 "Сучасна підводна війна"
-ERE_modernsubmarinewarfare_desc:0 "Просунуті підводні човни розгортаються для порушення ворожих конвоїв та збору розвідки під хвилями."
+ ERE_aircraftcarriers:0 "Aircraft Carriers"
+ ERE_aircraftcarriers_desc:0 "Rome enters the age of naval aviation, constructing carriers to dominate both sea and sky."
 
-ERE_torpedomanufacturing:0 "Виробництво торпед"
-ERE_torpedomanufacturing_desc:0 "Промислові зусилля зосереджені на виробництві величезної кількості торпед, забезпечуючи озброєння кожного судна до зубів."
+ ERE_atrueromannavy:0 "A True Roman Navy"
+ ERE_atrueromannavy_desc:0 "The culmination of Rome’s naval renaissance. A fleet unmatched in size, technology, and doctrine now sails under the imperial banner, ready to reclaim global dominance and restore the glory of the ancient seas."
 
-ERE_expandnavalresearch:0 "Розширення морських досліджень"
-ERE_expandnavalresearch_desc:0 "Дослідницькі установи розширюються, розсуваючи межі морської науки та відкриваючи нові можливості."
+ ERE_infrastructureplan:0 "Infrastructure Plan"
+ ERE_infrastructureplan_desc:0 "The Empire must be stitched together not only by loyalty but by roads, rails, and ports. This plan lays the foundation for a modern infrastructure network, echoing the legacy of Roman engineering."
 
-ERE_aircraftcarriers:0 "Авіаносці"
-ERE_aircraftcarriers_desc:0 "Рим вступає в еру морської авіації, будуючи авіаносці для домінування як на морі, так і в небі."
+ ERE_industryplan:0 "Industry Plan"
+ ERE_industryplan_desc:0 "Rome was once the heart of civilization—now it must become the engine of production. This initiative mobilizes regional factories, revitalizes urban centers, and sets the stage for industrial ascendancy."
 
-ERE_atrueromannavy:0 "Справжній римський флот"
-ERE_atrueromannavy_desc:0 "Кульмінація морського відродження Риму. Флот, неперевершений за розміром, технологіями та доктриною, тепер пливе під імперським прапором, готовий повернути глобальне домінування та відновити славу стародавніх морів."
+ ERE_greatindustryplan:0 "Great Industry Plan"
+ ERE_greatindustryplan_desc:0 "No longer content with modest growth, the Empire embarks on a bold campaign to dominate industrial output. Massive complexes rise from the dust, powered by imperial ambition. The world will marvel at our capacity—and fear our resolve."
 
-ERE_infrastructureplan:0 "План інфраструктури"
-ERE_infrastructureplan_desc:0 "Імперія має бути зшита не лише вірністю, а й дорогами, залізницями та портами. Цей план закладає основу для сучасної інфраструктурної мережі, що відображає спадщину римської інженерії."
+ ERE_romanrailways:0 "Roman Railways"
+ ERE_romanrailways_desc:0 "As the ancient Romans built roads to bind their empire, so shall we lay rails to unite ours. A sweeping expansion of the railway system will ensure swift movement of troops, goods, and ideas. The Empire moves not just with purpose—but with speed."
 
-ERE_industryplan:0 "План промисловості"
-ERE_industryplan_desc:0 "Рим колись був серцем цивілізації — тепер він має стати двигуном виробництва. Ця ініціатива мобілізує регіональні заводи, відроджує міські центри та готує ґрунт для промислового піднесення."
+ ERE_increasestatereserves:0 "Increase State Reserves"
+ ERE_increasestatereserves_desc:0 "A wise empire prepares for lean years. By bolstering our reserves of critical materials and currency, we ensure resilience in the face of blockade, war, or economic collapse. The coffers of Constantinople shall overflow once more."
 
-ERE_greatindustryplan:0 "Великий промисловий план"
-ERE_greatindustryplan_desc:0 "Більше не задовольняючись скромним зростанням, імперія розпочинає сміливу кампанію для домінування в промисловому виробництві. Величезні комплекси виникають із пилу, живлені імперськими амбіціями. Світ дивуватиметься нашій потужності — і боятиметься нашої рішучості."
+ ERE_reorganiseheavyindustry:0 "Reorganise Heavy Industry"
+ ERE_reorganiseheavyindustry_desc:0 "Our factories groan under outdated methods. This focus restructures the heavy industry sector, streamlining production and eliminating inefficiencies. The Empire will not just produce—it will produce with precision."
 
-ERE_romanrailways:0 "Римські залізниці"
-ERE_romanrailways_desc:0 "Як стародавні римляни будували дороги, щоб об'єднати свою імперію, так і ми прокладемо залізниці, щоб об'єднати нашу. Масштабне розширення залізничної системи забезпечить швидке переміщення військ, товарів та ідей. Імперія рухається не лише з метою — а й зі швидкістю."
+ ERE_armamentproduction:0 "Armament Production"
+ ERE_armamentproduction_desc:0 "The legions of old wielded gladius and shield. Today, they require rifles, tanks, and artillery. This focus accelerates the manufacture of weapons of war, ensuring our armies are equipped to reclaim Rome’s lost glory."
 
-ERE_increasestatereserves:0 "Збільшення державних резервів"
-ERE_increasestatereserves_desc:0 "Мудра імперія готується до важких років. Посилюючи наші запаси критичних матеріалів і валюти, ми забезпечуємо стійкість перед обличчям блокади, війни чи економічного колапсу. Скарбниці Константинополя знову переповняться."
+ ERE_syntheticrubber:0 "Synthetic Rubber"
+ ERE_syntheticrubber_desc:0 "Natural rubber is scarce and unreliable. Through scientific ingenuity, we shall create synthetic alternatives to fuel our war machines and industrial needs. The Empire bends chemistry to its will."
 
-ERE_reorganiseheavyindustry:0 "Реорганізація важкої промисловості"
-ERE_reorganiseheavyindustry_desc:0 "Наші заводи стогнуть під вагою застарілих методів. Цей фокус реструктуризує сектор важкої промисловості, оптимізуючи виробництво та усуваючи неефективність. Імперія буде виробляти не просто багато — а з точністю."
+ ERE_steelcasting:0 "Steel Casting"
+ ERE_steelcasting_desc:0 "Steel is the backbone of modern civilization. By refining our casting techniques, we unlock stronger, more versatile materials for construction and warfare. The Empire’s foundries roar with renewed vigor."
 
-ERE_armamentproduction:0 "Виробництво озброєнь"
-ERE_armamentproduction_desc:0 "Легіони минулого володіли гладіусами та щитами. Сьогодні їм потрібні гвинтівки, танки та артилерія. Цей фокус прискорює виготовлення зброї війни, забезпечуючи оснащення наших армій для повернення втраченої слави Риму."
+ ERE_oilproduction:0 "Oil Production"
+ ERE_oilproduction_desc:0 "The lifeblood of mechanised warfare flows from beneath the earth. We will tap domestic reserves and develop extraction technologies to ensure a steady supply. The Empire shall never run dry."
 
-ERE_syntheticrubber:0 "Синтетична гума"
-ERE_syntheticrubber_desc:0 "Натуральна гума рідкісна та ненадійна. Завдяки науковій винахідливості ми створимо синтетичні альтернативи для живлення наших військових машин та промислових потреб. Імперія підкоряє хімію своїй волі."
+ ERE_rampuprubberindustry:0 "Ramp Up Rubber Industry"
+ ERE_rampuprubberindustry_desc:0 "Tires, seals, and equipment will flow from our factories in abundance. The Empire marches on rubber wheels."
 
-ERE_steelcasting:0 "Лиття сталі"
-ERE_steelcasting_desc:0 "Сталь — це хребет сучасної цивілізації. Удосконалюючи техніки лиття, ми відкриваємо міцніші, універсальніші матеріали для будівництва та війни. Ливарні імперії гудуть із новою силою."
+ ERE_focusonalumimum:0 "Focus On Aluminium"
+ ERE_focusonalumimum_desc:0 "Light, strong, and essential—aluminium is the metal of modern warfare. Aircraft, vehicles, and infrastructure depend on it. We will mine, refine, and master its use, turning our mountains into arsenals."
 
-ERE_oilproduction:0 "Видобуток нафти"
-ERE_oilproduction_desc:0 "Життєва кров механізованої війни тече з-під землі. Ми використаємо внутрішні запаси та розробимо технології видобутку, щоб забезпечити стабільне постачання. Імперія ніколи не висохне."
+ ERE_anatoliandevelopment:0 "Anatolian Development"
+ ERE_anatoliandevelopment_desc:0 "Anatolia, the Empire’s heartland, holds untapped potential. We invest in its cities, roads, and industries, transforming it into a beacon of prosperity. From the Bosporus to the Taurus Mountains, Anatolia shall rise."
 
-ERE_rampuprubberindustry:0 "Прискорення гумової промисловості"
-ERE_rampuprubberindustry_desc:0 "Шини, ущільнення та обладнання тектимуть із наших заводів у достатку. Імперія рухається на гумових колесах."
+ ERE_developeuropeanregions:0 "Develop European Regions"
+ ERE_developeuropeanregions_desc:0 "The Empire’s European territories have languished under neglect. This focus revitalizes Thrace, Macedonia, and beyond, bringing jobs, infrastructure, and pride. Europe shall once again feel the pulse of Roman ambition."
 
-ERE_focusonalumimum:0 "Фокус на алюміній"
-ERE_focusonalumimum_desc:0 "Легкий, міцний і незамінний — алюміній є металом сучасної війни. Літаки, транспортні засоби та інфраструктура залежать від нього. Ми добуватимемо, очищатимемо та опануємо його використання, перетворюючи наші гори на арсенали."
+ ERE_romanscienceacademy:0 "Roman Science Academy"
+ ERE_romanscienceacademy_desc:0 "Knowledge is power. We establish a prestigious academy to cultivate the brightest minds in engineering, chemistry, and warfare. The Empire shall not only conquer with force—but with intellect."
 
-ERE_anatoliandevelopment:0 "Розвиток Анатолії"
-ERE_anatoliandevelopment_desc:0 "Анатолія, серце імперії, має невикористаний потенціал. Ми інвестуємо в її міста, дороги та промисловість, перетворюючи її на маяк процвітання. Від Босфору до гір Тавра Анатолія підніметься."
+ ERE_researchinstitute:0 "Roman Research Institute"
+ ERE_researchinstitute_desc:0 "To stay ahead of rivals, we must innovate relentlessly. This institute coordinates national research efforts, accelerating breakthroughs in every field. The Empire’s future is forged in laboratories as much as on battlefields."
+ 
+ ERE_defenseindustry:0 "Defense Industry"
+ ERE_defenseindustry_desc:0 "We must priortise all our industrial efforts in producing materiel and weapons for the inevitable defense of Constantinople."
 
-ERE_developeuropeanregions:0 "Розвиток європейських регіонів"
-ERE_developeuropeanregions_desc:0 "Європейські території імперії занепадали через нехтування. Цей фокус відроджує Фракію, Македонію та інші регіони, приносячи робочі місця, інфраструктуру та гордість. Європа знову відчує пульс римських амбіцій."
+ ERE_airforceacademy:0 "Air Force Academy"
+ ERE_airforceacademy_desc:0 "The skies are the new frontier of imperial power. We establish a prestigious academy to train the next generation of pilots, tacticians, and engineers. Here, discipline meets innovation, and the Empire’s aerial future begins to take flight."
 
-ERE_romanscienceacademy:0 "Римська наукова академія"
-ERE_romanscienceacademy_desc:0 "Знання — це сила. Ми створюємо престижну академію для виховання найяскравіших умів в інженерії, хімії та війні. Імперія перемагатиме не лише силою, а й розумом."
+ ERE_traditionalflyingdoctrine:0 "Traditional Flying Doctrine"
+ ERE_traditionalflyingdoctrine_desc:0 "Drawing from the battlefield coordination of ancient legions, we adopt a doctrine focused on close air support. Our aircraft will fly low and strike hard—supporting ground troops with precision and fury, just as Roman artillery once did."
 
-ERE_researchinstitute:0 "Римський дослідницький інститут"
-ERE_researchinstitute_desc:0 "Щоб випереджати суперників, ми повинні невпинно інновувати. Цей інститут координує національні дослідницькі зусилля, прискорюючи прориви в усіх галузях. Майбутнє імперії кується в лабораторіях так само, як на полях битв."
+ ERE_CASdoctrine:0 "CAS Doctrine"
+ ERE_CASdoctrine_desc:0 "We refine our tactical air doctrine to prioritise rapid response and battlefield integration. Pilots are trained to operate in tandem with infantry and armor, delivering devastating strikes that turn the tide of ground engagements."
 
-ERE_defenseindustry:0 "Оборонна промисловість"
-ERE_defenseindustry_desc:0 "Ми повинні віддати пріоритет усім нашим промисловим зусиллям для виробництва матеріалів і зброї для неминучої оборони Константинополя."
+ ERE_CASmodel:0 "CAS Model"
+ ERE_CASmodel_desc:0 "A new generation of close air support aircraft is developed—fast, durable, and deadly. These machines are designed to loiter above the battlefield, hunting enemy armor and fortifications with surgical precision."
 
-ERE_airforceacademy:0 "Академія повітряних сил"
-ERE_airforceacademy_desc:0 "Небо — новий рубіж імперської сили. Ми створюємо престижну академію для підготовки нового покоління пілотів, тактиків та інженерів. Тут дисципліна поєднується з інноваціями, і повітряне майбутнє імперії починає злітати."
+ ERE_flexiblebombers:0 "Flexible Bombers"
+ ERE_flexiblebombers_desc:0 "Not all targets lie on the front lines. We develop multi-role bombers capable of adapting to various missions—strategic strikes, interdiction, and support. These aircraft will be the hammer of Rome’s airborne arsenal."
 
-ERE_traditionalflyingdoctrine:0 "Традиційна льотна доктрина"
-ERE_traditionalflyingdoctrine_desc:0 "Спираючись на координацію битв стародавніх легіонів, ми приймаємо доктрину, зосереджену на підтримці з повітря. Наші літаки літатимуть низько і вдарятимуть сильно — підтримуючи наземні війська з точністю та люттю, як колись римська артилерія."
+ ERE_deathanddestruction:0 "Death and Destruction"
+ ERE_deathanddestruction_desc:0 "The Empire embraces total aerial warfare. Our bombers rain fire upon enemy cities, factories, and morale. This is not mere combat—it is annihilation from above, a reminder that Rome’s wrath knows no bounds."
 
-ERE_CASdoctrine:0 "Доктрина CAS"
-ERE_CASdoctrine_desc:0 "Ми вдосконалюємо нашу тактичну повітряну доктрину, надаючи пріоритет швидкій реакції та інтеграції на полі бою. Пілоти тренуються діяти в тандемі з піхотою та бронетехнікою, завдаючи нищівних ударів, що змінюють хід наземних боїв."
+ ERE_modernflyingdoctrine:0 "Modern Flying Doctrine"
+ ERE_modernflyingdoctrine_desc:0 "We shift toward a doctrine of long-range strategic bombing, targeting the enemy’s heartland. Inspired by imperial campaigns of old, we aim not just to defeat armies—but to cripple entire nations from the sky."
 
-ERE_CASmodel:0 "Модель CAS"
-ERE_CASmodel_desc:0 "Розробляється нове покоління літаків близької повітряної підтримки — швидких, міцних і смертоносних. Ці машини призначені для патрулювання над полем бою, полюючи на ворожу броню та укріплення з хірургічною точністю."
+ ERE_strategicbomberdevelopment:0 "Strategic Bomber Development"
+ ERE_strategicbomberdevelopment_desc:0 "Massive, high-altitude bombers are designed to carry Rome’s vengeance across continents. These aircraft will fly farther, hit harder, and return unscathed—symbols of imperial reach and technological mastery."
 
-ERE_flexiblebombers:0 "Гнучкі бомбардувальники"
-ERE_flexiblebombers_desc:0 "Не всі цілі лежать на передовій. Ми розробляємо багатоцільові бомбардувальники, здатні адаптуватися до різних місій — стратегічні удари, перехоплення та підтримка. Ці літаки стануть молотом повітряного арсеналу Риму."
+ ERE_strategicbomberdoctrine:0 "Strategic Bomber Doctrine"
+ ERE_strategicbomberdoctrine_desc:0 "We formalize our strategic bombing philosophy: precision, persistence, and psychological impact. Factories, infrastructure, and supply lines will be reduced to rubble. The enemy will feel our presence long before our legions arrive."
 
-ERE_deathanddestruction:0 "Смерть і руйнування"
-ERE_deathanddestruction_desc:0 "Імперія приймає тотальну повітряну війну. Наші бомбардувальники сиплять вогонь на ворожі міста, заводи та мораль. Це не просто бій — це знищення згори, нагадування, що гнів Риму не знає меж."
+ ERE_longrangeescorts:0 "Long Range Escorts"
+ ERE_longrangeescorts_desc:0 "To protect our bombers deep in enemy territory, we develop long-range fighter escorts. These guardians of the sky ensure our strategic assets reach their targets and return safely, extending the Empire’s aerial dominance."
 
-ERE_modernflyingdoctrine:0 "Сучасна льотна доктрина"
-ERE_modernflyingdoctrine_desc:0 "Ми переходимо до доктрини далекобійного стратегічного бомбардування, націленого на серце ворожих земель. Натхненні імперськими кампаніями минулого, ми прагнемо не лише перемогти армії, а й паралізувати цілі нації з неба."
+ ERE_fighterdevelopment:0 "Fighter Development"
+ ERE_fighterdevelopment_desc:0 "Speed, agility, and firepower—our fighter program focuses on creating elite aircraft to control the skies. Whether intercepting bombers or dueling enemy aces, Roman pilots will fly the finest machines ever built."
 
-ERE_strategicbomberdevelopment:0 "Розробка стратегічних бомбардувальників"
-ERE_strategicbomberdevelopment_desc:0 "Величезні висотні бомбардувальники проектуються, щоб нести помсту Риму через континенти. Ці літаки літатимуть далі, вдарятимуть сильніше та повертатимуться неушкодженими — символи імперського охоплення та технологічної майстерності."
+ ERE_aerodome_construction:0 "Aerodome Construction"
+ ERE_aerodome_construction_desc:0 "Airfields are the lifeblood of our aerial operations. We construct modern aerodromes across the Empire, enabling rapid deployment, maintenance, and logistical support for our growing air force."
 
-ERE_strategicbomberdoctrine:0 "Доктрина стратегічних бомбардувальників"
-ERE_strategicbomberdoctrine_desc:0 "Ми формалізуємо нашу філософію стратегічного бомбардування: точність, наполегливість і психологічний вплив. Заводи, інфраструктура та лінії постачання будуть зведені до руїн. Ворог відчує нашу присутність ще до прибуття наших легіонів."
+ ERE_forwardoperatingbases:0 "Forward Operating Bases"
+ ERE_forwardoperatingbases_dessc:0 "To project power beyond our borders, we establish forward bases near hostile frontiers. These installations allow our aircraft to strike swiftly and retreat safely—Rome’s reach extends with every runway laid."
 
-ERE_longrangeescorts:0 "Далекобійні ескортні винищувачі"
-ERE_longrangeescorts_desc:0 "Щоб захистити наші бомбардувальники глибоко в ворожій території, ми розробляємо далекобійні винищувачі ескорту. Ці охоронці неба забезпечують безпечне досягнення цілей нашими стратегічними активами."
+ ERE_expandaircorpsflyingschool:0 "Expand Air Corps Flying School"
+ ERE_expandaircorpsflyingschool_desc:0 "The demand for skilled pilots grows. We expand our training programs, introducing advanced simulators, tactical theory, and rigorous flight regimens. The skies will be filled with Roman wings."
 
-ERE_fighterdevelopment:0 "Розробка винищувачів"
-ERE_fighterdevelopment_desc:0 "Швидкість, маневреність і вогнева міць — наша програма винищувачів зосереджена на створенні елітних літаків для контролю над небом. Чи то перехоплення бомбардувальників, чи двобої з ворожими асами, римські пілоти літатимуть на найкращих машинах."
+ ERE_radar_development:0 "Radar Development"
+ ERE_radar_development_desc:0 "The Empire embraces the invisible frontier. Radar technology allows us to detect incoming threats, coordinate defenses, and guide interceptors with unmatched precision. Rome now sees what others cannot."
 
-ERE_aerodome_construction:0 "Будівництво аеродромів"
-ERE_aerodome_construction_desc:0 "Аеродроми — це життєва кров наших повітряних операцій. Ми будуємо сучасні аеродроми по всій імперії, забезпечуючи швидке розгортання, технічне обслуговування та логістичну підтримку для наших зростаючих повітряних сил."
+ ERE_deathfromthesky:0 "Death From The Sky"
+ ERE_deathfromthesky_desc:0 "The legions now fall from the heavens. We train elite airborne units to strike behind enemy lines, seize key positions, and sow chaos. These paratroopers are the spearhead of imperial shock warfare."
 
-ERE_forwardoperatingbases:0 "Передові оперативні бази"
-ERE_forwardoperatingbases_dessc:0 "Щоб проєктувати силу за межі наших кордонів, ми створюємо передові бази поблизу ворожих рубежів. Ці об'єкти дозволяють нашим літакам швидко завдавати ударів і безпечно відступати — охоплення Риму розширюється з кожною злітною смугою."
+ ERE_womenaces:0 "Women Aces"
+ ERE_womenaces_desc:0 "Breaking tradition, the Empire recognizes the valor and skill of its female pilots. These trailblazers soar through the skies, earning glory and reshaping the future of Roman aviation. Their courage inspires a new generation."
 
-ERE_expandaircorpsflyingschool:0 "Розширення льотної школи повітряного корпусу"
-ERE_expandaircorpsflyingschool_desc:0 "Попит на кваліфікованих пілотів зростає. Ми розширюємо наші навчальні програми, вводячи просунуті симулятори, тактичну теорію та суворі льотні режими. Небо наповниться римськими крилами."
+ ERE_officeofthelegions:0 "Office of the Legions"
+ ERE_officeofthelegions_desc:0 "We strengthen the administrative and organizational structure of our legions, reinforcing the backbone of the Eastern Roman military. War support surges as our authority consolidates."
 
-ERE_radar_development:0 "Розробка радарів"
-ERE_radar_development_desc:0 "Імперія приймає невидимий рубіж. Радарні технології дозволяють нам виявляти загрози, координувати оборону та спрямовувати перехоплювачі з неперевершеною точністю. Рим бачить те, що інші не можуть."
 
-ERE_deathfromthesky:0 "Смерть із неба"
-ERE_deathfromthesky_desc:0 "Легіони тепер падають із небес. Ми тренуємо елітні повітряно-десантні підрозділи для ударів за ворожими лініями, захоплення ключових позицій і сіяння хаосу. Ці парашутисти — вістря імперської шокової війни."
+ ERE_reformthelegions:0 "Reform the Legions"
+ ERE_reformthelegions_desc:0 "Modernizing our ancient legions, we introduce new tactics, training, and equipment to prepare for the conflicts ahead, even at the cost of some stability."
 
-ERE_womenaces:0 "Жінки-аси"
-ERE_womenaces_desc:0 "Ламаючи традиції, імперія визнає відвагу та майстерність своїх жінок-пілотів. Ці першопрохідці ширяють у небесах, здобуваючи славу та змінюючи майбутнє римської авіації. Їхня мужність надихає нове покоління."
 
-ERE_officeofthelegions:0 "Управління легіонів"
-ERE_officeofthelegions_desc:0 "Ми зміцнюємо адміністративну та організаційну структуру наших легіонів, посилюючи основу східноримської армії. Підтримка війни зростає разом із консолідацією нашої влади."
+ ERE_cassiandoctrine:0 "Cassian Doctrine"
+ ERE_cassiandoctrine_desc:0 "A revolutionary set of land tactics developed by General Cassian, prioritizing mobility, firepower, and discipline in preparation for modern warfare."
 
-ERE_reformthelegions:0 "Реформа легіонів"
-ERE_reformthelegions_desc:0 "Модернізуючи наші стародавні легіони, ми впроваджуємо нові тактики, навчання та обладнання для підготовки до майбутніх конфліктів, навіть ціною певної стабільності."
+ ERE_aurelianreforms:0 "Aurelian Reforms"
+ ERE_aurelianreforms_desc:0 "Reinvigorating the legions with structural and tactical changes inspired by Emperor Aurelian, improving efficiency and battlefield resilience."
 
-ERE_cassiandoctrine:0 "Доктрина Кассіана"
-ERE_cassiandoctrine_desc:0 "Революційний набір наземних тактик, розроблений генералом Кассіаном, що надає пріоритет мобільності, вогневій силі та дисципліні для підготовки до сучасної війни."
+ ERE_examiningboards:0 "Examining Boards"
+ ERE_examiningboards_desc:0 "We implement boards to assess officers and tactics, refining command structures and preparing for more advanced reforms."
 
-ERE_aurelianreforms:0 "Реформи Авреліана"
-ERE_aurelianreforms_desc:0 "Відродження легіонів за допомогою структурних і тактичних змін, натхненних імператором Авреліаном, покращує ефективність і стійкість на полі бою."
 
-ERE_examiningboards:0 "Екзаменаційні ради"
-ERE_examiningboards_desc:0 "Ми створюємо ради для оцінки офіцерів і тактик, удосконалюючи командні структури та готуючи ґрунт для більш просунутих реформ."
+ ERE_efficientproductionprogram:0 "Efficient Production Program"
+ ERE_efficientproductionprogram_desc:0 "Optimizing factories and training programs to maximize output, ensuring our forces are well-equipped for prolonged engagements."
 
-ERE_efficientproductionprogram:0 "Програма ефективного виробництва"
-ERE_efficientproductionprogram_desc:0 "Оптимізація заводів і навчальних програм для максимізації випуску, забезпечуючи добре оснащення наших сил для тривалих бойових дій."
 
-ERE_shockandawe:0 "Шок і трепет"
-ERE_shockandawe_desc:0 "Використовуючи сконцентровану вогневу міць і швидкі наступи, ми прагнемо приголомшити ворогів, перш ніж вони встигнуть відповісти, досягаючи рішучих перемог на ранніх етапах."
+ ERE_shockandawe:0 "Shock and Awe"
+ ERE_shockandawe_desc:0 "Using concentrated firepower and rapid offensives, we aim to overwhelm enemies before they can respond, achieving decisive victories early."
 
-ERE_theromanarmy:0 "Римська армія"
-ERE_theromanarmy_desc:0 "Відроджуючи наші традиції та модернізуючи тактики, наші легіони готові захищати імперію з неперевершеною дисципліною та доктриною."
 
-ERE_militaryresearch:0 "Військові дослідження"
-ERE_militaryresearch_desc:0 "Інвестуючи в технології комбінованих озброєнь, ми просуваємо наземні, повітряні та морські можливості для збереження стратегічної переваги."
+ ERE_theromanarmy:0 "The Roman Army"
+ ERE_theromanarmy_desc:0 "Revitalising our traditions and modernizing tactics, our legions stand ready to defend the Empire with unparalleled discipline and doctrine."
 
-ERE_increasemilitaryspending:0 "Збільшення військових витрат"
-ERE_increasemilitaryspending_desc:0 "Виділення додаткових ресурсів на наші збройні сили забезпечує готовність і зміцнює основу оборони імперії."
 
-ERE_warbonds:0 "Військові облігації"
-ERE_warbonds_desc:0 "Мобілізуючи населення для фінансування армії, ми будуємо збройові заводи та посилюємо підтримку імперських кампаній."
+ ERE_militaryresearch:0 "Military Research"
+ ERE_militaryresearch_desc:0 "Investing in combined-arms technologies, we advance land, air, and naval capabilities to maintain strategic superiority."
 
-ERE_increasearmyspending:0 "Збільшення витрат на армію"
-ERE_increasearmyspending_desc:0 "Прямі інвестиції в армію покращують можливості та відкривають перспективи для елітних підрозділів."
 
-ERE_investinthelegions:0 "Інвестиції в легіони"
-ERE_investinthelegions_desc:0 "Покращуючи навчання, логістику та технології, наші легіони стають сучасною бойовою силою, здатною протистояти будь-якій загрозі."
+ ERE_increasemilitaryspending:0 "Increase Military Spending"
+ ERE_increasemilitaryspending_desc:0 "Allocating more resources to our armed forces ensures readiness and strengthens the backbone of the Empire’s defenses."
 
-ERE_modernisedarmy:0 "Модернізована армія"
-ERE_modernisedarmy_desc:0 "Наші легіони повністю модернізовані, поєднуючи стародавню дисципліну з передовими стратегіями та обладнанням."
 
-ERE_increasemilitaryproduction:0 "Збільшення військового виробництва"
-ERE_increasemilitaryproduction_desc:0 "Ми підвищуємо промисловий випуск для оснащення армії, прискорюємо механізацію та підтримуємо технологічну перевагу."
+ ERE_warbonds:0 "War Bonds"
+ ERE_warbonds_desc:0 "Mobilizing the population to fund the military, we construct arms factories and reinforce support for the Empire’s campaigns."
 
-ERE_tankcompetition:0 "Танковий конкурс"
-ERE_tankcompetition_desc:0 "Сприяючи інноваціям у броньованій війні, ми проводимо конкурси для виявлення та виробництва найкращих танкових конструкцій."
 
-ERE_armouredcataphracts:0 "Броньовані катафракти"
-ERE_armouredcataphracts_desc:0 "Наші важкі броньовані підрозділи втілюють дух римської кавалерії, поєднуючи вогневу міць, захист і шокові тактики."
+ ERE_increasearmyspending:0 "Increase Army Spending"
+ ERE_increasearmyspending_desc:0 "Direct investment in the army improves capabilities and unlocks opportunities for elite units."
 
-ERE_armybill:0 "Військовий закон"
-ERE_armybill_desc:0 "Законодавство для зміцнення армії, розширення її впливу та поступового зміщення політичної прихильності до більш мілітаризованої держави."
 
-ERE_artilleryprogram:0 "Програма просунутої артилерії"
-ERE_artilleryprogram_desc:0 "Інвестиції в важкі гармати та облогові знаряддя посилять вогневу міць і можливості укріплення східноримської армії."
+ ERE_investinthelegions:0 "Invest in the Legions"
+ ERE_investinthelegions_desc:0 "Enhancing training, logistics, and technology, our legions become a modern fighting force capable of standing against any threat."
 
-ERE_productionpriority:0 "Пріоритет виробництва"
-ERE_productionpriority_desc:0 "Перенаправлення ресурсів на ключові галузі зміцнює нашу економіку та забезпечує постачання критично важливих військових матеріалів на передову."
 
-ERE_modernisecavalrytactics:0 "Модернізація кавалерійських тактик"
-ERE_modernisecavalrytactics_desc:0 "Реформування кавалерії за допомогою сучасних маневрів і тренувань відновить перевагу східноримських вершників на полі бою."
+ ERE_modernisedarmy:0 "Modernised Army"
+ ERE_modernisedarmy_desc:0 "Our legions are fully modernized, combining ancient discipline with cutting-edge strategy and equipment."
 
-ERE_mechanisationprogram:0 "Програма механізації"
-ERE_mechanisationprogram_desc:0 "Впровадження моторизованих транспортних засобів і механізованих підрозділів підвищує мобільність і зменшує залежність від традиційних піхотних формувань."
 
-ERE_womenarmycorps:0 "Жіночий армійський корпус"
-ERE_womenarmycorps_desc:0 "Формування корпусу жінок-добровольців допоможе усунути нестачу робочої сили та продемонструє відданість імперії тотальній мобілізації."
+ ERE_increasemilitaryproduction:0 "Increase Military Production"
+ ERE_increasemilitaryproduction_desc:0 "We boost industrial output to equip the army, accelerate mechanization, and maintain technological superiority."
 
-ERE_rifledevelopment:0 "Розробка гвинтівок"
-ERE_rifledevelopment_desc:0 "Розробка сучасних гвинтівок покращує вогневу міць піхоти та забезпечує конкурентоспроможність наших солдатів на сучасному полі бою."
 
-ERE_newarmsfactories:0 "Нові збройові заводи"
-ERE_newarmsfactories_desc:0 "Розширення збройових виробничих потужностей імперії гарантує стабільне постачання зброї та боєприпасів для наших військ."
+ ERE_tankcompetition:0 "Tank Competition"
+ ERE_tankcompetition_desc:0 "Encouraging innovation in armored warfare, we sponsor competitions to identify and produce the best tank designs."
 
-ERE_newtankassemblies:0 "Нові танкові заводи"
-ERE_newtankassemblies_desc:0 "Будівництво нових танкових заводів дозволяє східноримській армії виводити на поле сучасні броньовані підрозділи, здатні до рішучих проривів."
 
-ERE_legacyofjustinian:0 "Спадщина Юстиніана"
-ERE_legacyofjustinian_desc:0 "Відродження бачення імператора Юстиніана надихає на реформи, централізацію та відродження величі східноримської держави."
+ ERE_armouredcataphracts:0 "Armoured Cataphracts"
+ ERE_armouredcataphracts_desc:0 "Our heavy armored units embody the spirit of the Roman cavalry, combining firepower, protection, and shock tactics."
+
+
+ ERE_armybill:0 "Army Bill"
+ ERE_armybill_desc:0 "Legislation to strengthen the army, expand its influence, and subtly shift political favor towards a more militarized state."
+
+ 
+ ERE_artilleryprogram:0 "Advanced Artillery Program"
+ ERE_artilleryprogram_desc:0 "Investing in heavy guns and siege weapons will bolster the Eastern Roman army’s firepower and fortification capabilities."
+
+ ERE_productionpriority:0 "Production Priority"
+ ERE_productionpriority_desc:0 "Redirecting resources towards key industries strengthens our economy and ensures critical war materiel reaches the frontlines."
+
+ ERE_modernisecavalrytactics:0 "Modernise Cavalry Tactics"
+ ERE_modernisecavalrytactics_desc:0 "Reforming the cavalry with contemporary manoeuvres and training will restore the Eastern Roman horsemen’s battlefield supremacy."
+
+ ERE_mechanisationprogram:0 "Mechanisation Program"
+ ERE_mechanisationprogram_desc:0 "Introducing motorised vehicles and mechanised units enhances mobility and reduces reliance on traditional infantry formations."
+
+ ERE_womenarmycorps:0 "Women’s Army Corps"
+ ERE_womenarmycorps_desc:0 "Forming a corps of women volunteers will supplement manpower shortages and demonstrate the empire’s commitment to total mobilisation."
+
+ ERE_rifledevelopment:0 "Rifle Development"
+ ERE_rifledevelopment_desc:0 "Developing modern rifles improves infantry firepower and ensures our soldiers remain competitive on the modern battlefield."
+
+ ERE_newarmsfactories:0 "New Arms Factories"
+ ERE_newarmsfactories_desc:0 "Expanding the empire’s arms production facilities guarantees a steady supply of weapons and ammunition for our troops."
+
+ ERE_newtankassemblies:0 "New Tank Assemblies"
+ ERE_newtankassemblies_desc:0 "Building new tank factories allows the Eastern Roman army to field modern armoured units capable of decisive breakthroughs."
+
+ ERE_legacyofjustinian:0 "Legacy of Justinian"
+ ERE_legacyofjustinian_desc:0 "Reviving the vision of Emperor Justinian inspires reforms, centralisation, and the revival of the Eastern Roman state’s greatness."

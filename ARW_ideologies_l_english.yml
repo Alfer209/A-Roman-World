@@ -1,89 +1,118 @@
 ﻿l_english:
 
-romanitasautocracy: "Романітанська автократія"
-romanitasautocracy_noun: "Римський автократ"
-romanitasautocracy_desc: "Римський автократичний режим"
+romanitasautocracy: "Romanitas Autocracy"
+romanitasautocracy_noun: "Roman Autocractic"
+romanitasautocracy_desc: "Roman Autocratic Regime"
 
-aristocracy: "Римська елліністична аристократія"
-aristocracy_desc: "Римська елліністична аристократія — це витончена синтеза давньоримської влади та елліністичного державного управління, що наголошує на балансі між імперською владою та аристократичним наглядом. Заснована на традиціях Візантії, вона підтримує божественну легітимність, одночасно сприяючи розширенню бюрократичної адміністрації. Ця система цінує культуру, освіту та дипломатію, прагнучи зберегти східну спадщину Риму як через управління, так і через ретельне координування військової сили."
+aristocracy: "Roman Hellenistic Aristocracy"
+aristocracy_desc: "Roman Hellenistic Aristocracy is a sophisticated synthesis of ancient Roman authority and Hellenistic statecraft, emphasizing a balance between imperial power and aristocratic oversight. Rooted in the traditions of Byzantium, it upholds divine legitimacy while promoting a sprawling, bureaucratic administration. This system prizes culture, learning, and diplomacy, seeking to maintain Rome’s eastern legacy through both governance and the careful orchestration of military might."
 
-autocratia: "Латино-римська автократія"
-autocratia_desc: "Латино-римська автократія втілює незмінну могутність Західного Риму, де центральна влада має беззаперечну силу, засновану на традиціях і військовому престижі. Ця система, міцно вкорінена в латино-римських звичаях, наголошує на сильному лідерстві, територіальній експансії та дисциплінованому дотриманні законів. Вона покликана поширювати римський вплив назовні, придушуючи внутрішні розбіжності та підтримуючи стабільність завдяки поєднанню влади, військової сили та дотримання класичних римських ідеалів.
+autocratia: "Latin Roman Autocratia"
+autocratia_desc: "The Latin Roman Autocratia embodies the enduring might of Western Rome, where the central authority wields unquestioned power grounded in tradition and martial prestige. Firmly rooted in Latin Roman customs, this system emphasizes strong leadership, territorial expansion, and the disciplined enforcement of law. It is designed to project Roman influence outward while suppressing internal dissent, maintaining stability through a combination of authority, military strength, and adherence to classical Roman ideals."
 
-neoromanism: "Неороманізм"
-neoromanism_desc: "Неороманізм — це сучасна репрезентація Римських ідеалів, сформована в Легіонерських Штатах після отримання незалежності від влади Західної Римської Імперії. Поєднуючи революційний дух з шаною до історичного управління Римом, він наголошує на громадянському мілітаризмі, національному об'єднанні та промисловій модернізації. Неороманізм відстоює розширення держави як за допомогою дипломатії, так і рішучих дій, прагнучи відродити велич Риму в сучасному, американізованому контексті, зберігаючи при цьому його філософську та культурну спадщину."
-FACTION_NAME_ROMANITASAUTOCRACY_1: "Альянс $LEADER_COUNTRY_ADJ$"
+neoromanism: "Neo Romanism"
+neoromanism_desc: "Neo-Romanism is a modern reinterpretation of Roman ideals, formed in the Legion States after independence from Western Roman authority. Blending revolutionary spirit with reverence for Rome’s historic governance, it emphasizes civic militarism, national unification, and industrial modernization. Neo-Romanism champions the expansion of the state through both diplomacy and decisive action, seeking to resurrect the grandeur of Rome in a contemporary, Americanised context while preserving its philosophical and cultural legacy."
 
-russiandem: "Демократія"
-russiandem_noun: "Демократичний"
-russiandem_desc: "Соціал-демократичний режим"
+FACTION_NAME_ROMANITASAUTOCRACY_1: "The $LEADER_COUNTRY_ADJ$ Alliance"
 
-socdem: "Соціал-демократія"
-socdem_desc: "Соціал-демократія — це соціальна, економічна та політична філософія в рамках соціалізму, яка підтримує політичну та економічну демократію, а також поступовий, реформістський і демократичний підхід до досягнення соціальної рівності."
+russiandem: "Democracy"
+russiandem_noun: "Democratic"
+russiandem_desc: "Socialist Democratic Regime"
 
-demsoc: "Демократичний Соціалізм"
-demsoc_desc: "Демократичний Соціалістичний режим"
+socdem: "Social Democracy"
+socdem_desc: "Social democracy is a social, economic, and political philosophy within socialism that supports political and economic democracy and a gradualist, reformist, and democratic approach toward achieving social equality. All other democratic forms of governments, such as liberal and conservative stem from the Russian Revolution.\n--------------------------\n§YSocial Democracy§!"
 
-provs: "Тимчасова Соціалістична Республіка"
-provs_desc: "Створені під наглядом Російської Федеративної Соціалістичної Республіки, тимчасові соціалістичні республіки служать як буфером, так і експериментом у соціалістичному управлінні. Хоча їхні інституції офіційно є «тимчасовими», на практиці вони перебувають під пильним наглядом і керівництвом російських чиновників та військових адміністраторів. Проголошена незалежність є скоріше символічною, ніж реальною, а політичний курс республік міцно пов'язаний з Москвою."
+demsoc: "Democratic Socialism"
+demsoc_desc: "TESTING"
 
-parliament: "Парламентська демократія"
-parliament_desc: "Парламентська демократія — це система правління, за якої народ обирає представників для формування законодавчої влади, яка, у свою чергу, контролює виконавчу владу. Влада виходить від парламенту, де дебати, компроміси та правило більшості визначають напрямок розвитку країни. Вона цінує громадянські свободи, верховенство права та мирну передачу влади. Хоча парламентську демократію часто критикують за нерішучість або повільність у кризових ситуаціях, вона забезпечує легітимність, закріплюючи державну владу у волі своїх громадян."
+liberaldem: "Liberal Democracy"
+liberaldem_desc: "Liberal Democracy is a representative system shaped by the Russian Revolution, where the old autocracy fell and a new era of popular governance began. It upholds individual liberty, political pluralism, and equality under the law. Free and fair elections, constitutional protections, and limits on state power safeguard the rights of citizens from authoritarian rule. Inspired by Russia’s democratic revolution, nations across the world adopted these principles, creating a global order where personal freedoms and civic participation serve as the foundation of government.\n--------------------------\n§YLiberalism§!"
 
-FACTION_NAME_RUSSIANDEM_1: "Альянс $LEADER_COUNTRY_ADJ$"
+conservativedem: "Conservative Democracy"
+conservativedem_desc: "Conservative Democracy, or simply Conservatism, emphasises responsible governance rooted in tradition, cultural heritage, and national identity. While embracing the democratic achievements pioneered by revolutionary Russia, conservative democrats argue for gradual reform and prioritising social stability over radical change. They uphold values such as family, religious institutions, national unity, property rights, and the rule of law. In both Russian and Roman worlds, these principles aim to preserve the moral and historical foundations of society while still honoring the democratic rights earned through the struggle against autocracy.\n--------------------------\n§YConservatism§!"
 
-monarchism: "Монархізм"
-monarchism_noun: "Монархіст"
-monarchism_desc: "Монархіський режим"
+ldsdem: "Democratic Theocracy"
+ldsdem_desc: "A theocracy with local democracy."
 
-legitmonarchism: "Легітимний монархізм"
-legitmonarchism_desc: "Легітимний монархізм — це ідеологія династичної спадкоємності та законного правонаступництва, яка особливо поширена в Новій Іспанії. Заснована на лояльності до вигнаної іспанської корони, вона розглядає Мексику не як наступницю, а як справжню спадкоємицю Іспанської імперії. Легітимний монархізм закликає до відновлення Іберії під владою її законного монарха, ставлячи традиції та божественне право вище республіканізму чи претендентів на престол."
+provs: "Provisional Socialist Republic"
+provs_desc: "Established under the oversight of the Russian Federative Socialist Republic, provisional socialist republics serves as both a buffer and an experiment in socialist governance. While its institutions are officially 'temporary,' in practice they are closely monitored and directed by Russian officials and military administrators. Its proclaimed independence is more symbolic than real, with its political course firmly tied to Moscow."
 
-mandateofheaven: "Мандат Небес"
-mandateofheaven_desc: "Мандат Небес — це божественний принцип, що надає легітимність правлінню, дарований імператору як Сину Неба. На відміну від абсолютного божественного права, цей мандат є умовним — процвітання, справедливість і порядок свідчать про прихильність Неба, тоді як голод, корупція і заворушення сигналізують про його відмову. За часів династії Мін мандат поєднує конфуціанську гармонію, династичну спадкоємність і бюрократичне управління, пов'язуючи правителя і підданих священним союзом. Слідувати за імператором означає підтримувати космічний порядок; чинити йому опір означає кидати виклик самому Небу."
+FACTION_NAME_RUSSIANDEM_1: "The $LEADER_COUNTRY_ADJ$ Alliance"
 
-constitmonarch: "Конституційна Монархія"
-constitmonarch_desc: "Конституційна монархія — це система правління, в якій монарх, наприклад король або королева, є главою держави, але його повноваження обмежені конституцією та рекомендаціями обраного уряду. Хоча монарх символічно представляє націю, його фактична політична влада обмежена законом і звичаями, а реальна влада належить демократично обраним чиновникам, які керують країною."
+monarchism: "Monarchism"
+monarchism_noun: "Monarchist"
+monarchism_desc: "Monarchist Regime"
 
-absolutism: "Абсолютна Монархія"
-absolutism_desc: "Абсолютна монархія — це форма правління, за якої єдиний правитель, монарх, має необмежену і безмежну владу над державою, без будь-яких стримувань і противаг з боку конституції, законодавчих органів чи інших урядових структур. У цій системі монарх є єдиним джерелом політичної влади і може приймати рішення та закони без необхідності затвердження з боку інших гілок влади."
+legitmonarchism: "Legitimist Monarchism"
+legitmonarchism_desc: "Legitimist Monarchism is the ideology of dynastic continuity and rightful inheritance, upheld above all in New Spain. Rooted in loyalty to the exiled Spanish Crown, it frames Mexico not as a successor, but as the true heir to the Spanish Empire. Legitimist Monarchism calls for the restoration of Iberia under its lawful monarch, placing tradition and divine right above republicanism or pretender thrones."
 
-FACTION_NAME_MONARCHISM_1: "Альянс $LEADER_COUNTRY_ADJ$"
+mandateofheaven: "Mandate of Heaven"
+mandateofheaven_desc: "The Mandate of Heaven is the divine principle that grants legitimacy to rule, bestowed upon the Emperor as the Son of Heaven. Unlike absolute divine right, this mandate is conditional—prosperity, justice, and order prove Heaven’s favor, while famine, corruption, and unrest signal its withdrawal. Under the Ming Dynasty, the Mandate intertwines Confucian harmony, dynastic continuity, and bureaucratic governance, binding ruler and subject in a sacred covenant. To follow the Emperor is to uphold the cosmic order; to resist him is to challenge Heaven itself."
 
-ordenstaat: "Орденштат"
-ordenstaat_noun: "Орденштат"
-ordenstaat_desc: "Режим Орденштату"
+constitmonarch: "Constitutional Monarchy"
+constitmonarch_desc: "A constitutional monarchy is a system of government where a monarch, such as a king or queen, serves as the head of state, but their powers are limited by a constitution and the advice of an elected government. While the monarch represents the nation symbolically, their actual political authority is constrained by law and custom, with power residing in democratically elected officials who govern the country."
 
-teutonic: "Тевтонізм"
-teutonic_desc: "Тевтонізм, державна ідеологія Тевтонської імперії, є войовничою ультранаціоналістичною ідеологією, викуваною в горнилі багатовікової боротьби проти Риму. Заснована на середньовічному лицарському ордені, вона підносить націю до рівня священного братства — святого «Ordensstaat» — яке присягнулося бути «щитом Європи» проти «корумпованого римського світу». Тевтони вважають себе обраними Богом хрестоносцями, спадкоємцями божественної місії зруйнувати Рим, скинути його самозванців-імператорів і підняти свій чорний хрест над світом. Її доктрини поєднують релігійний фанатизм, расовий шовінізм і повну покірність Хохмейстеру, обіцяючи єдність і славу через завоювання. Для своїх послідовників тевтонізм — це не просто політика, а свята війна.
-FACTION_NAME_ORDENSTAAT_1: "$LEADER_COUNTRY_ADJ$ий Імперіум "
+absolutism: "Absolute Monarchy"
+absolutism_desc: "An absolute monarchy is a form of government where a single ruler, the monarch, holds unlimited and unrestrained power over the state, with no checks or balances from constitutions, legislatures, or other governmental bodies. In this system, the monarch is the sole source of political authority and can make decisions and laws without requiring approval from other parts of the government."
 
-paternalism: "Патерналізм"
-paternalism_noun: "Патерналіст"
-paternalism_desc: "Патерналістичний режим"
+FACTION_NAME_MONARCHISM_1: "The $LEADER_COUNTRY_ADJ$ Alliance"
 
-FACTION_NAME_PATERNALISM_1: "$LEADER_COUNTRY_ADJ$івський союз"
+ordenstaat: "Ordenstaat"
+ordenstaat_noun: "Ordenstaat"
+ordenstaat_desc: "Ordenstaat Regime"
 
-corppat: "Корпоративний Патерналізм"
-corppat_desc: "Не будучи ані суверенною державою, ані справжньою колонією, міста-концесії існують під контролем міжнародного мандата, до складу якого входять іноземні генерали, губернатори та корпоративні синдикати. Управління є патерналістським, виправдовується «захистом» торгівлі та порядку, але в основі лежить прагнення до прибутку. Ця унікальна структура поєднує патерналістську владу з корпоративним управлінням, створюючи міжнародну зону, де суверенітет поступається місцем інтересам транснаціональних корпорацій.\n--------------------------\n§YКорповативний Патерналізм§!"
+teutonic: "Teutonism"
+teutonic_desc: "Teutonism, the state creed of the Teutonic Empire, is a militant ultra-nationalist ideology forged in the crucible of centuries of struggle against Rome. Rooted in the medieval order of knights, it elevates the nation into a sacred brotherhood — a holy 'Ordensstaat' — sworn to be the 'Shield of Europe' against the 'corrupt Roman world.' The Teutons see themselves as God’s chosen crusaders, heirs to a divine mission to shatter Rome, dethrone its pretender emperors, and raise their black cross over the world. Its doctrines fuse religious zeal, racial chauvinism, and total obedience to the Hochmeister, promising unity and glory through conquest. To its followers, Teutonism is not merely politics, but a holy war."
 
-patautocrat: "Патерналіська Автократія"
-patautocrat_desc: "Патерналістська Автократія — це система, побудована на порядку, традиціях та авторитеті. Держава розглядається як керівна сила, де правителі керують як захисники нації, а не слуги народу. Індивідуальна свобода сильно обмежена, але натомість народу обіцяють стабільність, єдність та збереження встановлених цінностей. Лояльність до держави та послух її лідерам вважаються чеснотами, що забезпечують стабільність у часи невизначеності.\n--------------------------\n§YПатерналістична Автократія§!"
+democratic_jingoism:0 "Democratic Jingoism"
+democratic_jingoism_desc:0 "Blending radical militarism with an elected mandate, Democratic Jingoism is a form of authoritarian democracy which seeks to see a state transformed into a war machine but by the will of the people as opposed to a military dictator." #placeholder description
 
-theocracy: "Теократія"
-theocracy_noun: "Теократичний"
-theocracy_desc: "Теократичний режим"
+FACTION_NAME_ORDENSTAAT_1: "The $LEADER_COUNTRY_ADJ$ Imperium"
 
-FACTION_NAME_THEOCRACY_1: "$LEADER_COUNTRY_ADJ$івська коаліція"
+paternalism: "Paternalism"
+paternalism_noun: "Paternal"
+paternalism_desc: "Paternal Regime"
 
-islamictheocracy: "Ісламська Теократія"
-islamictheocracy_desc: "Ісламська теократія — це форма правління, в якій релігійне право, що випливає з ісламських принципів і вчень, становить основу правової системи та політичної влади держави. У цій системі релігійні лідери або вчені мають значну владу, впливають на урядові процеси та заявляють про божественне керівництво або діють як представники Бога на Землі. Мета полягає у створенні системи правління, яка відображає та забезпечує дотримання ісламських цінностей і законів, часто через раду релігійних діячів, які перевіряють кандидатів або впливають на політику.\n--------------------------\n§YІсламська Теократія§!"
+FACTION_NAME_PATERNALISM_1: "The $LEADER_COUNTRY_ADJ$ Union"
+
+corppat: "Corporate Paternalism"
+corppat_desc: "Neither a sovereign state nor a true colony, the Concession Cities exist under the control of an international mandate composed of foreign generals, governors, and corporate syndicates. Rule is paternalistic, justified as 'protection' of trade and order, yet fundamentally driven by profit. This unique structure blends paternal authority with corporate governance, creating an international zone where sovereignty is sacrificed to multinational interests.\n--------------------------\n§YCorporate Paternalism§!"
+
+patautocrat: "Paternal Autocracy"
+patautocrat_desc: "A paternal autocracy is a system built upon order, traditon, and authority. The state is seen as a guiding hand, where rulers govern as guardians of the nation rather than servants of the people. Individual freedom is heavily limited, but in exchange the people are promised stability, unity, and the preseveration of established values. Loyalty to the state and obedience to its leaders are upheld as virtues, ensuring continuity in times of uncertainity.\n--------------------------\n§YPaternal Autocracy§!"
+
+theocracy: "Theocracy"
+theocracy_noun: "Theocratic"
+theocracy_desc: "Theocratic Regime"
+
+FACTION_NAME_THEOCRACY_1: "The $LEADER_COUNTRY_ADJ$ Coalition"
+
+islamictheocracy: "Islamic Theocracy"
+islamictheocracy_desc: "An Islamic theocracy is a form of government where religious law, derived from Islamic principles and teachings, forms the basis of the state's legal system and political authority. In this system, religious leaders or scholars hold significant power, exercising influence over governmental processes and claiming divine guidance or acting as God's representatives on Earth. The goal is to establish a system of government that reflects and enforces Islamic values and laws, often through a council of religious figures who vet candidates or influence policy.\n--------------------------\n§YIslamic Theocracy§!"
+
+gen_theo:0 "Theocracy" #generic placeholder
+gen_theo_desc:0 "TODO - PLACEHOLDER"
+
+ldstheocracy: "Mormon Theocracy"
+ldstheocracy_desc: "A Mormon, or Latter-day-saint theocracy is an archaic form of government wherein the LDS church rules supreme. Such a regime will naturally be replaced by a modern form of theocracy."
 
 radicalsocialism: "Radical Socialism"
 radicalsocialism_noun: "Radical Socialist"
 radicalsocialism_desc: "Radical Socialist Regime"
 
-FACTION_NAME_RADICALSOCIALISM_1: "$LEADER_COUNTRY_ADJ$івський Інтернаціонал "
+FACTION_NAME_RADICALSOCIALISM_1: "The $LEADER_COUNTRY_ADJ$ Internationale"
 
-minsheng: "Міншенг"
-minsheng_desc: "Життєдіяльність народу є основою Республіки. Під керівництвом Ван Цзинвея партія «Міншен» прагне об'єднати роздроблений південь, перерозподілити багатство та надати повноваження селянам і робітникам. Заснована на баченні Сунь Ятсена про три принципи народу, вона надає пріоритет земельній реформі, державній промисловості та громадському добробуту, одночасно протистоячи вторгненню імперіалістичних держав та владі конкуруючих династій. Рух є безкомпромісним, революційним та прагматичним — його метою є відновлення Китаю з нуля, забезпечення того, щоб суверенітет, рівність та добробут народу були невід'ємними стовпами управління.\n--------------------------\n§YМіншенгський Соціалізм§!"
+minsheng: "Minsheng"
+minsheng_desc: "The people’s livelihood is the foundation of the Republic. Under the guidance of Wang Jingwei, Minsheng seeks to unify the fractured south, redistribute wealth, and empower peasants and workers alike. Rooted in Sun Yat-Sen’s vision of the three principles of the people, it prioritises land reform, state-led industry, and public welfare, while resisting the encroachment of imperialist powers and rival dynastic authorities. The movement is uncompromising, revolutionary, and pragmatic—aiming to rebuild China from the ground up, ensuring that sovereignty, equality, and the welfare of the people are inseparable pillars of governance.\n--------------------------\n§YMinsheng Socialism§!"
+
+gen_rad_soc:0 "Radical Socialism"
+gen_rad_soc_desc:0 "TODO - PLACEHOLDER"
+
+ldscom: "Latter Day Saint Communism"
+ldscom_desc: "The Latter day saints have long practiced the law of consecration, communism is a natural extension of this"
+
+cum_anarchy: "Cumanic Anarchism"
+cum_anarchy_desc: "A radical ideology without a state."
+
+communism: "Communism"
+communism_desc: "§R'Communism is the doctrine of the conditions of the liberation of the proletariat.' - Frederick Engels.§!\n\nCommunism is an interesting ideology, to say the least. But what exactly is communism? Descended and encompasses all groups from the thought of Marx and Engels, end goals include the establishment of a classless, stateless, humane and human society based on common ownership of the means of production and free distribution thereof according to one's needs. Its adherents are firm believers in the concept of class struggle, and aim to overthrow the bourgeoisie to establish a dictatorship of the proletariat - a society and government where the working class and the state are synonymous.\n\nWhile some movements believe in electoralism, most strains of communism are fiercely revolutionary, and tirelessly advocate for the coming of said revolution through 'praxis', or direct action. In this regard, they consciously emulate Lenin and reject the prospect of reform and compromise. Of course, critics abound from all sides; from people claiming that human nature is inherently individualistic and selfish, to socialists decrying the means employed to bring about the proletarian dictatorship, communism has no shortage of detractors. And yet, 'Reds' of all stripes fight on, for they know that once the workers of the world unite, they have nothing to lose but their chains.\n--------------------------\n§YCommunism§!"

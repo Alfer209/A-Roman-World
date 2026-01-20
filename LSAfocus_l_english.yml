@@ -1,302 +1,294 @@
 ﻿l_english:
 
-LSA_strengthentheconsulship:0 "Зміцнити Консульство"
-LSA_strengthentheconsulship_desc:0 "Джордж Маршалл прагне консолідувати повноваження Консула, централізуючи владу для забезпечення твердого керівництва нашим державним управлінням. Політична стабільність та військова готовність будуть посилені в рамках підготовки до майбутніх викликів."
+l_english:
 
-LSA_voiceofthelegions:0 "Голос Легіонів"
-LSA_voiceofthelegions_desc:0 "Узгоджуючи уряд із голосами наших військових легіонів, ми сприяємо єдності між громадянами-солдатами Нового Риму та державою. Зміцнюється моральний дух, а наші командири отримують оновлений мандат від народу."
+LSA_strengthentheconsulship:0 "Strengthen the Consulship"
+LSA_strengthentheconsulship_desc:0 "George Marshall seeks to consolidate the powers of the Consul, centralizing authority to ensure a firm hand over the governance of our state. Political stability and military preparedness will be bolstered in preparation for the challenges ahead."
 
-LSA_followeastromandoctrine:0 "Дотримуватися Східноримської Доктрини"
-LSA_followeastromandoctrine_desc:0 "Приймаючи тактику, натхненну східноримськими військовими майстрами, ми прагнемо модернізувати наші армії, інтегруючи дисципліновані формування зі стратегічною передбачливістю. Ця доктрина керуватиме нашими легіонерами у майбутніх війнах."
+LSA_voiceofthelegions:0 "Voice of the Legions"
+LSA_voiceofthelegions_desc:0 "By aligning the government with the voices of our military legions, we foster unity between New Rome's citizen-soldiers and the state. Morale is strengthened, and our commanders gain a renewed mandate from the people."
 
-LSA_eagleascendant:0 "Орел, Що Підноситься"
-LSA_eagleascendant_desc:0 "Римський Орел знову піднімається, сигналізуючи про відродження нашої військової могутності та технологічного прогресу. Військова підтримка зростає, оскільки громадяни гуртуються навколо оновленої сили нашої нації."
+LSA_followeastromandoctrine:0 "Follow the Eastern Roman Doctrine"
+LSA_followeastromandoctrine_desc:0 "Adopting tactics inspired by the Eastern Roman military masters, we aim to modernize our armies, integrating disciplined formations with strategic foresight. This doctrine will guide our legionaries in the wars to come."
 
-LSA_amilitarysenate:0 "Військовий Сенат"
-LSA_amilitarysenate_desc:0 "Реформування Сенату для включення військових лідерів забезпечує, що наш законодавчий орган краще розуміє потреби нації, що перебуває в стані війни. Ефективність командування покращується, а економічний тягар на промисловість полегшується."
+LSA_eagleascendant:0 "The Eagle Ascendant"
+LSA_eagleascendant_desc:0 "The Roman Eagle rises once more, signaling a rebirth of our military might and technological advancement. War support surges as citizens rally behind the renewed strength of our nation."
 
-LSA_westromansupport:0 "Підтримка Західних Римлян"
-LSA_westromansupport_desc:0 "Ми пропонуємо допомогу та військове керівництво фракціям Західного Риму, сприяючи співпраці та спільній обороні проти загроз, що нависають над західними рубежами."
+LSA_amilitarysenate:0 "A Military Senate"
+LSA_amilitarysenate_desc:0 "Reforming the Senate to include military leaders ensures our legislative body better understands the needs of a nation at arms. Command efficiency improves, and economic burdens on industry are lightened."
 
-LSA_millitaryintelligence:0 "Бюро Військової Розвідки"
-LSA_millitaryintelligence_desc:0 "Створення спеціалізованого бюро розвідки дозволяє нам збирати критично важливу інформацію про іноземні держави та внутрішні загрози, підвищуючи ефективність нашого стратегічного планування."
+LSA_westromansupport:0 "Support for the Western Romans"
+LSA_westromansupport_desc:0 "We offer assistance and military guidance to the Western Roman factions, fostering cooperation and shared defense against the threats that loom on the western frontiers."
 
-LSA_aromanagency:0 "Римська Агенція"
-LSA_aromanagency_desc:0 "Реорганізовуючи наші розвідувальні мережі в спеціалізовану 'Римську Агенцію', ми посилюємо оперативну безпеку та покращуємо ефективність таємних операцій на наших територіях."
+LSA_millitaryintelligence:0 "Military Intelligence Bureau"
+LSA_millitaryintelligence_desc:0 "Creating a dedicated intelligence bureau allows us to gather critical information on foreign powers and internal threats, enhancing the effectiveness of our strategic planning."
 
-LSA_enpowerthemerchants:0 "Надати Повноважень Купцям"
-LSA_enpowerthemerchants_desc:0 "Підтримка нашої комерційної еліти зміцнює економічний фундамент держави. Політичний вплив та стабільність зростають, але військові пріоритети мають бути збалансовані з економічною експансією."
+LSA_aromanagency:0 "A Roman Agency"
+LSA_aromanagency_desc:0 "By reorganizing our intelligence networks into a specialized Roman Agency, we enhance operational security and improve the efficiency of covert operations across our territories."
 
-LSA_romanindustries:0 "Римські Промисловості"
-LSA_romanindustries_desc:0 "Промислова модернізація підживлює як торгівлю, так і військове виробництво. Фабрики працюють із метою, оснащуючи наші легіони та збільшуючи загальний випуск продукції нації."
+LSA_enpowerthemerchants:0 "Empower the Merchants"
+LSA_enpowerthemerchants_desc:0 "Supporting our commercial elite strengthens the economic foundation of the state. Political influence and stability rise, but military priorities must be balanced against economic expansion."
 
-LSA_treatywithcanadians:0 "Договір із Канатою"
-LSA_treatywithcanadians_desc:0 "Формалізація дипломатичного договору з Канатою зміцнює наш північний кордон та встановлює рамки для взаємної підтримки у торгівлі та обороні."
+LSA_romanindustries:0 "Roman Industries"
+LSA_romanindustries_desc:0 "Industrial modernisation fuels both commerce and military production. Factories churn with purpose, equipping our legions and increasing the nation's overall output."
 
-LSA_alliancewithcanadians:0 "Союз із Канатою"
-LSA_alliancewithcanadians_desc:0 "Поглиблюючи нашу співпрацю, ми формуємо військовий союз із Канатою, забезпечуючи взаємну оборону та спільну відданість регіональній стабільності."
+LSA_treatywithcanadians:0 "Treaty with Kanata"
+LSA_treatywithcanadians_desc:0 "Formalising a diplomatic treaty with Kanata strengthens our northern border and establishes a framework for mutual support in trade and defense."
 
-LSA_pursuethegoalofunification:0 "Прагнути Мети Об'єднання"
-LSA_pursuethegoalofunification_desc:0 "Легіонерські Штати Америки повинні об'єднати фрагментовані території наших предків. Стратегічні, політичні та військові заходи тривають для відновлення законної величі нашої нації."
+LSA_alliancewithcanadians:0 "Alliance with Kanata"
+LSA_alliancewithcanadians_desc:0 "Taking our cooperation further, we form a military alliance with Kanata, ensuring mutual defense and a shared commitment to regional stability."
 
-LSA_revitalisedlegions:0 "Відроджені Легіони"
-LSA_revitalisedlegions_desc:0 "Наші громадяни-солдати реорганізовані та відновлені, приймаючи сучасну тактику, водночас шануючи стародавню Римську дисципліну. Оновлена армія готова забезпечити волю Республіки."
+LSA_pursuethegoalofunification:0 "Pursue the Goal of Unification"
+LSA_pursuethegoalofunification_desc:0 "The Legion States of America must reunify the fragmented territories of our forefathers. Strategic, political, and military measures are underway to restore our nation to its rightful grandeur."
 
-LSA_atrueromanarmy:0 "Справжня Римська Армія"
-LSA_atrueromanarmy_desc:0 "Перетворюючи наші легіони на професійну, дисципліновану та висококваліфіковану силу, ми готуємо їх до великомасштабних конфліктів, які возз'єднають нашу розділену націю."
+LSA_revitalisedlegions:0 "Revitalised Legions"
+LSA_revitalisedlegions_desc:0 "Our citizen-soldiers are reorganized and reinvigorated, adopting modern tactics while honoring ancient Roman discipline. A rejuvenated military stands ready to enforce the Republic’s will."
 
-LSA_assertnewenglandclaims:0 "Заявити Претензії на Нову Англію"
-LSA_assertnewenglandclaims_desc:0 "Формально заявляючи про наші претензії на території Нової Англії, ми провокуємо напругу з місцевою владою. Загрози зростають, але зростає й легітимність наших зусиль з об'єднання."
+LSA_atrueromanarmy:0 "A True Roman Army"
+LSA_atrueromanarmy_desc:0 "Transforming our legions into a professional, disciplined, and highly-trained force, we prepare them for the large-scale conflicts that will reunite our divided nation."
 
-LSA_encroachontheborder:0 "Зазіхати на Кордон"
-LSA_encroachontheborder_desc:0 "Прикордонні вторгнення демонструють нашу рішучість та тиснуть на Нову Англію. Дипломатичні тертя загострюються, і підготовка до потенційного військового протистояння є необхідною."
+LSA_assertnewenglandclaims:0 "Assert New England Claims"
+LSA_assertnewenglandclaims_desc:0 "By formally asserting our claims on New England territories, we provoke tensions with local authorities. Threats rise, but so does the legitimacy of our unification efforts."
 
-LSA_pressuretheexiles:0 "Чинити Тиск на Вигнанців"
-LSA_pressuretheexiles_desc:0 "Легіон Вигнанців має визнати владу Легіонерських Штатів. Застосування політичного тиску та повернення спірних земель зміцнює наші позиції на північних та західних територіях."
+LSA_encroachontheborder:0 "Encroach on the Border"
+LSA_encroachontheborder_desc:0 "Border incursions demonstrate our resolve and pressure New England. Diplomatic friction escalates, and preparations for potential military confrontation are essential."
 
-LSA_secureborderwiththerepublicans:0 "Забезпечити Кордон із Республіканцями"
-LSA_secureborderwiththerepublicans_desc:0 "Завдяки обмеженим військовим діям та стратегічним операціям ми забезпечуємо наші кордони проти Техаських Республіканських сил, гарантуючи стабільність та безпеку наших легіонів, що наступають."
+LSA_pressuretheexiles:0 "Pressure the Exiles"
+LSA_pressuretheexiles_desc:0 "The Legion of Exiles must recognize the Legion States' authority. Applying political pressure and reclaiming contested lands strengthens our hand in the northern and western territories."
 
-LSA_eastromansupport:0 "Східноримська Підтримка"
-LSA_eastromansupport_desc:0 "Звертаючись по підтримку до наших братів у Константинополі, ми можемо очікувати об'єднання цього континенту під Римським прапором."
+LSA_secureborderwiththerepublicans:0 "Secure Border with the Republicans"
+LSA_secureborderwiththerepublicans_desc:0 "Through limited military engagement and strategic operations, we secure our borders against Texan Republican forces, ensuring the stability and safety of our advancing legions."
 
-LSA_inviteeastromanvolunteers:0 "Запросити Східноримських Добровольців"
-LSA_inviteeastromanvolunteers_desc:0 "Закликати Східноримських добровольців для поповнення наших лав, збільшуючи живу силу та залучаючи досвідчених воїнів для підкріплення військових кампаній Легіонерських Штатів."
+LSA_eastromansupport:0 "East Roman Support"
+LSA_eastromansupport_desc:0 "By requesting support from our brothers in Constantinople, may we look toward uniting this continent under a Roman banner."
 
-LSA_martialcitizenship:0 "Військове Громадянство"
-LSA_martialcitizenship_desc:0 "Надання громадянства тим, хто служить у легіонах, зміцнює лояльність, моральний дух та національну ідентичність. Войовничі чесноти визнаються шляхом до повних громадянських прав."
+LSA_inviteeastromanvolunteers:0 "Invite Eastern Roman Volunteers"
+LSA_inviteeastromanvolunteers_desc:0 "Call upon Eastern Roman volunteers to bolster our ranks, increasing manpower and bringing seasoned warriors to reinforce the Legion States' military campaigns."
 
-LSA_eternalvigilance:0 "Вічна Пильність"
-LSA_eternalvigilance_desc:0 "Наші громадяни повинні завжди бути пильними, забезпечуючи швидке виявлення та нейтралізацію як внутрішніх, так і зовнішніх загроз. Безпека Республіки є першочерговою."
+LSA_martialcitizenship:0 "Martial Citizenship"
+LSA_martialcitizenship_desc:0 "Granting citizenship to those who serve in the legions strengthens loyalty, morale, and national identity. Martial virtues are recognized as a path to full civic rights."
 
-LSA_onelegiononenation:0 "Один Легіон, Одна Нація"
-LSA_onelegiononenation_desc:0 "Оголошено заклик до зброї. Легіонери виступають, щоб об'єднати розколоту націю під єдиним прапором. Починається Війна за Об'єднання Америки, вимагаючи мужності та жертовності від кожного громадянина."
+LSA_eternalvigilance:0 "Eternal Vigilance"
+LSA_eternalvigilance_desc:0 "Our citizens must remain ever watchful, ensuring that both internal and external threats are swiftly identified and neutralized. The Republic’s security is paramount."
 
-LSA_seizeforeignwealth:0 "Захопити Іноземне Багатство"
-LSA_seizeforeignwealth_desc:0 "Конфіскація активів, що належать іноземцям, зміцнює наш військовий скарб, дозволяючи проводити військові кампанії та консолідувати контроль над ключовими економічними ресурсами."
+LSA_onelegiononenation:0 "One Legion, One Nation"
+LSA_onelegiononenation_desc:0 "The call to arms is sounded. Legionaries march to unify the fractured nation under a single banner. The American Unification War begins, demanding courage and sacrifice from every citizen."
 
-LSA_victoriapopuliromani:0 "Victoria Populi Romani (Перемога Римського Народу)"
-LSA_victoriapopuliromani_desc:0 "Після успішного об'єднання наших земель святкується тріумф Римського Народу. Процвітання, безпека та військова перевага визначають цю еру."
+LSA_seizeforeignwealth:0 "Seize Foreign Wealth"
+LSA_seizeforeignwealth_desc:0 "Confiscation of foreign-owned assets strengthens our war chest, enabling military campaigns and consolidating control over key economic resources."
 
-LSA_bringthehawaiwansintothefold:0 "Залучити Гавайців до Справи"
-LSA_bringthehawaiwansintothefold_desc:0 "За допомогою дипломатії та стимулів ми запрошуємо Гаваї приєднатися до нашої держави, зміцнюючи наше морське охоплення та посилюючи нашу присутність у Тихому океані."
+LSA_victoriapopuliromani:0 "Victoria Populi Romani"
+LSA_victoriapopuliromani_desc:0 "Having successfully unified our lands, the triumph of the Roman People is celebrated. Prosperity, security, and military supremacy define the era."
 
-LSA_claimsinnewspain:0 "Претензії в Новій Іспанії"
-LSA_claimsinnewspain_desc:0 "Південні території є частиною нашого доленосного призначення. Заява про претензії на Нову Іспанію встановлює нашу легітимність та стратегічну перевагу в регіоні."
+LSA_bringthehawaiwansintothefold:0 "Bring the Hawaiians into the Fold"
+LSA_bringthehawaiwansintothefold_desc:0 "Through diplomacy and incentives, we invite Hawaii to join our state, strengthening our maritime reach and reinforcing our Pacific presence."
 
-LSA_takebackourland:0 "Повернути Нашу Землю"
-LSA_takebackourland_desc:0 "Розпочинаються військові операції з повернення Каліфорнії, забезпечуючи відновлення історичних земель нашої нації під владою Держави."
+LSA_claimsinnewspain:0 "Claims in New Spain"
+LSA_claimsinnewspain_desc:0 "The southern territories are part of our manifest destiny. Asserting claims over New Spain establishes our legitimacy and strategic advantage in the region."
 
-LSA_integratecalifornia:0 "Інтегрувати Каліфорнію"
-LSA_integratecalifornia_desc:0 "Каліфорнія вводиться до складу Республіки як повністю інтегрований штат, забезпечуючи її населення, ресурси та промисловий потенціал на благо Легіонерських Штатів."
+LSA_takebackourland:0 "Take Back Our Land"
+LSA_takebackourland_desc:0 "Military operations commence to reclaim California, ensuring that our nation’s historical lands are restored under the State authority."
 
-LSA_befriendthenewspanish:0 "Подружитися з Новими Іспанцями"
-LSA_befriendthenewspanish_desc:0 "Налагодження співпраці з Новоіспанськими фракціями зміцнює союзи та відкриває шляхи для торгівлі, розвідки та військової співпраці."
+LSA_integratecalifornia:0 "Integrate California"
+LSA_integratecalifornia_desc:0 "California is brought into the Republic as a fully integrated state, securing its population, resources, and industrial potential for the benefit of the Legion States."
 
-LSA_theamericanpact:0 "Американський Пакт"
-LSA_theamericanpact_desc:0 "Завдяки обережній дипломатії, формується формальний союз із Канатою та дружніми Новоіспанськими державами — 'Американський Пакт', що гарантує взаємну оборону та єдине управління в західній півкулі."
+LSA_befriendthenewspanish:0 "Befriend the New Spanish"
+LSA_befriendthenewspanish_desc:0 "Forging a cooperative relationship with New Spanish factions strengthens alliances and opens avenues for trade, intelligence, and military collaboration."
 
-LSA_bringthesouthernmarchestoheel:0 "Привести Південні Марки до Покори"
-LSA_bringthesouthernmarchestoheel_desc:0 "Військові кампанії в південних марках мають на меті підкорити опозицію, що залишилася. Швидкі та рішучі дії гарантують беззаперечність авторитету Республіки."
+LSA_theamericanpact:0 "The American Pact"
+LSA_theamericanpact_desc:0 "Through careful diplomacy, a formal alliance with Kanata and friendly New Spanish states forms 'The American Pact,' guaranteeing mutual defense and unified governance in the western hemisphere."
 
-LSA_striketheinteriorsettlements:0 "Ударити по Внутрішнім Поселенням"
-LSA_striketheinteriorsettlements_desc:0 "Сили Легіону проникають глибоко у внутрішні території, щоб ліквідувати опір та забезпечити життєво важливі поселення, утверджуючи домінування по всьому серцю нації."
+LSA_bringthesouthernmarchestoheel:0 "Bring the Southern Marches to Heel"
+LSA_bringthesouthernmarchestoheel_desc:0 "Military campaigns in the southern marches aim to subjugate remaining opposition. Swift and decisive action ensures the Republic’s authority is unquestioned."
 
-LSA_thedesseretquestion:0 "Питання Дессерету"
-LSA_thedesseretquestion_desc:0 "Переговори та обмежені військові дії вирішують питання Дессерету, інтегруючи регіон під управління Держави та забезпечуючи лояльність його населення."
+LSA_striketheinteriorsettlements:0 "Strike the Interior Settlements"
+LSA_striketheinteriorsettlements_desc:0 "Legion forces penetrate deep into interior territories to dismantle resistance and secure vital settlements, asserting dominance across the heartland."
 
-LSA_subjugatetheteutoniccolony:0 "Підкорити Тевтонську Колонію"
-LSA_subjugatetheteutoniccolony_desc:0 "Тевтонський анклав повинен підкоритися владі Легіонерських Штатів. Стратегічні операції забезпечують швидке включення або нейтралізацію колонії."
+LSA_thedesseretquestion:0 "The Desseret Question"
+LSA_thedesseretquestion_desc:0 "Negotiations and limited military action address the Desseret issue, integrating the region under the State's governance and ensuring the loyalty of its populace."
 
-LSA_securegreenland:0 "Забезпечити Гренландію"
-LSA_securegreenland_desc:0 "Експедиції до Гренландії гарантують контроль над північними територіями та життєво важливими ресурсами, зміцнюючи стратегічні позиції Республіки."
+LSA_subjugatetheteutoniccolony:0 "Subjugate the Teutonic Colony"
+LSA_subjugatetheteutoniccolony_desc:0 "The Teutonic enclave must submit to the authority of the Legion States. Strategic operations ensure the colony’s swift incorporation or neutralization."
 
-LSA_conquercascadia:0 "Завоювати Каскадію"
-LSA_conquercascadia_desc:0 "Каскадія чинить опір нашій владі. Розпочато військові кампанії для встановлення контролю, інтегруючи регіон до Легіонерських Штатів Америки."
+LSA_securegreenland:0 "Secure Greenland"
+LSA_securegreenland_desc:0 "Expeditions to Greenland guarantee control over northern territories and vital resources, fortifying the Republic’s strategic position."
 
-LSA_thefutureofnewrome:0 "Майбутнє Нового Риму"
-LSA_thefutureofnewrome_desc:0 "З завершенням об'єднання, Легіонерські Штати Америки постають як домінуюча сила. Усі території потрапляють під центральну владу, забезпечуючи тривалий мир та процвітання."
+LSA_conquercascadia:0 "Conquer Cascadia"
+LSA_conquercascadia_desc:0 "Cascadia resists our authority. Military campaigns are launched to assert control, incorporating the region into the Legion States of America."
 
----
+LSA_thefutureofnewrome:0 "The Future of New Rome"
+LSA_thefutureofnewrome_desc:0 "With unification complete, the Legion States of America emerge as a dominant power. All territories fall under central authority, ensuring lasting peace and prosperity."
 
-## Реформи Армії, Бронетехніка та Спецпідрозділи
+LSA_uplift_the_legions:0 "Uplift the Legions"
+LSA_uplift_the_legions_desc:0 "A revitalized army requires modernization. New doctrines, improved training, and organized command structures will strengthen the backbone of our Republic."
 
-```yml
-LSA_uplift_the_legions:0 "Піднести Легіони"
-LSA_uplift_the_legions_desc:0 "Відновлена армія вимагає модернізації. Нові доктрини, покращена підготовка та організовані командні структури зміцнять основу нашої Республіки."
+LSA_thelegionsofamerica:0 "The Legions of America"
+LSA_thelegionsofamerica_desc:0 "Our citizen-soldiers are organized into formidable legions, ready to enforce the Republic’s will across the continent. Morale, discipline, and war support are enhanced."
 
-LSA_thelegionsofamerica:0 "Легіони Америки"
-LSA_thelegionsofamerica_desc:0 "Наші громадяни-солдати організовані у грізні легіони, готові втілювати волю Республіки по всьому континенту. Покращено моральний дух, дисципліна та підтримка війни."
+LSA_roman_special_forces:0 "Roman Special Forces"
+LSA_roman_special_forces_desc:0 "Elite units are trained in advanced tactics, including airborne, mountain, and reconnaissance operations. These forces provide flexibility and precision on the battlefield."
 
-LSA_roman_special_forces:0 "Римські Спеціальні Сили"
-LSA_roman_special_forces_desc:0 "Елітні підрозділи навчаються передовій тактиці, включаючи повітряно-десантні, гірські та розвідувальні операції. Ці сили забезпечують гнучкість та точність на полі бою."
+LSA_transform_the_equites:0 "Transform the Equites"
+LSA_transform_the_equites_desc:0 "Cavalry units are mechanized and modernized, blending traditional mobility with mechanized firepower. Doctrine costs are reduced, accelerating strategic adoption."
 
-LSA_transform_the_equites:0 "Трансформувати Еквітів"
-LSA_transform_the_equites_desc:0 "Кавалерійські підрозділи механізуються та модернізуються, поєднуючи традиційну мобільність із механізованою вогневою міццю. Витрати на доктрину знижуються, прискорюючи стратегічне прийняття."
+LSA_motorised_equites:0 "Motorised Equites"
+LSA_motorised_equites_desc:0 "The cavalry is now fully motorized, capable of rapid deployment across all theaters. Mobility and effectiveness of mechanized units improve significantly."
 
-LSA_motorised_equites:0 "Моторизовані Еквіти"
-LSA_motorised_equites_desc:0 "Кавалерія тепер повністю моторизована, здатна до швидкого розгортання на всіх театрах. Мобільність та ефективність механізованих підрозділів значно покращуються."
+LSA_miles_caduci:0 "Miles Caduci"
+LSA_miles_caduci_desc:0 "Elite paratroopers and airborne forces form the Miles Caduci, combining Roman martial tradition with modern airborne capabilities to project power swiftly."
 
-LSA_miles_caduci:0 "Miles Caduci (Падаючі Солдати)"
-LSA_miles_caduci_desc:0 "Елітні парашутисти та повітряно-десантні сили формують 'Miles Caduci', поєднуючи Римську військову традицію з сучасними повітряно-десантними можливостями для швидкого проєктування сили."
+LSA_aromanarmy:0 "A Roman Army"
+LSA_aromanarmy_desc:0 "Our land forces are reorganized into a coherent Roman Army, capable of sustained operations and strategic flexibility across multiple theaters."
 
-LSA_aromanarmy:0 "Римська Армія"
-LSA_aromanarmy_desc:0 "Наші сухопутні сили реорганізовані у злагоджену Римську Армію, здатну до тривалих операцій та стратегічної гнучкості на багатьох театрах."
+LSA_women_serve_in_the_legions:0 "Women Serve in the Legions"
+LSA_women_serve_in_the_legions_desc:0 "Women are officially integrated into support and combat roles within the legions, expanding manpower and enhancing operational capacity."
 
-LSA_women_serve_in_the_legions:0 "Жінки Служать у Легіонах"
-LSA_women_serve_in_the_legions_desc:0 "Жінки офіційно інтегровані в допоміжні та бойові ролі в легіонах, розширюючи живу силу та посилюючи оперативну спроможність."
+LSA_artillery_of_legions:0 "Artillery of the Legions"
+LSA_artillery_of_legions_desc:0 "Heavy artillery and support weapons are upgraded and integrated into the legions, increasing battlefield firepower and operational effectiveness."
 
-LSA_artillery_of_legions:0 "Артилерія Легіонів"
-LSA_artillery_of_legions_desc:0 "Важка артилерія та допоміжна зброя модернізуються та інтегруються в легіони, підвищуючи вогневу міць на полі бою та оперативну ефективність."
+LSA_a_new_type_of_warfare:0 "A New Type of Warfare"
+LSA_a_new_type_of_warfare_desc:0 "Innovative tactics and doctrines revolutionize the battlefield, enhancing artillery and support operations to outmatch any adversary."
 
-LSA_a_new_type_of_warfare:0 "Новий Тип Ведення Війни"
-LSA_a_new_type_of_warfare_desc:0 "Інноваційні тактики та доктрини революціонізують поле бою, посилюючи артилерійські та допоміжні операції, щоб перевершити будь-якого супротивника."
+LSA_tank_experiments:0 "Tank Experiments"
+LSA_tank_experiments_desc:0 "Experimental armored vehicles are deployed to test new strategies. Successes here will influence future armored doctrine and production."
 
-LSA_tank_experiments:0 "Танкові Експерименти"
-LSA_tank_experiments_desc:0 "Експериментальні броньовані машини розгортаються для тестування нових стратегій. Успіхи тут вплинуть на майбутню бронетанкову доктрину та виробництво."
+LSA_tank_destroyers:0 "Tank Destroyers"
+LSA_tank_destroyers_desc:0 "Specialized vehicles are developed to counter enemy armor effectively. These destroyers bolster our mechanized corps and defensive capabilities."
 
-LSA_tank_destroyers:0 "Винищувачі Танків"
-LSA_tank_destroyers_desc:0 "Розробляються спеціалізовані машини для ефективної протидії ворожій бронетехніці. Ці винищувачі посилюють наш механізований корпус та оборонні можливості."
+LSA_main_battle_tanks:0 "Main Battle Tanks"
+LSA_main_battle_tanks_desc:0 "Our armored divisions are reinforced with main battle tanks, combining firepower, protection, and mobility for decisive breakthroughs."
 
-LSA_main_battle_tanks:0 "Основні Бойові Танки"
-LSA_main_battle_tanks_desc:0 "Наші бронетанкові дивізії посилюються основними бойовими танками, поєднуючи вогневу міць, захист та мобільність для рішучих проривів."
+LSA_armoured_legions:0 "Armoured Legions"
+LSA_armoured_legions_desc:0 "Legions now field fully mechanized armor formations, integrating tanks and mechanized infantry into a cohesive and powerful striking force."
 
-LSA_armoured_legions:0 "Бронетанкові Легіони"
-LSA_armoured_legions_desc:0 "Легіони тепер виставляють повністю механізовані бронетанкові формування, інтегруючи танки та моторизовану піхоту в згуртовану та потужну ударну силу."
+LSA_legions_of_air:0 "Legions of the Air"
+LSA_legions_of_air_desc:0 "The skies belong to the Legion States. By investing in air power, we establish a foundation for air superiority, providing training and modern equipment for our pilots. This initiative strengthens our doctrines and prepares our forces for future conflicts above the clouds."
 
----
+LSA_fighter_development:0 "Fighter Development"
+LSA_fighter_development_desc:0 "We prioritize the design and production of advanced fighter aircraft. With cutting-edge fighters, we can challenge any enemy in aerial combat, ensuring our control of the skies and protection of our ground forces."
 
-## Повітряні та Морські Сили
+LSA_strat_bombing:0 "Strategic Bombing Doctrine"
+LSA_strat_bombing_desc:0 "Focusing on strategic bombing, we aim to disrupt enemy infrastructure and industry from the air. This doctrine seeks to weaken our adversaries before they reach our borders, allowing our ground forces to advance with minimal resistance."
 
-```yml
-LSA_legions_of_air:0 "Легіони Повітря"
-LSA_legions_of_air_desc:0 "Небеса належать Легіонерським Штатам. Інвестуючи в повітряну міць, ми створюємо основу для переваги в повітрі, забезпечуючи підготовку та сучасне обладнання для наших пілотів. Ця ініціатива зміцнює наші доктрини та готує наші сили до майбутніх конфліктів над хмарами."
+LSA_flexible_bombers:0 "Flexible Bomber Forces"
+LSA_flexible_bombers_desc:0 "Our bomber units must be versatile and adaptable. Flexible bombers can strike a wide range of targets, from frontline positions to deep strategic objectives, maximizing the effect of our air campaigns."
 
-LSA_fighter_development:0 "Розвиток Винищувачів"
-LSA_fighter_development_desc:0 "Ми надаємо пріоритет проєктуванню та виробництву передових винищувачів. З передовими винищувачами ми можемо кинути виклик будь-якому ворогу в повітряному бою, забезпечуючи наш контроль над небом та захист наших наземних сил."
+LSA_CAS:0 "Close Air Support"
+LSA_CAS_desc:0 "Providing close air support to our troops, we enhance battlefield effectiveness and coordination between air and ground forces. Well-trained CAS units can turn the tide of battle by targeting enemy formations and fortifications."
 
-LSA_strat_bombing:0 "Доктрина Стратегічного Бомбардування"
-LSA_strat_bombing_desc:0 "Зосереджуючись на стратегічному бомбардуванні, ми прагнемо порушити інфраструктуру та промисловість ворога з повітря. Ця доктрина спрямована на ослаблення наших супротивників до того, як вони досягнуть наших кордонів, дозволяючи нашим наземним силам наступати з мінімальним опором."
+LSA_combined_bombing:0 "Combined Bombing Operations"
+LSA_combined_bombing_desc:0 "Through coordinated bombing campaigns with our allies, we amplify our impact on the battlefield. These combined operations demonstrate our capacity to dominate the air and support coalition efforts in times of war."
 
-LSA_flexible_bombers:0 "Гнучкі Бомбардувальні Сили"
-LSA_flexible_bombers_desc:0 "Наші бомбардувальні підрозділи мають бути універсальними та адаптованими. Гнучкі бомбардувальники можуть завдавати ударів по широкому спектру цілей, від передових позицій до глибоких стратегічних об'єктів, максимізуючи ефект наших повітряних кампаній."
+LSA_escort_fighters:0 "Escort Fighters"
+LSA_escort_fighters_desc:0 "Escort fighters safeguard our bombers on their missions, ensuring their payloads reach the intended targets. Properly equipped and coordinated, these units preserve our air superiority and reduce bomber losses."
 
-LSA_CAS:0 "Безпосередня Авіаційна Підтримка"
-LSA_CAS_desc:0 "Надаючи безпосередню авіаційну підтримку нашим військам, ми підвищуємо ефективність на полі бою та координацію між повітряними та наземними силами. Добре навчені підрозділи БАП можуть переломити хід битви, атакуючи ворожі формування та укріплення."
+LSA_legions_rule_the_air:0 "Legions Rule the Air"
+LSA_legions_rule_the_air_desc:0 "Our air forces now dominate the skies. With superior tactics, aircraft, and training, the Legion States can project power globally, ensuring any enemy air attack is met with a swift and decisive response."
 
-LSA_combined_bombing:0 "Комбіновані Бомбардувальні Операції"
-LSA_combined_bombing_desc:0 "Завдяки скоординованим бомбардувальним кампаніям з нашими союзниками, ми посилюємо наш вплив на полі бою. Ці комбіновані операції демонструють нашу здатність домінувати в повітрі та підтримувати коаліційні зусилля під час війни."
+LSA_masters_of_the_air:0 "Masters of the Air"
+LSA_masters_of_the_air_desc:0 "By perfecting aerial strategy and technology, we cement our position as masters of the air. This focus ensures a generation of pilots and doctrines capable of shaping the outcome of future wars."
 
-LSA_escort_fighters:0 "Винищувачі Супроводу"
-LSA_escort_fighters_desc:0 "Винищувачі супроводу захищають наші бомбардувальники під час їхніх місій, забезпечуючи доставку їхніх боєприпасів до намічених цілей. Належним чином оснащені та скоординовані, ці підрозділи зберігають нашу перевагу в повітрі та зменшують втрати бомбардувальників."
+LSA_the_legionary_navy:0 "The Legionary Navy"
+LSA_the_legionary_navy_desc:0 "Our naval forces are expanded and modernized, creating a fleet capable of defending our shores and projecting power abroad. New dockyards and infrastructure ensure rapid construction and deployment of advanced ships."
 
-LSA_legions_rule_the_air:0 "Легіони Панують у Повітрі"
-LSA_legions_rule_the_air_desc:0 "Наші повітряні сили тепер домінують у небі. Завдяки чудовій тактиці, літакам та підготовці, Легіонерські Штати можуть проєктувати силу по всьому світу, забезпечуючи швидку та рішучу відповідь на будь-яку ворожу повітряну атаку."
+LSA_maritime_comission:0 "Maritime Commission"
+LSA_maritime_comission_desc:0 "The Maritime Commission coordinates naval research and industrial capacity, improving ship design and production efficiency. This organization ensures that our navy can respond to threats with precision and strength."
 
-LSA_masters_of_the_air:0 "Майстри Повітря"
-LSA_masters_of_the_air_desc:0 "Удосконалюючи повітряну стратегію та технології, ми закріплюємо свою позицію як майстрів повітря. Цей фокус забезпечує покоління пілотів та доктрин, здатних формувати результат майбутніх воєн."
+LSA_ships_of_the_legion:0 "Ships of the Legion"
+LSA_ships_of_the_legion_desc:0 "A dedicated effort to expand our fleet with modern ships capable of amphibious assaults and oceanic dominance. The Legionary Navy now has the tools to project power across all oceans."
 
-LSA_the_legionary_navy:0 "Легіонерський Флот"
-LSA_the_legionary_navy_desc:0 "Наші військово-морські сили розширюються та модернізуються, створюючи флот, здатний захищати наші береги та проєктувати силу за кордон. Нові верфі та інфраструктура забезпечують швидке будівництво та розгортання передових кораблів."
+LSA_naval_department:0 "Naval Department"
+LSA_naval_department_desc:0 "The creation of a centralized Naval Department streamlines command and operations, increasing efficiency in shipbuilding, fleet deployment, and maritime strategy."
 
-LSA_maritime_comission:0 "Морська Комісія"
-LSA_maritime_comission_desc:0 "Морська Комісія координує військово-морські дослідження та промислову потужність, покращуючи проєктування кораблів та ефективність виробництва. Ця організація забезпечує, що наш флот може реагувати на загрози з точністю та силою."
+LSA_battleships:0 "Battleships Program"
+LSA_battleships_desc:0 "By focusing on battleships, we develop a fleet capable of challenging any navy in direct combat. Heavily armed and armored, these ships are the backbone of our maritime power."
 
-LSA_ships_of_the_legion:0 "Кораблі Легіону"
-LSA_ships_of_the_legion_desc:0 "Цілеспрямовані зусилля з розширення нашого флоту сучасними кораблями, здатними до амфібійних штурмів та панування в океані. Легіонерський Флот тепер має інструменти для проєктування сили по всіх океанах."
+LSA_strike_doctrine:0 "Naval Strike Doctrine"
+LSA_strike_doctrine_desc:0 "Our naval strategy emphasizes precision strikes and concentrated firepower. This doctrine ensures our fleet can neutralize enemy vessels quickly and decisively."
 
-LSA_naval_department:0 "Військово-морський Департамент"
-LSA_naval_department_desc:0 "Створення централізованого Військово-морського Департаменту оптимізує командування та операції, підвищуючи ефективність у суднобудуванні, розгортанні флоту та морській стратегії."
+LSA_forward_operating:0 "Forward Operating Bases"
+LSA_forward_operating_desc:0 "Strategically positioned naval bases extend our operational reach, allowing for sustained operations in distant theaters and better support for fleet movements."
 
-LSA_battleships:0 "Програма Лінкорів"
-LSA_battleships_desc:0 "Зосереджуючись на лінкорах, ми створюємо флот, здатний кинути виклик будь-якому флоту в прямому бою. Важко озброєні та броньовані, ці кораблі є основою нашої морської могутності."
+LSA_carriers_of_war:0 "Carriers of War"
+LSA_carriers_of_war_desc:0 "Aircraft carriers become the cornerstone of our fleet, allowing for mobile air power projection and decisive engagement with enemy forces at sea."
 
-LSA_strike_doctrine:0 "Доктрина Морського Удару"
-LSA_strike_doctrine_desc:0 "Наша військово-морська стратегія наголошує на точності ударів та концентрованій вогневій міці. Ця доктрина забезпечує, що наш флот може швидко та рішуче нейтралізувати ворожі судна."
+LSA_aeronautic_support:0 "Aeronautic Support"
+LSA_aeronautic_support_desc:0 "Integrated naval aviation provides reconnaissance and bombing support to our fleet, enhancing both offensive and defensive operations."
 
-LSA_forward_operating:0 "Передові Оперативні Бази"
-LSA_forward_operating_desc:0 "Стратегічно розташовані військово-морські бази розширюють наше оперативне охоплення, дозволяючи тривалі операції на віддалених театрах та кращу підтримку руху флоту."
+LSA_naval_radar:0 "Naval Radar Development"
+LSA_naval_radar_desc:0 "Radar technology gives our navy an edge in detection and coordination. Ships and aircraft equipped with radar can operate effectively in all conditions, ensuring superiority in naval engagements."
 
-LSA_carriers_of_war:0 "Носії Війни"
-LSA_carriers_of_war_desc:0 "Авіаносці стають наріжним каменем нашого флоту, дозволяючи мобільне проєктування повітряної міці та рішуче залуження до бою з ворожими силами на морі."
+LSA_escort_focus:0 "Convoy Escort Focus"
+LSA_escort_focus_desc:0 "Protecting our merchant and troop convoys is essential. Escort vessels ensure the safe passage of critical supplies across contested waters, reducing losses from enemy submarines and raiders."
 
-LSA_aeronautic_support:0 "Аеронавігаційна Підтримка"
-LSA_aeronautic_support_desc:0 "Інтегрована військово-морська авіація забезпечує розвідку та бомбардувальну підтримку нашому флоту, посилюючи як наступальні, так і оборонні операції."
+LSA_convoy_tactics:0 "Convoy Defense Tactics"
+LSA_convoy_tactics_desc:0 "Specialized tactics improve the defense of shipping routes, allowing our navy to safeguard vital supply lines and maintain operational readiness."
 
-LSA_naval_radar:0 "Розробка Морського Радару"
-LSA_naval_radar_desc:0 "Радіолокаційні технології дають нашому флоту перевагу у виявленні та координації. Кораблі та літаки, оснащені радаром, можуть ефективно діяти за будь-яких умов, забезпечуючи перевагу в морських боях."
+LSA_submarines:0 "Submarine Program"
+LSA_submarines_desc:0 "Submarines enhance our ability to disrupt enemy shipping and maintain sea denial. Stealth and precision attacks allow our forces to weaken adversaries economically and militarily."
 
-LSA_escort_focus:0 "Фокус на Супроводі Конвоїв"
-LSA_escort_focus_desc:0 "Захист наших торговельних та військових конвоїв є надзвичайно важливим. Судна супроводу забезпечують безпечний прохід критично важливих запасів через спірні води, зменшуючи втрати від ворожих підводних човнів та рейдерів."
+LSA_unrestricted_sub_warfare:0 "Unrestricted Submarine Warfare"
+LSA_unrestricted_sub_warfare_desc:0 "Employing unrestricted submarine warfare, our navy can interdict enemy trade, cripple supply chains, and impose strategic pressure on adversaries."
 
-LSA_convoy_tactics:0 "Тактика Захисту Конвоїв"
-LSA_convoy_tactics_desc:0 "Спеціалізована тактика покращує захист морських шляхів, дозволяючи нашому флоту захищати життєво важливі лінії постачання та підтримувати оперативну готовність."
+LSA_fund_the_navy:0 "Fund the Navy"
+LSA_fund_the_navy_desc:0 "Increased investment in our naval forces strengthens shipbuilding, technology, and fleet readiness, ensuring maritime dominance and readiness for conflict."
 
-LSA_submarines:0 "Програма Підводних Човнів"
-LSA_submarines_desc:0 "Підводні човни посилюють нашу здатність зривати вороже судноплавство та забезпечувати блокування моря. Непомітність та точні атаки дозволяють нашим силам послаблювати супротивників економічно та військово."
+LSA_form_the_LSMC:0 "Form the Legion Marine Corps"
+LSA_form_the_LSMC_desc:0 "The Legion Marine Corps is established, combining elite infantry and amphibious capabilities. This specialized force can conduct rapid deployment operations and secure key objectives in coastal regions."
 
-LSA_unrestricted_sub_warfare:0 "Необмежена Підводна Війна"
-LSA_unrestricted_sub_warfare_desc:0 "Застосовуючи необмежену підводну війну, наш флот може перешкоджати ворожій торгівлі, кришити ланцюги постачання та чинити стратегічний тиск на супротивників."
+LSA_amphibious_ops:0 "Amphibious Operations"
+LSA_amphibious_ops_desc:0 "Specialized amphibious operations enhance our ability to project power onto enemy shores. Marines trained for such missions ensure that Legion forces remain versatile and lethal in all theatres."
 
-LSA_fund_the_navy:0 "Фінансувати Флот"
-LSA_fund_the_navy_desc:0 "Збільшені інвестиції в наші військово-морські сили зміцнюють суднобудування, технології та готовність флоту, забезпечуючи панування на морі та готовність до конфлікту."
+LSA_caesarofnewrome:0 "Caesar of Nova Roma"
+LSA_caesarofnewrome_desc:0 "As the American Unification War comes to an end, George Marshall now proclaims himself the 'Caesar of New Rome', emphaising his power and dominion over the New World."
 
-LSA_form_the_LSMC:0 "Сформувати Корпус Морської Піхоти Легіону"
-LSA_form_the_LSMC_desc:0 "Створюється Корпус Морської Піхоти Легіону, що поєднує елітну піхоту та амфібійні можливості. Ця спеціалізована сила може проводити операції швидкого розгортання та захоплювати ключові об'єкти в прибережних регіонах."
+LSA_nationalreconciliation:0 "National Reconciliation"
+LSA_nationalreconciliation_desc:0 "Bridging the divides of our citizenry, we work to heal internal fractures and promote a sense of shared purpose across all regions of the Legion States."
 
-LSA_amphibious_ops:0 "Амфібійні Операції"
-LSA_amphibious_ops_desc:0 "Спеціалізовані амфібійні операції посилюють нашу здатність проєктувати силу на ворожі береги. Морські піхотинці, навчені для таких місій, забезпечують, що сили Легіону залишаються універсальними та смертоносними на всіх театрах."
+LSA_citizenandsoldier:0 "Citizen and Soldier"
+LSA_citizenandsoldier_desc:0 "Encouraging citizens to serve in the military fosters loyalty and preparedness, blending civic duty with national defense."
 
-LSA_caesarofnewrome:0 "Цезар Нової Роми"
-LSA_caesarofnewrome_desc:0 "З наближенням кінця Війни за Об'єднання Америки, Джордж Маршалл тепер проголошує себе 'Цезарем Нової Роми', підкреслюючи свою владу та домінування над Новим Світом."
+LSA_eaglestandards:0 "Eagle Standards"
+LSA_eaglestandards_desc:0 "Our military and civilian institutions unite under shared symbols and standards, promoting discipline, pride, and coordinated national effort."
 
-LSA_nationalreconciliation:0 "Національне Примирення"
-LSA_nationalreconciliation_desc:0 "Подолаючи розколи серед нашого громадянства, ми працюємо над зціленням внутрішніх чвар та просуванням почуття спільної мети в усіх регіонах Легіонерських Штатів."
+LSA_totheaidofrome:0 "To the Aid of Rome"
+LSA_totheaidofrome_desc:0 "We extend our hand to allied powers, offering our military might and strategic support to secure shared interests and strengthen the position of Nova Roma globally."
 
-LSA_citizenandsoldier:0 "Громадянин та Солдат"
-LSA_citizenandsoldier_desc:0 "Заохочення громадян до військової служби сприяє лояльності та готовності, поєднуючи громадянський обов'язок із національною обороною."
+LSA_securethealtanticlifelines:0 "Secure the Atlantic Lifelines"
+LSA_securethealtanticlifelines_desc:0 "Control over vital Atlantic shipping routes ensures the movement of troops and resources, maintaining strategic dominance over transatlantic supply lines."
 
-LSA_eaglestandards:0 "Орлині Стандарти"
-LSA_eaglestandards_desc:0 "Наші військові та цивільні інститути об'єднуються під спільними символами та стандартами, сприяючи дисципліні, гордості та скоординованим національним зусиллям."
+LSA_theeaglesreturntoeurope:0 "The Eagles Return to Europe"
+LSA_theeaglesreturntoeurope_desc:0 "Legion States forces redeploy to Europe, asserting influence and protecting our interests while projecting power across the continent."
 
-LSA_totheaidofrome:0 "На Допомогу Риму"
-LSA_totheaidofrome_desc:0 "Ми простягаємо руку союзним державам, пропонуючи нашу військову міць та стратегічну підтримку для забезпечення спільних інтересів та зміцнення позиції Нової Роми у світі."
+LSA_legionsontherhine:0 "Legions on the Rhine"
+LSA_legionsontherhine_desc:0 "Our forces establish a strong presence along the Rhine, securing strategic positions and preparing for further operations to restore order and influence."
 
-LSA_securethealtanticlifelines:0 "Забезпечити Атлантичні Життєві Лінії"
-LSA_securethealtanticlifelines_desc:0 "Контроль над життєво важливими Атлантичними морськими шляхами забезпечує рух військ та ресурсів, підтримуючи стратегічне домінування над трансатлантичними лініями постачання."
+LSA_aromanworldrestored:0 "A Roman World Restored"
+LSA_aromanworldrestored_desc:0 "Through careful diplomacy and decisive action, we revive a world inspired by Roman principles, bringing stability, prosperity, and the glory of Nova Roma to Europe and beyond."
 
-LSA_theeaglesreturntoeurope:0 "Орли Повертаються до Європи"
-LSA_theeaglesreturntoeurope_desc:0 "Сили Легіонерських Штатів передислоковуються до Європи, утверджуючи вплив та захищаючи наші інтереси, водночас проєктуючи владу по всьому континенту."
+LSA_establishthelegiondenari:0 "Establish the Legion Denari"
+LSA_establishthelegiondenari_desc:0 "A stable currency strengthens our economy and enables sustained industrial growth. The Legion Denari becomes the backbone of our national financial system."
 
-LSA_legionsontherhine:0 "Легіони на Рейні"
-LSA_legionsontherhine_desc:0 "Наші сили встановлюють міцну присутність уздовж Рейну, забезпечуючи стратегічні позиції та готуючись до подальших операцій для відновлення порядку та впливу."
+LSA_agriculturaladjustments:0 "Agricultural Adjustments"
+LSA_agriculturaladjustments_desc:0 "We reform farming practices to balance efficiency and output, ensuring the nation can sustain its population and military without economic instability."
 
-LSA_aromanworldrestored:0 "Відновлений Римський Світ"
-LSA_aromanworldrestored_desc:0 "Завдяки обережній дипломатії та рішучим діям, ми відроджуємо світ, натхненний Римськими принципами, приносячи стабільність, процвітання та славу Нової Роми до Європи та за її межі."
+LSA_workersunions:0 "Workers’ Unions"
+LSA_workersunions_desc:0 "Integrating labor unions into economic planning promotes stability, improves productivity, and aligns workforce interests with national objectives."
 
-LSA_establishthelegiondenari:0 "Створити Легіонерський Денарій"
-LSA_establishthelegiondenari_desc:0 "Стабільна валюта зміцнює нашу економіку та забезпечує стійке промислове зростання. Легіонерський Денарій стає основою нашої національної фінансової системи."
+LSA_civiliansciencyacademy:0 "Civilian Science Academy"
+LSA_civiliansciencyacademy_desc:0 "Expanding research institutions fosters innovation across industry and military technology, creating a skilled workforce capable of advancing national interests."
 
-LSA_agriculturaladjustments:0 "Сільськогосподарські Коригування"
-LSA_agriculturaladjustments_desc:0 "Ми реформуємо сільськогосподарські практики, щоб збалансувати ефективність та випуск продукції, забезпечуючи здатність нації підтримувати своє населення та армію без економічної нестабільності."
+LSA_legionrubberindustry:0 "Legion Rubber Industry"
+LSA_legionrubberindustry_desc:0 "Developing rubber production and processing ensures our armed forces and industrial sectors have access to critical materials for vehicles, aircraft, and weapons."
 
-LSA_workersunions:0 "Профспілки Робітників"
-LSA_workersunions_desc:0 "Інтеграція профспілок в економічне планування сприяє стабільності, покращує продуктивність та узгоджує інтереси робочої сили з національними цілями."
+LSA_militaryconstructioneffort:0 "Military Construction Effort"
+LSA_militaryconstructioneffort_desc:0 "A focused initiative to rapidly expand military infrastructure, from factories to transport networks, enabling large-scale production and deployment of armed forces."
 
-LSA_civiliansciencyacademy:0 "Цивільна Наукова Академія"
-LSA_civiliansciencyacademy_desc:0 "Розширення науково-дослідних установ сприяє інноваціям у промисловості та військових технологіях, створюючи кваліфіковану робочу силу, здатну просувати національні інтереси."
+LSA_wartimeproduction:0 "Wartime Production"
+LSA_wartimeproduction_desc:0 "Maximizing industrial output supports our military campaigns. Factories and supply chains are optimized for efficient wartime production."
 
-LSA_legionrubberindustry:0 "Легіонерська Гумова Промисловість"
-LSA_legionrubberindustry_desc:0 "Розвиток виробництва та переробки гуми забезпечує нашим збройним силам та промисловим секторам доступ до критично важливих матеріалів для транспортних засобів, літаків та зброї."
+LSA_centralisedplanning:0 "Centralized Planning"
+LSA_centralisedplanning_desc:0 "Streamlined economic and industrial planning ensures resources are allocated effectively to meet national and military needs."
 
-LSA_militaryconstructioneffort:0 "Військове Будівельне Зусилля"
-LSA_militaryconstructioneffort_desc:0 "Цілеспрямована ініціатива щодо швидкого розширення військової інфраструктури, від заводів до транспортних мереж, що дозволяє великомасштабне виробництво та розгортання збройних сил."
-
-LSA_wartimeproduction:0 "Виробництво Воєнного Часу"
-LSA_wartimeproduction_desc:0 "Максимізація промислового випуску підтримує наші військові кампанії. Заводи та ланцюги постачання оптимізовані для ефективного виробництва воєнного часу."
-
-LSA_centralisedplanning:0 "Централізоване Планування"
-LSA_centralisedplanning_desc:0 "Оптимізоване економічне та промислове планування забезпечує ефективне розподілення ресурсів для задоволення національних та військових потреб."
-
-LSA_projecty:0 "Проєкт Y"
-LSA_projecty_desc:0 "Цілком секретна дослідницька ініціатива, спрямована на використання ядерної енергії для національної оборони. Успіх може забезпечити неперевершені стратегічні переваги над глобальними суперниками."
+LSA_projecty:0 "Project Y"
+LSA_projecty_desc:0 "A top-secret research initiative aimed at harnessing nuclear power for national defense. Success could provide unmatched strategic leverage over global rivals."

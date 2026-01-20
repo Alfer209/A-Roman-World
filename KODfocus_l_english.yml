@@ -1,0 +1,361 @@
+﻿l_english:
+
+ KOD_call_of_yahweh:0 "The Call of The Father"
+ KOD_call_of_yahweh_desc:0 "The Lord has spoken once more to His chosen people. The time for isolation has ended; Zion must rise from the dust and steel itself against the wicked nations beyond our frontier."
+
+ KOD_reaffirm_the_articles_of_faith:0 "Reaffirm the Articles of Faith"
+ KOD_reaffirm_the_articles_of_faith_desc:0 "Our society must rest upon divine order. We will strengthen the Articles of Faith to remind the Saints who we are and what we fight for."
+
+ KOD_gather_the_church:0 "Gather the Church"
+ KOD_gather_the_church_desc:0 "The faithful must be united under one banner — the banner of Deseret. No longer will our communities be scattered; the Church and State shall stand as one."
+
+ KOD_reach_out_to_the_legion:0 "Reach Out to the Legion"
+ KOD_reach_out_to_the_legion_desc:0 "To the east lies the Legion, a growing power claiming the legacy of Rome. Perhaps they can be reasoned with — or perhaps they are merely another empire seeking to chain Zion."
+
+ KOD_we_cannot_delay:0 "We Cannot Delay"
+ KOD_we_cannot_delay_desc:0 "The day of reckoning approaches. We cannot wait for divine signs any longer; our hands must act as instruments of God’s will."
+
+ KOD_the_loyal_fanatics:0 "The Loyal Fanatics"
+ KOD_the_loyal_fanatics_desc:0 "Our most devoted followers will never question the Church’s command. Though outsiders call them zealots, their faith will be our shield and sword."
+
+ KOD_question_of_the_gentiles:0 "The Question of the Gentiles"
+ KOD_question_of_the_gentiles_desc:0 "What is to be done with the Gentiles within our borders? Shall we attempt conversion — or purify Zion through fire and exile?"
+
+ KOD_call_of_the_saints:0 "The Call of the Saints"
+ KOD_call_of_the_saints_desc:0 "From every corner of Deseret, the faithful answer the Prophet’s call. Men and women abandon their fields to take up arms for the holy cause."
+
+ KOD_purify_the_frontier:0 "Purify the Frontier"
+ KOD_purify_the_frontier_desc:0 "Our frontiers are infested with Gentile heresy. The time has come to cleanse these lands, so that only the faithful may dwell within Zion’s walls."
+
+ KOD_rural_missionaries:0 "Rural Missionaries"
+ KOD_rural_missionaries_desc:0 "Armed not with rifles but with scripture, our missionaries spread the word of God to the remotest valleys. Faith, not fear, will keep Deseret united."
+
+ KOD_the_battle_for_deseret:0 "The Battle for Deseret"
+ KOD_the_battle_for_deseret_desc:0 "The heathens march against us. Now the Saints must fight not merely for land, but for their very souls. This is the Lord’s holy war."
+
+ KOD_the_army_of_salt_lake:0 "The Army of Salt Lake"
+ KOD_the_army_of_salt_lake_desc:0 "Once farmers and miners, now soldiers of the Lord. The Army of Salt Lake will rise — inexperienced, untested, but burning with holy purpose."
+
+ KOD_defenders_of_zion:0 "Defenders of Zion"
+ KOD_defenders_of_zion_desc:0 "The Lord’s chosen stand ready to defend His city. Every trench dug and rifle fired will be in the name of Zion’s survival."
+
+ KOD_fortress_of_the_holy_valley:0 "Fortress of the Holy Valley"
+ KOD_fortress_of_the_holy_valley_desc:0 "The Salt Lake Valley shall become our fortress. With concrete, faith, and blood, we will make it impregnable to any enemy."
+
+ KOD_blessed_ammunition:0 "Blessed Ammunition"
+ KOD_blessed_ammunition_desc:0 "Every bullet fired in the Lord’s name is a prayer. Our weapons are sanctified — each cartridge a blessing, each shell a hymn."
+
+ KOD_stand_at_zions_gate:0 "Stand at Zion’s Gate"
+ KOD_stand_at_zions_gate_desc:0 "They will come for us, as they always have. But this time, they will not pass. Zion shall never fall."
+
+ KOD_armies_of_the_prophecy:0 "Armies of the Prophecy"
+ KOD_armies_of_the_prophecy_desc:0 "From revelation and scripture, the Lord foretold an army of Saints marching to victory. That time has come; prophecy shall be fulfilled."
+
+ KOD_reclaim_the_holy_frontier:0 "Reclaim the Holy Frontier"
+ KOD_reclaim_the_holy_frontier_desc:0 "Our destiny is to reclaim every inch of land once tilled by the Saints. We shall expand not for greed, but for divine right."
+
+ KOD_convert_the_kaiserheim_colony:0 "Convert the Kaiserheim Colony"
+ KOD_convert_the_kaiserheim_colony_desc:0 "The German settlers of Kaiserheim have long resisted the faith. They will either kneel to Zion — or be swept aside by it."
+
+ KOD_cascadian_menance:0 "The Cascadian Menace"
+ KOD_cascadian_menance_desc:0 "With only the forests of the northwest stopping our access to the sea, The path forward is clear."
+
+ KOD_modern_politics:0 "Modernize Our Politics"
+ KOD_modern_politics_desc:0 "As the world is advancing, our isolation has left us behind. We must modernize if we hope to survive."
+
+ KOD_right:0 "The Right Wing"
+ KOD_right_desc:0 "The high authority of the church is our only hope of survival on the world's stage."
+
+ KOD_left:0 "The Left Wing"
+ KOD_left_desc:0 "The people are the heart of the church, only by empowering them can we hope to survive on the world's stage."
+
+ KOD_waste:0 "If it ain't broke-"
+ KOD_waste_desc:0 "The Theocracy has lasted the saints this long, we'd be foolish to change it."
+
+ KOD_dem:0 "Democratic Theocracy"
+ KOD_dem_desc:0 "By listening to the voice of the people, we can ensure the most faithful and resourceful can be heard."
+
+ KOD_com:0 "Socialist Theocracy"
+ KOD_com_desc:0 "As Jesus once said, It is easier for a camel to pass through a needle's eye than for a rich man to get into heaven. Thus, we must seize the means of production to redeem the souls of the rich."
+
+ KOD_pat:0 "Paternal Theocracy"
+ KOD_pat_desc:0 "We don't know what paternalism is, but Mister trump said he could tell us if we gave him power."
+
+ KOD_rom:0 "Roman Theocracy"
+ KOD_rom_desc:0 "Though we do not agree with their false faith, the roman's system of government can serve us quite well."
+
+ KOD_teu:0 "Ordenstaatic Theocracy"
+ KOD_teu_desc:0 "Only by blood can we ensure all hear the good word."
+
+ KOD_mon:0 "Monarchist Theocracy"
+ KOD_mon_desc:0 "If our prophet were a king or queen, then we could have lovely parades."
+
+ KOD_roman_scum_to_our_east:0 "The Texan Question"
+ KOD_roman_scum_to_our_east_desc:0 "The Romans in texas have long been enemies of god, they must be dealt with to secure our nation."
+
+ KOD_banner_of_heaven:0 "The Banner of Heaven"
+ KOD_banner_of_heaven_desc:0 "We must use faith and determination to overcome our military weakness."
+
+ KOD_zions_crusade:0 "Zion's Crusade"
+ KOD_zions_crusade_desc:0 "We have grown strong, and now it is our turn to go crusading."
+
+ KOD_develop_arizona:0 "Develop Arizona"
+ KOD_develop_arizona_desc:0 "We must develop this state for future production"
+ KOD_develop_utah:0 "Develop Utah"
+ KOD_develop_utah_desc:0 "We must develop this state for future production"
+ KOD_develop_nevada:0 "Develop Nevada"
+ KOD_develop_nevada_desc:0 "We must develop this state for future production"
+
+ KOD_faith_and_steel:0 "Faith and Steel"
+ KOD_faith_and_steel_desc:0 "With infastructure completed, we can now create grand factories to produce for god"
+
+ KOD_civilian_industry:0 "Grow the Civil Economy"
+ KOD_civilian_industry_desc:0 ""
+ KOD_civilian_industry2:0 "Expand the Automotive industry"
+ KOD_civilian_industry2_desc:0 ""
+ KOD_civilian_industry3:0 "Build Canning plants"
+ KOD_civilian_industry3_desc:0 ""
+ KOD_civilian_industry4:0 "Pasteurize our Dairy"
+ KOD_civilian_industry4_desc:0 ""
+ KOD_civilian_industry5:0 "Expand our Farms"
+ KOD_civilian_industry5_desc:0 ""
+ KOD_utah_university:0 "The University of Utah"
+ KOD_utah_university_desc:0 ""
+
+ KOD_salt_lake_arsenal:0 "Browning Arms"
+ KOD_salt_lake_arsenal_desc:0 ""
+ KOD_salt_lake_arsenal2:0 "Aircraft Plants"
+ KOD_salt_lake_arsenal2_desc:0 ""
+ KOD_salt_lake_arsenal3:0 "Train Factories"
+ KOD_salt_lake_arsenal3_desc:0 ""
+ KOD_salt_lake_arsenal4:0 "A Tank Plant"
+ KOD_salt_lake_arsenal4_desc:0 ""
+ KOD_salt_lake_arsenal5:0 "Rations Cannery"
+ KOD_salt_lake_arsenal5_desc:0 ""
+
+ KOD_jihad:0 "Mormon Jihad"
+ KOD_jihad_desc:0 "With other faiths seeking our destruction, we must grant ourselves legitimacy as the only true abrahamic faith by conquering the holy land."
+ KOD_islam:0 "Attack Islam"
+ KOD_islam_desc:0 "We are the only real theocracy in the world, let's ensure that's true in the eyes of the public."
+ KOD_levant:0 "Capture Jerusalem"
+ KOD_levant_desc:0 "New Jerusalem and Old Jerusalem united under the banner of god, it truly brings a tear to the eye."
+
+ KOD_corporate_church:0 "A Corporate Church"
+ KOD_corporate_church_desc:0 "By sacrificing the needs of the people, we can ensure our elites become very wealthy with foreign trade."
+
+ KOD_segregate_the_church:0 "Segregate the Church"
+ KOD_segregate_the_church_desc:0 "Be racist, who said that? Jesus maybe. By implementing a system of racial discrimination, we can ensure that we retain racial purity within our lovely deseret"
+
+ KOD_befriend_the_spanish:0 "Spanish Conversion"
+ KOD_befriend_the_spanish_desc:0 "Now that we're a monarchy, we can far easier improve our relations with the spanish empire."
+
+ KOD_nevada_for_guarantees:0 "A Devil's Deal"
+ KOD_nevada_for_guarantees_desc:0 "Though we hate to part with it, by offering nevada to the spanish, we could get a guarantee; and with the legion encroaching, lord knows we need it."
+
+ KOD_population_growth:0 "Reform the Family"
+ KOD_population_growth_desc:0 "With all these reforms being done, it makes sense that the family too must be reformed if we are to enter the world stage."
+
+ KOD_legalize_polygamy:0 "Legalize Polygamy"
+ KOD_legalize_polygamy_desc:0 "In the early church members tried to establish polygamy, joseph smith stopped them for being a violation of common decency; but perhaps he made a mistake."
+
+ KOD_strengthen_monogamy:0 "Enshrine Monogamy"
+ KOD_strengthen_monogamy_desc:0 "Marriage between two people is the holiest thing there is, and it shall not be tainted by polygamy or extra-marrital relations."
+
+ KOD_girls_of_deseret:0 "Girls of Deseret"
+ KOD_girls_of_deseret_desc:0 "The young women have recently begun to demand equality, appeasing them will help us in the long run."
+
+ KOD_womens_rights:0 "Women's Equalty"
+ KOD_womens_rights_desc:0 "Women are just as capable as men, thus their equality should be signed into law, else people might get the wrong ideas."
+
+ KOD_empower_the_relief_society:0 "Empower the Relief Society"
+ KOD_empower_the_relief_society_desc:0 "The Relief Society is an old and powerful organization for the women of the church, by granting it power, we empower women."
+
+ KOD_redefine_woman:0 "Redefine Woman"
+ KOD_redefine_woman_desc:0 "What really is a woman? We've recently had a large amount of our population concerned over matters of sex, so we shall redefine it!"
+
+ KOD_female_priesthood_holders:0 "Universal Priesthood"
+ KOD_female_priesthood_holders_desc:0 "The Priesthood is the power of god, we are his instruments, and all can serve him; regardless of sex or race."
+
+ KOD_integrate_texas:0 "Integrate Texas"
+ KOD_integrate_texas_desc:0 "We once lived in texas peacefully until we were kicked out, it's time to repay the favor."
+
+ KOD_conquer_new_spain:0 "Conquer New Spain"
+ KOD_conquer_new_spain_desc:0 "The Spanish have long rejected our truths, perhaps with violence they will finally be willing to accept our gospel."
+
+ KOD_integrate_new_spain:0 "Integrate New Spain"
+ KOD_integrate_new_spain_desc:0 "We shall convert all those godless spainiards. or- well they have a god, it's just not the right one. - wait I mean, oh nevermind"
+
+ KOD_carribean_rubber:0 "Exploit Carribean Rubber"
+ KOD_carribean_rubber_desc:0 "The Carribean is prime territory for rubber plantations, we need only develop them."
+
+ KOD_conquer_louisiana:0 "Conquer The Mississipi"
+ KOD_conquer_louisiana_desc:0 "With control of the Mississipi River, we could be unstoppable; in the 18th century."
+
+ KOD_integrate_louisiana:0 "Integrate the River"
+ KOD_integrate_louisiana_desc:0 "These poor people have not had the chance to hear the good word, as our citizens they shall be englightened."
+
+ KOD_texas_oil:0 "Drill Texas Oil"
+ KOD_texas_oil_desc:0 "With texas's oil supply, the lord's mechanized army will not be slowed by lack of fuel any longer!"
+
+ KOD_integrate_cascadia:0 "Integrate Cascadia"
+ KOD_integrate_cascadia_desc:0 "It is now time to preach among the cascadians."
+
+ KOD_northern_conquest:0 "Northern Conquest"
+ KOD_northern_conquest_desc:0 ""
+
+ KOD_greater_cascadian_conquest:0 "Conquer Greater Cascadia"
+ KOD_greater_cascadian_conquest_desc:0 ""
+
+ KOD_kanatian_conquest:0 "Conquer Kanata"
+ KOD_kanatian_conquest_desc:0 ""
+
+ KOD_integrate_north_land:0 "Integrate Greater Kanata"
+ KOD_integrate_north_land_desc:0 ""
+
+ KOD_conquer_northern_isles:0 "Conquer The North Atlantic"
+ KOD_conquer_northern_isles_desc:0 ""
+
+ KOD_conquer_greenland:0 "Conquer Greenland"
+ KOD_conquer_greenland_desc:0 ""
+
+ KOD_conquer_iceland:0 "Conquer Iceland"
+ KOD_conquer_iceland_desc:0 ""
+
+ KOD_integrate_kaiserheim:0 "Integrate Kaiserheim"
+ KOD_integrate_kaiserheim_desc:0 ""
+
+ KOD_conquer_plains:0 "Conquer the Plains"
+ KOD_conquer_plains_desc:0 ""
+
+ KOD_conquer_rivers:0 "Steal the Rivers"
+ KOD_conquer_rivers_desc:0 ""
+
+ KOD_conquer_sioux:0 "Conquer the Sioux"
+ KOD_conquer_sioux_desc:0 ""
+
+ KOD_conquer_dakota:0 "Conquer The Dakota"
+ KOD_conquer_dakota_desc:0 ""
+
+ KOD_integrate_plains:0 "Integrate The Plains"
+ KOD_integrate_plains_desc:0 ""
+
+ KOD_conquer_midwest:0 "Strike the Breadbasket"
+ KOD_conquer_midwest_desc:0 ""
+
+ KOD_conquer_apples:0 "Capture the Coal"
+ KOD_conquer_apples_desc:0 ""
+
+ KOD_conquer_exiles:0 "Conquer the Exiles"
+ KOD_conquer_exiles_desc:0 ""
+
+ KOD_conquer_praire:0 "Burn the Praire"
+ KOD_conquer_praire_desc:0 ""
+
+ KOD_conquer_lakes:0 "Siphon the Lakes"
+ KOD_conquer_lakes_desc:0 ""
+
+ KOD_integrate_midwest:0 "Settle the Midwest"
+ KOD_integrate_midwest_desc:0 ""
+
+ KOD_strike_the_legion:0 "Strike The Legion"
+ KOD_strike_the_legion_desc:0 ""
+
+ KOD_zionsarmy:0 "Zion's Army"
+ KOD_zionsarmy_desc:0 ""
+
+ KOD_deseret_shield:0 "The Deseret Shield"
+ KOD_deseret_shield_desc:0 ""
+
+ KOD_invite_spain:0 "Invite Spain"
+ KOD_invite_spain_desc:0 ""
+
+ KOD_invite_Kaiserheim:0 "Invite Kaiserheim"
+ KOD_invite_Kaiserheim_desc:0 ""
+
+ KOD_invite_cascadia:0 "Invite Cascadia"
+ KOD_invite_cascadia_desc:0 ""
+
+ KOD_invite_texas:0 "Invite Texas"
+ KOD_invite_texas_desc:0 ""
+
+ KOD_spanish_forts:0 "Spanish Forts"
+ KOD_spanish_forts_desc:0 ""
+
+ KOD_finalize_forts:0 "Finalize Forts"
+ KOD_finalize_forts_desc:0 ""
+
+ KOD_milscience:0 "Build a Military Research Lab"
+ KOD_milscience_desc:0 ""
+
+ KOD_uranium_mines:0 "Expand Uranium Mining"
+ KOD_uranium_mines_desc:0 ""
+
+ KOD_zions_navy:0 "Build a Navy"
+ KOD_zions_navy_desc:0 ""
+
+ KOD_zions_navy2:0 "Expand the Dockyards"
+ KOD_zions_navy2_desc:0 ""
+
+ KOD_zions_navy3:0 "Mass-Produce Convoys"
+ KOD_zions_navy3_desc:0 ""
+
+ KOD_zions_navy4:0 "Prepare the Fleet"
+ KOD_zions_navy4_desc:0 ""
+
+ KOD_zions_navy5:0 "One Navy Under God"
+ KOD_zions_navy5_desc:0 ""
+
+ KOD_naval_science:0 "Build a Naval Research Lab"
+ KOD_naval_science_desc:0 ""
+
+ KOD_siberian_conquest:0 "Siberian Conquest"
+ KOD_siberian_conquest_desc:0 ""
+
+ KOD_family_proclamation:0 "The Family Proclaimation"
+ KOD_family_proclamation_desc:0 ""
+
+ KOD_sister_wives:0 "Sister Wives"
+ KOD_sister_wives_desc:0 "We are all children of god, and our wives; like any good sister, will know their place is below that of a man."
+
+ KOD_silence_women:0 "Silence Women"
+ KOD_silence_women_desc:0 "It is not the place of women to speak, or do anything a man would."
+
+ KOD_capture_wives_abroad:0 "Capture Wives Abroad"
+ KOD_capture_wives_abroad_desc:0 "We don't have nearly enough women."
+
+ KOD_redefine_men:0 "Redefine Men"
+ KOD_redefine_men_desc:0 "Many within our ranks, who supposedly are men, do not act manly. Thus we should change the definition to exclude them from the privledges reserved for men."
+
+ KOD_mans_church:0 "A Man's Church"
+ KOD_mans_church_desc:0 "God was a Man, Christ was a Man, and the first person was a man. Thus it is our inheritance to do with others as we please, for the only real people are men."
+
+ KOD_terrible_proclamation:0 "The Family Proclaimation"
+ KOD_terrible_proclamation_desc:0 "In these trying times we must tell the world what a family is."
+
+ KOD_legalize_prostitution:0 "Legalize Mistresses"
+ KOD_legalize_prostitution_desc:0 "Christ told us love was a good thing, so we shouldn't discriminate against those selling love."
+
+ KOD_army_families:0 "Army Families"
+ KOD_army_families_desc:0 "By letting servicemembers have families and grow families while in the army, we can help bolster our population."
+
+ KOD_sibling_marriage:0 "Sibling Marriage"
+ KOD_sibling_marriage_desc:0 "Throughout the Bible there is described relationships between siblings, to be as those great men of the past we must emulate them in every way."
+
+ KOD_redefine_consent:0 "Redefine Consent"
+ KOD_redefine_consent_desc:0 "There is only one type of person, a landowning male member of the church, anyone else is just their tool."
+
+ KOD_evaluate_relationships:0 "Evaluate Relationships"
+ KOD_evaluate_relationships_desc:0 "We must define who a relationship is between."
+
+ KOD_ban_queers:0 "Traditional Marriage"
+ KOD_ban_queers_desc:0 "Marriage is between a man and a woman, as it has been for all of time; and that shall never change."
+
+ KOD_accept_them:0 "A Blind Eye"
+ KOD_accept_them_desc:0 "I didn't see anything."
+
+ KOD_moral_superiority:0 "Moral Victory"
+ KOD_moral_superiority_desc:0 "We have enshrined the core tenets of the family as taught by Jesus Christ. And now, we are truly the greatest faith upon this earth, in the eyes of god and man."
+
+ KOD_elected_prophet:0 "Elected Prophet"
+ KOD_elected_prophet_desc:0 "By electing a prophet we can ensure that god's servant will be ready for his duties."
+ 

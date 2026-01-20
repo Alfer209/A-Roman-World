@@ -1,141 +1,141 @@
 ﻿l_english:
-bureaucraticrestraints:0 "Бюрократичні Обмеження"
-bureaucraticrestraints_desc:0 "Складна бюрократія уповільнює кожне рішення. Військова мобілізація та промислова експансія гальмуються, а впровадження реформ займає більше часу. Хоча Імперія впорядкована та стабільна, вона рухається з навмисною обережністю."
+bureaucraticrestraints:0 "Bureaucratic Restraints"
+bureaucraticrestraints_desc:0 "Complex bureacracy slows every decision. Military mobilisation and industrial expansion are hindered, and reforms take longer to enact. While orderly and stable, the Empire moves with deliberate caution."
 
-theteutonicsenate:0 "Тевтонський Сенат"
-theteutonicsenate_desc:0 "Зразок ефективності, запозичений з іноземних традицій, Тевтонський Сенат виявляється проблемою для структури Імперії. Сенатори постійно сперечаються та сперечаються про марні питання, уповільнюючи та зупиняючи будь-який значний прогрес у нації."
+theteutonicsenate:0 "The Teutonic Senate"
+theteutonicsenate_desc:0 "A model of efficiency borrowed from foreign traditions, the Teutonic Senate proves to be a thorn to the structure of the Empire. Senators constantly bicker and argue on useless matters, slowing and halting any considerable progress in the nation."
+ 
+fruits_of_japan:0 "Fruits of Japan"
+fruits_of_japan_desc:0 "In the aftermath of the §YFirst Concession War§!, the §YTreaty of Nagasaki§! forced Japan to surrender a chain of §Yconcession cities§! to the victorious coalition of §GEast Rome, West Rome, the Teutonic Empire, Great Britain, Russia, and Ming§!. These enclaves stand not only as monuments to Japan’s humiliation, but as lucrative gateways for trade, profit, and influence in the East."
 
-fruits_of_japan:0 "Плоди Японії"
-fruits_of_japan_desc:0 "Після §YПершої Концесійної Війни§! §YНагасакський Договір§! змусив Японію передати ланцюг §Yконцесійних міст§! переможній коаліції §GСхідного Риму, Західного Риму, Тевтонської Імперії, Великої Британії, Росії та Мін§!. Ці анклави є не лише пам’ятниками приниження Японії, але й прибутковими воротами для торгівлі, прибутку та впливу на Сході."
+militarisedclergy:0 "Militarised Clergy"
+militarisedclergy_desc:0 "The clergy have been drawn into military affairs, preaching loyalty to the state and encouraging enlistment. While this boosts manpower, it undermines independent thought and drains political influence."
 
-militarisedclergy:0 "Мілітаризоване Духовенство"
-militarisedclergy_desc:0 "Духовенство залучено до військових справ, проповідуючи лояльність до держави та заохочуючи до вступу в армію. Хоча це збільшує живу силу, це підриває незалежне мислення та виснажує політичний вплив."
+senatorialretirement:0 "Senatorial Retirement"
+senatorialretirement_desc:0 "Older senators are encouraged—or forced—into retirement, temporarily calming tensions within the Senate. Yet, this weakens political authority and erodes public stability."
 
-senatorialretirement:0 "Відставка Сенаторів"
-senatorialretirement_desc:0 "Старших сенаторів заохочують — або змушують — до виходу на пенсію, тимчасово заспокоюючи напругу всередині Сенату. Однак це послаблює політичний авторитет та підриває громадську стабільність."
+senatorialpurge:0 "Senatorial Purge"
+senatorialpurge_desc:0 "A purge of troublesome senators consolidates power in the hands of the executive. Though unpopular and destabilising, it strengthens the regime’s grip and raises morale among the loyal."
 
-senatorialpurge:0 "Чистка Сенату"
-senatorialpurge_desc:0 "Чистка проблемних сенаторів консолідує владу в руках виконавчої влади. Хоча це непопулярно та дестабілізуюче, це зміцнює хватку режиму та піднімає моральний дух серед лоялістів."
+dissidentsexecuted:0 "Dissidents Executed"
+dissidentsexecuted_desc:0 "Enemies of the regime are executed publicly as an example to others. Fear strengthens control, but the heavy-handedness severely undermines social stability."
 
-dissidentsexecuted:0 "Дисиденти Страчені"
-dissidentsexecuted_desc:0 "Вороги режиму страчуються публічно як приклад для інших. Страх зміцнює контроль, але жорсткість суворо підриває соціальну стабільність."
+dissidentstrialed:0 "Dissidents Put on Trial"
+dissidentstrialed_desc:0 "Rather than execution, dissidents are publicly tried, showing a veneer of justice. While this gains some legitimacy, it also exposes political weaknesses and drains authority."
 
-dissidentstrialed:0 "Дисиденти Віддані Під Суд"
-dissidentstrialed_desc:0 "Замість страти, дисиденти публічно судяться, демонструючи видимість справедливості. Хоча це дає певну легітимність, це також викриває політичні слабкості та виснажує авторитет."
+dissidentsexiled:0 "Dissidents Exiled"
+dissidentsexiled_desc:0 "Dissidents are banished from the homeland, allowing the government to maintain stability while avoiding the optics of mass killings. Yet, exiles often become rallying points abroad."
 
-dissidentsexiled:0 "Дисиденти Вислані"
-dissidentsexiled_desc:0 "Дисиденти виганяються з батьківщини, що дозволяє уряду підтримувати стабільність, уникаючи вигляду масових вбивств. Проте вигнанці часто стають центрами об'єднання за кордоном."
+preparingforwar:0 "Preparing for War"
+preparingforwar_desc:0 "The economy is shifted toward war readiness. Factories hum with production, shipyards are busy, and the nation steels itself for the coming storms."
 
-preparingforwar:0 "Готуючись до Війни"
-preparingforwar_desc:0 "Економіка переходить на воєнний лад. Заводи гудуть виробництвом, верфі зайняті, і нація готується до прийдешніх штормів."
+preparingformountainwarfare:0 "Preparing for Mountain Warfare"
+preparingformountainwarfare_desc:0 "Training and logistics are adjusted for combat in harsh alpine terrain. Troops gain specialist skills for mountain assaults, making them far more resilient in rugged battlefields."
 
-preparingformountainwarfare:0 "Готуючись до Гірської Війни"
-preparingformountainwarfare_desc:0 "Навчання та логістика пристосовуються для бойових дій у суворих альпійських умовах. Війська набувають спеціалізованих навичок для гірських штурмів, роблячи їх набагато стійкішими на пересіченій місцевості."
+antiromandoctrine:0 "Anti-Roman Doctrine"
+antiromandoctrine_desc:0 "Doctrine and training are tailored specifically to fight the Western Romans. Every soldier is taught how to resist their tactics and strike at their weaknesses."
 
-antiromandoctrine:0 "Антиримська Доктрина"
-antiromandoctrine_desc:0 "Доктрина та навчання пристосовані спеціально для боротьби із Західними Римлянами. Кожного солдата вчать, як протистояти їхній тактиці та бити по їхніх слабких місцях."
+WAI_antiroman:0 "Anti-Roman Doctrine"
+WAI_antiroman_desc:0 "Doctrine and training are tailored specifically to fight the Eastern Romans. Every soldier is taught how to resist their tactics and strike at their weaknesses."
 
-WAI_antiroman:0 "Антиримська Доктрина"
-WAI_antiroman_desc:0 "Доктрина та навчання пристосовані спеціально для боротьби зі Східними Римлянами. Кожного солдата вчать, як протистояти їхній тактиці та бити по їхніх слабких місцях."
+winbyair:0 "Victory Through Airpower"
+winbyair_desc:0 "The future of war lies in the skies. By investing heavily in fighters, bombers, and close air support, the nation ensures dominance in the air will decide battles on the ground."
 
-winbyair:0 "Перемога Повітрям"
-winbyair_desc:0 "Майбутнє війни лежить у небі. Інвестуючи значні кошти у винищувачі, бомбардувальники та безпосередню авіаційну підтримку, нація забезпечує, що домінування в повітрі вирішуватиме битви на землі."
+womenarmyscorpsp:0 "Women's Army Corps"
+womenarmyscorpsp_desc:0 "Women are mobilised into military and industrial roles, boosting manpower and national output. Though controversial, this greatly expands the war effort."
 
-womenarmyscorpsp:0 "Жіночий Армійський Корпус"
-womenarmyscorpsp_desc:0 "Жінки мобілізуються на військові та промислові ролі, підвищуючи живу силу та національний вихід. Хоча це суперечливо, це значно розширює військові зусилля."
+legacyof1901:0 "Legacy of 1901"
+legacyof1901_desc:0 "The bitter lessons of the 1901 conflict remain etched into the nation’s memory. Defensive fortifications, naval reforms, and a deep-rooted hostility toward the Japanese shape modern policy."
 
-legacyof1901:0 "Спадщина 1901 року"
-legacyof1901_desc:0 "Гіркі уроки конфлікту 1901 року залишаються викарбуваними у пам’яті нації. Оборонні укріплення, військово-морські реформи та глибоко вкорінена ворожість до Японців формують сучасну політику."
+eyesandeareverywhere:0 "Eyes and Ears Everywhere"
+eyesandeareverywhere_desc:0 "A vast intelligence network spreads across the nation. Operatives watch every corner, rooting out dissent and ensuring no enemy agent escapes notice."
 
-eyesandeareverywhere:0 "Очі та Вуха Скрізь"
-eyesandeareverywhere_desc:0 "По всій нації розгортається величезна розвідувальна мережа. Оперативники стежать за кожним куточком, викорінюючи інакомислення та забезпечуючи, щоб жоден ворожий агент не уникнув уваги."
+reformedbureaucracy:0 "Reformed Bureaucracy"
+reformedbureaucracy_desc:0 "The administrative system has been cleaned and streamlined. Corruption fades, efficiency rises, and the nation can finally modernise effectively."
 
-reformedbureaucracy:0 "Реформована Бюрократія"
-reformedbureaucracy_desc:0 "Адміністративна система очищена та спрощена. Корупція зникає, ефективність зростає, і нація нарешті може ефективно модернізуватися."
+gfemabsoluteimperialcontrol:0 "Absolute Imperial Control"
+gfemabsoluteimperialcontrol_desc:0 "All authority rests in the emperor’s hands. Freed from senatorial oversight, the empire commands with unmatched efficiency and unity."
 
-gfemabsoluteimperialcontrol:0 "Абсолютний Імперський Контроль"
-gfemabsoluteimperialcontrol_desc:0 "Уся влада зосереджена в руках імператора. Звільнена від сенаторського нагляду, імперія керує з неперевершеною ефективністю та єдністю."
+reforming:0 "National Reforms"
+reforming_desc:0 "The state is in the midst of deep reforms, modernising its institutions and army. Progress is slow and costly, but promises stability in the long run."
 
-reforming:0 "Національні Реформи"
-reforming_desc:0 "Держава перебуває в процесі глибоких реформ, модернізуючи свої інститути та армію. Прогрес повільний і коштовний, але обіцяє стабільність у довгостроковій перспективі."
+reforming2:0 "National Reforms"
+reforming2_desc:0 "The state is in the midst of deep reforms, modernising its institutions and army. Progress is slow and costly, but promises stability in the long run."
 
-reforming2:0 "Національні Реформи"
-reforming2_desc:0 "Держава перебуває в процесі глибоких реформ, модернізуючи свої інститути та армію. Прогрес повільний і коштовний, але обіцяє стабільність у довгостроковій перспективі."
+suppressedsenators:0 "Senators Suppressed"
+suppressedsenators_desc:0 "The voices of dissent in the Senate have been crushed. Though political unity is gained, stability suffers as democratic legitimacy erodes."
 
-suppressedsenators:0 "Придушені Сенатори"
-suppressedsenators_desc:0 "Голоси незгоди в Сенаті були придушені. Хоча політична єдність здобута, стабільність страждає, оскільки демократична легітимність підривається."
+senatorialnegotiations:0 "Senatorial Negotiations"
+senatorialnegotiations_desc:0 "Fragile compromises are struck with the Senate. This slows political power but helps defend the regime from ideological subversion."
 
-senatorialnegotiations:0 "Сенаторські Переговори"
-senatorialnegotiations_desc:0 "Укладено крихкі компроміси з Сенатом. Це уповільнює політичну владу, але допомагає захистити режим від ідеологічної диверсії."
+senateoutrage:0 "Senate Outrage"
+senateoutrage_desc:0 "The Senate is outraged by recent decisions, destabilising the nation and hampering the government’s authority even as war fervor quietly rises."
 
-senateoutrage:0 "Обурення Сенату"
-senateoutrage_desc:0 "Сенат обурений недавніми рішеннями, дестабілізуючи націю та перешкоджаючи авторитету уряду, навіть коли воєнний запал тихо зростає."
+teutoniclegacy:0 "Teutonic Legacy"
+teutoniclegacy_desc:0 "The old martial traditions of the Teutons still inspire modern soldiers. Discipline and aggression in battle are seen as the true path to victory."
 
-teutoniclegacy:0 "Тевтонська Спадщина"
-teutoniclegacy_desc:0 "Старі військові традиції Тевтонів все ще надихають сучасних солдатів. Дисципліна та агресія в бою розглядаються як справжній шлях до перемоги."
+expandedacademy:0 "Expanded Military Academy"
+expandedacademy_desc:0 "Military education is reformed and expanded, producing more officers and ensuring the army has a steady stream of capable recruits."
 
-expandedacademy:0 "Розширена Військова Академія"
-expandedacademy_desc:0 "Військова освіта реформована та розширена, що дозволяє готувати більше офіцерів та забезпечує армію постійним потоком здібних новобранців."
+afrikacorps:0 "Afrika Korps"
+afrikacorps_desc:0 "Experience from desert warfare is institutionalised. Soldiers adapt to hot climates with improved organisation and survivability in harsh terrain."
 
-afrikacorps:0 "Африканський Корпус"
-afrikacorps_desc:0 "Досвід бойових дій у пустелі інституціоналізований. Солдати адаптуються до жаркого клімату з покращеною організацією та виживанням у суворій місцевості."
+lawofreichstag:0 "Law of the Reichstag"
+lawofreichstag_desc:0 "A new law strengthens central authority, ensuring stability and war support. Political influence grows as the Reichstag is brought into line."
 
-lawofreichstag:0 "Закон про Райхстаг"
-lawofreichstag_desc:0 "Новий закон зміцнює центральну владу, забезпечуючи стабільність та підтримку війни. Політичний вплив зростає, оскільки Райхстаг приведений до покори."
+concentratedarmamentproduction:0 "Concentrated Armament Production"
+concentratedarmamentproduction_desc:0 "Production is centralised in large industrial centres, boosting efficiency and output of war materials."
 
-concentratedarmamentproduction:0 "Концентроване Виробництво Озброєнь"
-concentratedarmamentproduction_desc:0 "Виробництво централізовано у великих промислових центрах, підвищуючи ефективність та випуск військових матеріалів."
+concentratedarmamentproduction2:0 "Concentrated Armament Production"
+concentratedarmamentproduction2_desc:0 "Production is centralised in large industrial centres, boosting efficiency and output of war materials."
 
-concentratedarmamentproduction2:0 "Концентроване Виробництво Озброєнь"
-concentratedarmamentproduction2_desc:0 "Виробництво централізовано у великих промислових центрах, підвищуючи ефективність та випуск військових матеріалів."
+concentratedarmamentproduction3:0 "Concentrated Armament Production"
+concentratedarmamentproduction3_desc:0 "Production is centralised in large industrial centres, boosting efficiency and output of war materials."
 
-concentratedarmamentproduction3:0 "Концентроване Виробництво Озброєнь"
-concentratedarmamentproduction3_desc:0 "Виробництво централізовано у великих промислових центрах, підвищуючи ефективність та випуск військових матеріалів."
+concentratedarmamentproduction4:0 "Concentrated Armament Production"
+concentratedarmamentproduction4_desc:0 "Production is centralised in large industrial centres, boosting efficiency and output of war materials."
 
-concentratedarmamentproduction4:0 "Концентроване Виробництво Озброєнь"
-concentratedarmamentproduction4_desc:0 "Виробництво централізовано у великих промислових центрах, підвищуючи ефективність та випуск військових матеріалів."
+concentratedarmamentproduction5:0 "Concentrated Armament Production"
+concentratedarmamentproduction5_desc:0 "Production is centralised in large industrial centres, boosting efficiency and output of war materials."
 
-concentratedarmamentproduction5:0 "Концентроване Виробництво Озброєнь"
-concentratedarmamentproduction5_desc:0 "Виробництво централізовано у великих промислових центрах, підвищуючи ефективність та випуск військових матеріалів."
+ulimatumvetoed:0 "Ultimatum Vetoed"
+ulimatumvetoed_desc:0 "The senate has vetoed the latest ultimatum, rejecting compromise. This decision damages industry and stability, but preserves independence."
 
-ulimatumvetoed:0 "Ультиматум Ветовано"
-ulimatumvetoed_desc:0 "Сенат наклав вето на останній ультиматум, відхиляючи компроміс. Це рішення завдає шкоди промисловості та стабільності, але зберігає незалежність."
+ulimatumaccepted:0 "Ultimatum Accepted"
+ulimatumaccepted_desc:0 "The senate has accepted the ultimatum, prioritising peace and survival over national pride. Industry and stability improve under the agreement."
 
-ulimatumaccepted:0 "Ультиматум Прийнято"
-ulimatumaccepted_desc:0 "Сенат прийняв ультиматум, надаючи пріоритет миру та виживанню над національною гордістю. Промисловість та стабільність покращуються згідно з угодою."
+decentralisedarmy:0 "Decentralised Army"
+decentralisedarmy_desc:0 "A fractured command structure undermines efficiency. Officers act independently, slowing planning and draining cohesion."
 
-decentralisedarmy:0 "Децентралізована Армія"
-decentralisedarmy_desc:0 "Розколота командна структура підриває ефективність. Офіцери діють незалежно, уповільнюючи планування та виснажуючи згуртованість."
+armyloyal1:0 "Army Loyalty"
+armyloyal1_desc:0 "The army swears loyalty to the regime, restoring planning speed and morale. Political control over the armed forces grows stronger."
 
-armyloyal1:0 "Лояльність Армії"
-armyloyal1_desc:0 "Армія присягає на вірність режиму, відновлюючи швидкість планування та моральний дух. Політичний контроль над збройними силами зростає."
+armyloyal2:0 "Army Loyalty"
+armyloyal2_desc:0 "The army swears loyalty to the regime, restoring planning speed and morale. Political control over the armed forces grows stronger."
 
-armyloyal2:0 "Лояльність Армії"
-armyloyal2_desc:0 "Армія присягає на вірність режиму, відновлюючи швидкість планування та моральний дух. Політичний контроль над збройними силами зростає."
+armyloyal3:0 "Army Loyalty"
+armyloyal3_desc:0 "The army swears loyalty to the regime, restoring planning speed and morale. Political control over the armed forces grows stronger."
 
-armyloyal3:0 "Лояльність Армії"
-armyloyal3_desc:0 "Армія присягає на вірність режиму, відновлюючи швидкість планування та моральний дух. Політичний контроль над збройними силами зростає."
+finalblowtoallromans:0 "Final Blow to the Romans"
+finalblowtoallromans_desc:0 "The empire prepares for its greatest struggle: a decisive war to end Roman influence once and for all. Every soldier and ship is dedicated to this ultimate campaign."
 
-finalblowtoallromans:0 "Фінальний Удар по Всім Римлянам"
-finalblowtoallromans_desc:0 "Імперія готується до своєї найбільшої боротьби: рішучої війни, щоб раз і назавжди покінчити з Римським впливом. Кожен солдат і корабель присвячений цій кінцевій кампанії."
+combinationarms:0 "Combined Arms Doctrine"
+combinationarms_desc:0 "The army perfects coordination between infantry, armour, and air support, ensuring maximum efficiency in modern warfare."
 
-combinationarms:0 "Доктрина Об'єднаних Родів Військ"
-combinationarms_desc:0 "Армія вдосконалює координацію між піхотою, бронетехнікою та повітряною підтримкою, забезпечуючи максимальну ефективність у сучасній війні."
+altanticnavaldominance:0 "Atlantic Naval Dominance"
+altanticnavaldominance_desc:0 "By expanding its fleets and training for large amphibious operations, the empire seeks to dominate the Atlantic and ensure secure supply lines."
 
-altanticnavaldominance:0 "Панування на Атлантиці"
-altanticnavaldominance_desc:0 "Розширюючи свій флот та тренуючись для великих амфібійних операцій, імперія прагне домінувати на Атлантиці та забезпечити надійні лінії постачання."
+shatterlegionaryair:0 "Shatter the Legionary Air Force"
+shatterlegionaryair_desc:0 "The air force is restructured to break Roman air superiority, investing in elite aces, detection networks, and tactical mission efficiency."
 
-shatterlegionaryair:0 "Розтрощити Легіонерські Повітряні Сили"
-shatterlegionaryair_desc:0 "Повітряні сили реструктуруються, щоб зламати Римську перевагу в повітрі, інвестуючи в елітних асів, мережі виявлення та ефективність тактичних місій."
+antilegionary:0 "Anti-Legionary Strategy"
+antilegionary_desc:0 "Every doctrine, plan, and weapon is aimed at defeating the Legionary States. The entire army trains specifically for this foe."
 
-antilegionary:0 "Антилегіонерська Стратегія"
-antilegionary_desc:0 "Кожна доктрина, план та зброя спрямовані на перемогу над Легіонерськими Державами. Уся армія тренується спеціально для цього ворога."
+GEM_defendthevaterland_ns:0 "Defend the Vaterland"
+GEM_defendthevaterland_ns_desc:0 "The homeland is fortified with rapid construction and deep entrenchment. Every resource is directed toward protecting the Vaterland."
 
-GEM_defendthevaterland_ns:0 "Захистити Вітчизну"
-GEM_defendthevaterland_ns_desc:0 "Батьківщина укріплюється швидким будівництвом та глибоким окопуванням. Кожен ресурс спрямовується на захист Вітчизни."
+GEM_asianfront:0 "The Asian Front"
+GEM_asianfront_desc:0 "Resources are shifted eastward to confront the Republic of the Indies. Naval plans and invasion strategies are redrawn to meet this challenge."
 
-GEM_asianfront:0 "Азійський Фронт"
-GEM_asianfront_desc:0 "Ресурси перекидаються на схід, щоб протистояти Республіці Індій. Військово-морські плани та стратегії вторгнення переробляються, щоб відповісти на цей виклик."
-
-TEI_theteutoniceastindies:0 "Тевтонські Східні Індії"
-TEI_theteutoniceastindies_desc:0 "Східні Індії міцно прив'язані до імперії. Заводи, ресурси та торгівля перенаправляються для обслуговування Тевтонських володарів, забезпечуючи панування за океаном."
+TEI_theteutoniceastindies:0 "The Teutonic East Indies"
+TEI_theteutoniceastindies_desc:0 "The East Indies are bound tightly to the empire. Factories, resources, and trade are redirected to serve the Teutonic overlords, ensuring dominance overseas."

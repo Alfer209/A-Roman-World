@@ -1,0 +1,147 @@
+﻿l_english:
+
+wr.1.t:0 "Assembly of the Senate"
+wr.1.desc:0 "The great halls of the Curia once again echo with the voices of Rome’s senators. After years of decline and uncertainty, the Western Roman Senate has been summoned to convene, its marble floors filled with men bearing ancient titles and modern ambitions alike. Their debates rage over the question of Rome’s and Lorenzo's future—whether the state should look to the authority of the Senate, to the will of the people, or to a balance between the two."
+wr.1.a:0 "Focus on the Senate"
+wr.1.b:0 "Focus on the People"
+wr.1.c:0 "Focus on both the Senate and People"
+
+wr.2.t:0 "Force Constantinople's Hand"
+wr.2.desc:0 "For decades, the East has dismissed our overtures, insisting on their sole legitimacy as heirs of Rome. Words alone have proven powerless to change their stance, and our empire can no longer afford to wait idly while Constantinople undermines our authority. If diplomacy fails to break the deadlock, perhaps shadows and steel will succeed where parchment and ink have failed.\n\nOur strategists have drawn up a series of covert actions to shake the East from its arrogance. A well-placed dagger might silence an influential voice in their court, sending a message of fear. A staged border skirmish could ignite panic and force them to the table under threat of open conflict. Or, more ruthlessly, fire and destruction in their capital might tarnish their image of stability and prove that no fortress is untouchable.\n\nEach of these measures is perilous, and discovery would inflame the East against us. Yet if we do nothing, the dream of Roman unity may wither away entirely. The question is not whether these actions are dangerous—they most certainly are—but whether we are bold enough to risk everything for the sake of empire."
+wr.2.a:0 "Attempt an assassination."
+wr.2.b:0 "Instigate a border incident."
+wr.2.c:0 "Commit arson in their capital."
+
+wr.3.t:0 "Assassination... Failed!"
+wr.3.desc:0 "Our agents attempted to eliminate an Eastern official of high importance. However, the plan was discovered before it could be carried out. Not only has the operation failed, but the Eastern Empire is now enraged, accusing us of treachery."
+wr.3.a:0 "A dangerous gamble that has backfired."
+
+wr.4.t:0 "Border Instigation"
+wr.4.desc:0 "Armed provocateurs along the frontier opened fire, causing panic and confusion. The skirmish was quickly suppressed, but the Eastern Empire is treating this as deliberate aggression on our part. Tensions have escalated significantly."
+wr.4.a:0 "The message was sent, but at a cost."
+
+wr.5.t:0 "Arson... Failed!"
+wr.5.desc:0 "Our arsonists lit several fires in the Eastern capital, but they were quickly apprehended before the damage could spread. Their confessions under interrogation have already been broadcast by the Eastern press. The East is furious, and we are humiliated."
+wr.5.a:0 "A reckless move that only stoked the flames."
+
+wr.6.t:0 "The Failed Assassination Attempt"
+wr.6.desc:0 "An assassination attempt has been uncovered within our capital, targeting key officials. Evidence points strongly to agents loyal to the Western Roman Empire. Though the attempt has failed, the insult cannot go unanswered."
+wr.6.a:0 "Condemn the West!"
+wr.6.b:0 "Prepare retaliation!"
+
+wr.7.t:0 "Border Incident Escalates"
+wr.7.desc:0 "Reports have reached us of deliberate instigation along the Illyrian frontier. Armed clashes have broken out, threatening to spiral into open war. The West is clearly probing our strength."
+wr.7.a:0 "Mobilize the borders!"
+wr.7.b:0 "Strike back immediately!"
+
+wr.8.t:0 "Arson Attempt in the Capital"
+wr.8.desc:0 "A series of fires broke out in key government buildings overnight. Investigators traced the culprits to Western sympathizers acting under orders from Rome. Though damage was contained, the outrage is enormous."wr.8.a:0 "Issue a public condemnation."
+wr.8.a:0 "It's nothing."
+wr.8.b:0 "Demand reparations at once!"
+
+wr.9.t:0 "Launch an incident on the border"
+wr.9.desc:0 "According to recent reports, our armed forces are at an optimal efficiency. Special operations detachments along the border have been strategically positioned and are at combat readiness, all reconnaissance missions have come back with reassuring results, alongside this, naval forces have not reported any interference from the enemy navy. \n\nOur agents report that they have successfully infiltrated communication nodes along the area within East Roman Territory. Radio interception confirms our fabricated transmissions are being accepted as authentic. Saboteurs are positioned to ignite confusion at the designated staging sites. Counter-intelligence measures have ensured no traceable link back to West Rome.\n\nBoth the West Roman Armed forces and the West Roman Intelligence agency are in the green to begin this operation. The stage is set for an operation to be conducted that will sway the course of history for Rome. \n\nProceed with your discretion. \n\nSecretary for the Head of State"
+wr.9.a:0 "Go ahead with the operation!"
+wr.9.b:0 "Better not to..."
+
+wr.10.t:0 "West Roman mobilisation on the Illyrian border!"
+wr.10.desc:0 "Garrisons stationed at the Illyrian frontier report disturbing news. Our intelligence agency reports that alongside the secret mobilisation of West Rome's wartime industry, columns of infantry and armoured formations have been spotted near the Illyrian  border. The speed and sheer scale of the West Roman mobilizations suggests a full scale military invasion is on the horizon.. \n\nHowever, Generals in the East Roman Army have come to the consensus that this is nothing more than mere stageplay to aggravate us into mobilising and launching a pre-emptive strike, as to antagonize us on the world stage. In case of this being true, Constantinople would find it very difficult to come out on top of a conflict without the support of its allies and its people. \n\nThe stakes could seemingly not be higher, and failure to respond to this crisis properly shall spell disaster for us."
+wr.10.a:0 "They are preparing to invade! We must strike!"
+wr.10.b:0 "No, they are simply bluffing..."
+
+wr.100.t:0 "The Roman Civil War!"
+wr.100.desc:0 "The Illyrian War is universally agreed to have been the most deadly war between the Roman Empires in centuries, but it appears that even after the changing of the West Roman Emperor, and 4 years of nightmarish battles in Illyria could not deter man's lust for blood. After a period of political and diplomatic struggle between both Romes, the uneasy peace between Constantinople and Rome has broken down. These two superpowers are now mobilising... their armies preparing for a conflict never seen before since the dawn of time.\n\n§RRelinquite omnem spem, vos qui intrantes§!\n§RAbandon all hope ye who enter here.§!"
+wr.100.a:0 "We'll show them who is the true Rome!"
+wr.100.b:0 "We must destroy the Constantinople pretenders!"
+wr.100.c:0 "The greatest Roman War has begun..."
+
+wr.11.t:0 "Pursuing Aggressive Diplomacy"
+wr.11.desc:0 "Emperor Lorenzo has declared that the time for cautious words and hesitant gestures has come to an end. The dream of a united Rome cannot be achieved through passive diplomacy or endless compromise. Beyond the Adriatic, the pretenders in Constantinople continue to claim legitimacy as heirs to the Roman legacy, poisoning the courts of Europe with their deceit. To the north, barbaric kingdoms like the Teutons conspire to weaken us, whispering alliances against the true Rome.\n\nUnder Lorenzo’s vision, diplomacy shall become a weapon—sharpened, deliberate, and unyielding. Envoys will no longer beg for recognition but demand submission. Those who defy the Republic’s authority will face isolation, embargo, and, if necessary, the sword. Our emissaries will move swiftly to secure allies among the disillusioned and pressure the uncertain into our sphere.\n\nRome’s glory will not be restored by patience but by resolve. The Emperor has spoken: to hesitate is to die, and to act is to rule. Through strength, persuasion, and intimidation, Rome shall once again stand supreme over the old world."
+wr.11.a:0 "Toward a united Rome!"
+
+wr.12.t:0 "West Rome Wants To Reconciliate"
+wr.12.desc:0 "The Western Roman Empire has extended a hand of diplomacy toward us, hoping to end the centuries-long division between East and West. Their emissaries claim that Rome’s strength lies in unity, not rivalry. Yet, our court remains divided — some believe reconciliation will restore Rome’s ancient greatness, while others see this as a trap to undermine our sovereignty. How shall we respond to their overture?"
+wr.12.a:0 "We shall accept their gesture freely."
+wr.12.b:0 "We will accept... for a price."
+wr.12.c:0 "Never! The West is a false Rome!"
+
+wr.13.t:0 "Constantinople Accepts Our Offer"
+wr.13.desc:0 "The Eastern Roman envoys have agreed to our terms of reconciliation without demanding payment or concessions. Emperor Lorenzo has hailed this as a great triumph for diplomacy, a sign that the dream of a united Rome may no longer be a fantasy. For the first time in centuries, the eagle of Rome may yet soar over both East and West once more."
+wr.13.a:0 "A glorious day for Rome!"
+
+wr.14.t:0 "Constantinople Demands Compensation"
+wr.14.desc:0 "The Eastern Roman envoys have agreed to reconciliation, but their acceptance came with conditions — they demand a sizable offering of weapons and political favor to prove our sincerity. While Emperor Lorenzo is reluctant to bow to such demands, his council argues that this price is small compared to the greater goal of unity."
+wr.14.a:0 "If gold and arms can buy peace, so be it."
+
+wr.15.t:0 "Constantinople Rejects Our Offer"
+wr.15.desc:0 "The Eastern Roman Empire has outright refused our call for reconciliation, denouncing us as impostors and usurpers of the Roman name. Emperor Lorenzo’s dream of reunification has been insulted, and fury now brews in the imperial court. The Emperor vows that if the East will not accept unity through peace, they shall one day be made to accept it through force."
+wr.15.a:0 "Then they have chosen division and disgrace."
+
+wr.16.t:0 "Meeting of the Dual Emperors"
+wr.16.desc:0 "For the first time in living memory, emissaries from both East and West have proposed an unprecedented meeting — a summit between the two Emperors themselves. The purpose is clear: to decide whether the two Romes can coexist as partners or if unity remains an impossible dream. Within the palaces of Constantinople, courtiers whisper anxiously. Will the East extend its hand in good faith, or see this as a challenge to its authority?"
+wr.16.a:0 "We shall welcome Emperor Lorenzo to Constantinople."
+wr.16.b:0 "This meeting is a trap — we will not attend."
+
+wr.17.t:0 "The East Agrees to Meet!"
+wr.17.desc:0 "The Eastern Emperor has agreed to meet with our envoys, accepting Emperor Lorenzo’s proposal for direct talks. This marks a historic moment — the twin heirs of Rome’s legacy, divided for centuries, will stand face to face once again. The Emperor believes this meeting could begin a new chapter for our fractured Empire, one where the East and West might yet walk the same path."
+wr.17.a:0 "History shall remember this day."
+
+wr.18.t:0 "The East Refuses Our Invitation!"
+wr.18.desc:0 "Our envoys have returned from Constantinople with grim news — the Eastern Emperor has refused to meet. Their court branded our invitation as an insult, denouncing Emperor Lorenzo’s legitimacy and accusing the West of arrogance and deceit. In Rome, outrage spreads like wildfire. The Emperor’s council now urges a more forceful approach to make the East remember who truly carries the Roman name."
+wr.18.a:0 "So be it. They choose pride over unity."
+
+wr.19.t:0 "One Empire, Two Emperors"
+wr.19.desc:0 "In a ceremony of unmatched grandeur within the Great Palace of Constantinople, the Emperor Isildoros stood before his court and the envoys of the West to deliver words that will echo through the ages. For the first time since the restoration of the West under Belisarius, East and West stand as equals beneath a single imperial idea — one Empire, ruled by two Emperors. \n\nThis is not a surrender of sovereignty, but a declaration of unity in destiny. The Eastern and Western courts shall govern their realms in harmony, guided by mutual respect and the eternal spirit of Rome. Across the marble halls, banners of both eagles were raised side by side — symbols not of division, but of balance. Rome is one once more, eternal and indivisible."
+wr.19.a:0 "Ave Roma Aeterna!"
+
+wr.20.t:0 "One Empire, Two Emperors"
+wr.20.desc:0 "Before the assembled Senate and people of Rome, Emperor Lorenzo addressed the nation and the world: §G'Let it be known, from this day forth, that there are not two Romes, but one — united in purpose, shared in glory.'§! As his words rang out, the banners of the East were raised alongside those of the West, and the bells of the Eternal City tolled in harmony with those of Constantinople. For the first time since the restoration of the West under Belisarius, the Empire’s twin thrones recognize each other as equals — two rulers, one Rome, one destiny. The pact of dual emperorship stands as the culmination of centuries of struggle and renewal, a symbol that the Empire, though divided by geography, remains whole in spirit and will."
+wr.20.a:0 "For Rome, undivided and eternal!"
+
+wr.21.t:0 "The Inevitable War Has Begun..."
+wr.21.desc:0 "From the barbaric north, the Kaiserpakt’s legions march — iron beasts, steel wings, and men who know no mercy. The northern front has ignited into a storm of fire and blood, the sky blackened by smoke and the wails of dying cities.\n\nThe dream of peace has shattered. The Roman League stands surrounded, the horizon aflame from the Rhine to the Alps. Every field, every road, every ruin now becomes a battlefield. There will be no retreat, no surrender.\n\nWe stand upon the threshold of the §RBellum Magnum§! — the Great War, perhaps the last Rome shall ever fight. If we falter now, the barbarians will once more sack our Eternal City, and Rome shall be nothing but ashes in the chronicles of time.\n\nAll hope fades... yet the banners still rise. We must prevail — or vanish forever."
+wr.21.a:0 "The Bellum Magnum begins..."
+
+wr.22.t:0 "The Lorenzean Era!"
+wr.22.desc:0 "Ten years have passed since the bloody revolution that swept aside the tyrannical regime and brought forth a new dawn for our people. In the fires of that struggle, the House of Lorenzo emerged triumphant, with Lorenzo Laurence hailed as both the leader of the revolution and the restorer of imperial dignity. Now, as the banners are raised and the streets filled with celebration, the Lorenzean Era is officially proclaimed. \n\nThis moment is more than mere festivity: it is a consolidation of authority, a binding of people and state under the Emperor’s banner. Where once division and terror reigned, now a vision of prosperity and renewal takes root. Many look to this era as a chance not only for domestic stability but also for reconciliation abroad — particularly with our cousins in Constantinople, who still watch our rise with wary eyes. Whether this era becomes one of flourishing unity or renewed conflict will depend on the wisdom and resolve of the Emperor, but for now, the West Roman Empire rejoices in the dawn of its new age."
+wr.22.a:0 "Long Live Lorenzo! Prosperity for the West Roman Empire!"
+
+wr.23.t:0 ""
+wr.23.desc:0 ""
+wr.23.a:0 ""
+wr.23.b:0 ""
+
+wr.24.t:0 ""
+wr.24.desc:0 ""
+wr.24.a:0 ""
+wr.24.b:0 ""
+
+wr.25.t:0 ""
+wr.25.desc:0 ""
+wr.25.a:0 ""
+wr.25.b:0 ""
+
+wr.26.t:0 ""
+wr.26.desc:0 ""
+wr.26.a:0 ""
+wr.26.b:0 ""
+
+wr.27.t:0 ""
+wr.27.desc:0 ""
+wr.27.a:0 ""
+wr.27.b:0 ""
+
+wr.28.t:0 ""
+wr.28.desc:0 ""
+wr.28.a:0 ""
+wr.28.b:0 ""
+
+wr.29.t:0 ""
+wr.29.desc:0 ""
+wr.29.a:0 ""
+wr.29.b:0 ""
+
+wr.30.t:0 ""
+wr.30.desc:0 ""
+wr.30.a:0 ""
+wr.30.b:0 ""

@@ -1,271 +1,271 @@
 ﻿l_english: 
 
-MIG_mandate_of_heaven:0 "Мандат Небес"
-MIG_mandate_of_heaven_desc:0 "Після смути настав час підтвердити божественний та непорушний авторитет трону Мін. Утверджуючи наше правління як призначене самими Небесами, ми зміцнюємо основи імперії, вселяємо лояльність серед народу та відновлюємо довіру до вічної династії. Наша легітимність сяятиме як маяк для всього Китаю, демонструючи, що під правлінням Мін нація знову процвітатиме."
+MIG_mandate_of_heaven:0 "The Mandate of Heaven"
+MIG_mandate_of_heaven_desc:0 "After turmoil, the time has come to reaffirm the divine and unbroken authority of the Ming throne. By asserting our rule as ordained by Heaven itself, we solidify the foundation of the empire, inspire loyalty among the people, and restore confidence in the eternal dynasty. Our legitimacy shall shine as a beacon for all of China, demonstrating that under the Ming, the nation shall flourish once more."
 
-MIG_secure_the_court:0 "Убезпечити Двір"
-MIG_secure_the_court_desc:0 "Політичні інтриги столиці загрожують послабити авторитет трону. Придворні та міністри, кожен з яких шукає впливу та влади. Убезпечуючи двір, усуваючи корупцію та забезпечуючи, щоб лояльні міністри займали ключові посади, ми захищаємо священне місце імперської влади та гарантуємо, що рішення імператора будуть беззаперечними та виконуватимуться з непохитною вірністю."
+MIG_secure_the_court:0 "Secure the Court"
+MIG_secure_the_court_desc:0 "The political machinations of the capital threaten to weaken the throne’s authority. Courtiers, and ministers, each seeking influence and power. By securing the court, eliminating corruption, and ensuring loyal ministers occupy key positions, we protect the sacred seat of imperial power and guarantee that the decisions of the emperor are unchallenged and executed with unwavering fidelity."
 
-MIG_rebuilding_efforts:0 "Загальнонаціональні Зусилля з Відбудови"
-MIG_rebuilding_efforts_desc:0 "Наша імперія пережила жорстоке повстання. Вкрай необхідно відновити інфраструктуру, відродити сільське господарство та повернути процвітання до наших міст і сільської місцевості. Ці зусилля з відбудови, хоча й вимагають великої праці, відродять економіку нації, зміцнять моральний дух та підготують Китай до викликів, що стоять попереду, гарантуючи, що кожна провінція знову служитиме славі династії Мін."
+MIG_rebuilding_efforts:0 "Nationwide Rebuilding Efforts"
+MIG_rebuilding_efforts_desc:0 "Our empire has endured ruthless rebellion. It is imperative to restore infrastructure, revive agriculture, and bring prosperity back to our cities and countryside. These rebuilding efforts, though painstaking, will revive the nation’s economy, strengthen morale, and prepare China for the challenges that lie ahead, ensuring that every province once again serves the glory of the Ming dynasty."
 
-MIG_mandate_reaffirmed:0 "Мандат Підтверджено"
-MIG_mandate_reaffirmed_desc:0 "Через політичні маневри та невтомні зусилля з відновлення порядку, імперія тепер стоїть об'єднаною під визнаним Мандатом Небес. Це підтвердження зміцнює як внутрішню згуртованість Китаю, так і нашу позицію у світі, сигналізуючи, що династія Мін є законним управителем Серединного Царства."
+MIG_mandate_reaffirmed:0 "Mandate Reaffirmed"
+MIG_mandate_reaffirmed_desc:0 "Through political maneuvering and tireless efforts to restore order, the empire now stands united under the recognised Mandate of Heaven. This reaffirmation strengthens both the internal cohesion of China and our position in the world, signaling that the Ming dynasty is the rightful steward of the Middle Kingdom."
 
-MIG_purge_the_reformists:0 "Провести Чистку Реформістів"
-MIG_purge_the_reformists_desc:0 "Реформісти та радикали загрожують стабільності імперії, просуваючи ідеї, які кидають виклик імперському авторитету та підривають традиційне управління. Необхідно діяти рішуче, усуваючи голоси незгоди та забезпечуючи, що жодна фракція не зможе підірвати гармонію нашого правління. Через цю чистку лояльність винагороджується, а повстання придушуються, захищаючи імперію для прийдешніх поколінь."
+MIG_purge_the_reformists:0 "Purge the Reformists"
+MIG_purge_the_reformists_desc:0 "Reformists and radicals threaten the stability of the empire, pushing ideas that challenge imperial authority and undermine traditional governance. It is necessary to act decisively, eliminating dissenting voices and ensuring that no faction can subvert the harmony of our rule. Through this purge, loyalty is rewarded and rebellion suppressed, securing the empire for generations to come."
 
-MIG_placate_the_assembly:0 "Умиротворити Асамблею"
-MIG_placate_the_assembly_desc:0 "Хоча реформісти усунені, імперська асамблея все ще має вплив на місцеві справи та громадські настрої. Щоб уникнути заворушень та підтримати соціальну стабільність, ми повинні задовольнити їхні вимоги, пропонуючи поступки та демонструючи, що імператор цінує їхню пораду. Цей обережний баланс між авторитетом та дипломатією гарантує лояльність, водночас запобігаючи відродженню внутрішнього інакомислення."
+MIG_placate_the_assembly:0 "Placate the Assembly"
+MIG_placate_the_assembly_desc:0 "Although reformists are removed, the imperial assembly still holds sway over local affairs and public sentiment. To avoid unrest and maintain social stability, we must appease their demands, offering concessions and demonstrating that the emperor values their counsel. This careful balance between authority and diplomacy ensures loyalty while preventing the resurgence of internal dissent."
 
-MIG_lessons_of_the_revolution:0 "Уроки Революції"
-MIG_lessons_of_the_revolution_desc:0 "Революції минулого навчили нас безцінним урокам стратегії, стійкості та управління. Вивчаючи ці бурхливі часи, армія, науковці та лідери Мін можуть прийняти вищі тактики, краще організувати сили та підготувати націю до будь-якого конфлікту, що може виникнути. Знання минулих помилок та успіхів стає основою нашої військової та цивільної сили."
+MIG_lessons_of_the_revolution:0 "Lessons of the Revolution"
+MIG_lessons_of_the_revolution_desc:0 "The revolutions of the past have taught us invaluable lessons in strategy, resilience, and governance. By studying these turbulent times, the army, scholars, and leaders of the Ming can adopt superior tactics, better organize forces, and prepare the nation for any conflict that may arise. Knowledge of past mistakes and successes becomes the foundation of our military and civil strength."
 
-MIG_a_chinese_economy:0 "Китайська Економіка"
-MIG_a_chinese_economy_desc:0 "Відновлення економіки імперії є першочерговим. Інвестиції в торгівлю, сільське господарство та промисловість відновлять багатство нації та забезпечать, що громадяни отримають вигоду від процвітання імперії. Використовуючи місцеві ресурси та заохочуючи підприємництво, ми створюємо самодостатню економічну систему, здатну підтримувати армію, державу та народ протягом десятиліть."
+MIG_a_chinese_economy:0 "A Chinese Economy"
+MIG_a_chinese_economy_desc:0 "Revitalizing the empire’s economy is paramount. Investments in trade, agriculture, and industry will restore the wealth of the nation and ensure that citizens benefit from the empire’s prosperity. By harnessing local resources and encouraging enterprise, we create a self-sustaining economic system capable of supporting the army, the state, and the people for decades to come."
 
-MIG_mobilise_all_layers_of_the_population:0 "Мобілізувати Всі Верстви Населення"
-MIG_mobilise_all_layers_of_the_population_desc:0 "Щоб зміцнити націю, кожен громадянин повинен сприяти обороні та зростанню Китаю. Селяни, купці та науковці — усі закликаються служити, чи то зі зброєю, працею, чи логістикою. Мобілізуючи всі верстви суспільства, ми створюємо об'єднане та дисципліноване населення, готове захищати імперію від внутрішнього повстання та зовнішнього втручання."
+MIG_mobilise_all_layers_of_the_population:0 "Mobilise All Layers of the Population"
+MIG_mobilise_all_layers_of_the_population_desc:0 "In order to strengthen the nation, every citizen must contribute to the defense and growth of China. Peasants, merchants, and scholars alike are called upon to serve, whether in arms, labor, or logistics. By mobilising all layers of society, we forge a united and disciplined population, ready to defend the empire against internal rebellion and foreign intrusion alike."
 
-MIG_redirect_rebuilding_toward_militarisation:0 "Перенаправити Відбудову на Мілітаризацію"
-MIG_redirect_rebuilding_toward_militarisation_desc:0 "Хоча відбудова є важливою, армія вимагає сучасного обладнання, підготовки та інфраструктури. Направляючи частину зусиль з реконструкції на військові потреби, ми гарантуємо, що сили імперії будуть добре підготовлені, технологічно просунуті та здатні захищати імперію від будь-якої зовнішньої загрози чи внутрішніх заворушень, що можуть виникнути."
+MIG_redirect_rebuilding_toward_militarisation:0 "Redirect Rebuilding Toward Militarisation"
+MIG_redirect_rebuilding_toward_militarisation_desc:0 "While rebuilding is essential, the army requires modern equipment, training, and infrastructure. By channeling a portion of reconstruction efforts toward military needs, we ensure that the empire’s forces are well-prepared, technologically advanced, and capable of defending the realm against any external threat or internal unrest that may arise."
 
-MIG_anti_republicanism:0 "Антиреспубліканські Заходи"
-MIG_anti_republicanism_desc:0 "Республіканські ідеології загрожують божественному та вічному правлінню династії Мін. Щоб зберегти наші традиції та авторитет, ми повинні активно протидіяти республіканському впливу, викорінюючи симпатиків та посилюючи лоялістську пропаганду. Забезпечуючи, що серця людей залишаються вірними трону, ми запобігаємо хаосу та підтримуємо багатовікову спадкоємність імперського порядку."
+MIG_anti_republicanism:0 "Anti-Republican Measures"
+MIG_anti_republicanism_desc:0 "Republican ideologies threaten the divine and eternal rule of the Ming dynasty. To preserve our traditions and authority, we must actively counter republican influence, rooting out sympathizers and bolstering loyalist propaganda. By ensuring the people’s hearts remain aligned with the throne, we prevent chaos and uphold the centuries-old continuity of the imperial order."
 
-MIG_change_tianming_principles:0 "Змінити Принципи Тяньміна"
-MIG_change_tianming_principles_desc:0 "Стародавні принципи Мандату Небес мають адаптуватися до сучасної ери. Переглядаючи доктрини та філософії, що керують імперським правлінням, ми можемо зміцнити легітимність, краще виправдовувати рішення та забезпечувати, що наше правління резонує з ширшим сегментом населення. Ці зміни забезпечать божественний авторитет імператора, водночас вирішуючи сучасні політичні реалії."
+MIG_change_tianming_principles:0 "Change Tianming Principles"
+MIG_change_tianming_principles_desc:0 "The ancient principles of the Mandate of Heaven must adapt to the modern era. By revising the doctrines and philosophies that guide imperial rule, we can strengthen legitimacy, better justify decisions, and ensure that our rule resonates with a broader segment of the population. These changes will secure the divine authority of the emperor while addressing contemporary political realities."
 
-MIG_strengthen_roman_support:0 "Зміцнити Римську Підтримку"
-MIG_strengthen_roman_support_desc:0 "Східна Римська Імперія залишається життєво важливим союзником у нашій боротьбі за модернізацію та забезпечення безпеки Китаю. Посилюючи дипломатичні, економічні та технологічні зв'язки, ми забезпечуємо доступ до передового військового обладнання, стратегічного консультування та критично важливих знань, які прискорять відродження імперії. Їхня підтримка зміцнює наші позиції як усередині країни, так і на міжнародній арені."
+MIG_strengthen_roman_support:0 "Strengthen Roman Support"
+MIG_strengthen_roman_support_desc:0 "The Eastern Roman Empire remains a vital ally in our struggle to modernize and secure China. By reinforcing diplomatic, economic, and technological ties, we ensure access to advanced military equipment, strategic counsel, and crucial knowledge that will accelerate the empire’s revival. Their support strengthens our position both domestically and internationally."
 
-MIG_joint_research:0 "Спільні Дослідницькі Ініціативи"
-MIG_joint_research_desc:0 "Через співпрацю з нашими Східноримськими союзниками ми можемо обмінюватися науковими знаннями, технологічними досягненнями та промисловим досвідом. Спільні дослідницькі проєкти обіцяють модернізувати інфраструктуру Китаю, вдосконалити військове виробництво та сприяти інноваціям, які забезпечать перевагу імперії в наступні століття."
+MIG_joint_research:0 "Joint Research Initiatives"
+MIG_joint_research_desc:0 "Through collaboration with our Eastern Roman allies, we can share scientific knowledge, technological advances, and industrial expertise. Joint research projects promise to modernize China’s infrastructure, refine military production, and foster innovations that will secure the empire’s preeminence in the centuries to come."
 
-MIG_acquire_roman_tank_designs:0 "Отримати Римські Проєкти Танків"
-MIG_acquire_roman_tank_designs_desc:0 "Проєкти Східних Римлян є вершиною бронетанкової війни. Приймаючи їхні креслення та будуючи власні танки, ми оснащуємо армію машинами, які втілюють як міць, так і точність. Цей технологічний стрибок гарантує, що сили Мін зможуть протистояти будь-якому супротивнику з неперевершеною вогневою міццю та тактичною перевагою."
+MIG_acquire_roman_tank_designs:0 "Acquire Roman Tank Designs"
+MIG_acquire_roman_tank_designs_desc:0 "The designs of the Eastern Romans represent the pinnacle of armored warfare. By adopting their blueprints and constructing our own tanks, we equip the army with vehicles that embody both power and precision. This technological leap ensures the Ming forces can confront any adversary with unmatched firepower and tactical superiority."
 
-MIG_acquire_roman_plane_designs:0 "Отримати Римські Проєкти Літаків"
-MIG_acquire_roman_plane_designs_desc:0 "Авіація — це майбутнє війни, і небеса мають належати імперії Мін. Включаючи проєкти Римських літаків у наші фабрики, ми отримуємо технологічну перевагу, виробляючи літаки, які є швидкими, добре озброєними та здатними домінувати в будь-якій повітряній конфронтації. Охоплення імперії поширюється за межі кордонів, забезпечене завдяки майстерності в небі."
+MIG_acquire_roman_plane_designs:0 "Acquire Roman Plane Designs"
+MIG_acquire_roman_plane_designs_desc:0 "Aviation is the future of warfare, and the skies must belong to the Ming empire. By incorporating the designs of Roman aircraft into our factories, we gain a technological edge, producing planes that are swift, well-armed, and capable of dominating any aerial confrontation. The empire’s reach extends beyond borders, secured through the mastery of the skies."
 
-MIG_future_of_the_empire:0 "Майбутнє Імперії"
-MIG_future_of_the_empire_desc:0 "З досягненням стабільності та початком модернізації, Династія Мін тепер ставить собі за мету об'єднане та процвітаюче майбутнє. Імператор приймає роль візіонера-лідера, ведучи націю до величі, гуртуючи вірних союзників та створюючи рамки для тривалого миру, безпеки та впливу, які проіснує протягом поколінь."
+MIG_future_of_the_empire:0 "The Future of the Empire"
+MIG_future_of_the_empire_desc:0 "With stability achieved and modernization underway, the Ming dynasty now sets its sights on a unified and prosperous future. The emperor assumes the role of visionary leader, guiding the nation to greatness, rallying loyal allies, and establishing a framework for lasting peace, security, and influence that will endure for generations."
 
-MIG_path_to_unification:0 "Шлях до Об'єднання"
-MIG_path_to_unification_desc:0 "Китай має бути возз'єднаний під суверенним правлінням Імператора Мін. Вирішуючи прикордонні суперечки, умиротворюючи бунтівні регіони та утверджуючи домінування над фракціями, що не погоджуються, імперія гарантує, що кожна провінція визнає авторитет імператора, відновлюючи територіальну та культурну цілісність Серединного Царства."
+MIG_path_to_unification:0 "Path to Unification"
+MIG_path_to_unification_desc:0 "China must be reunited under the sovereign rule of the Ming emperor. By resolving border disputes, pacifying rebellious regions, and asserting dominance over dissenting factions, the empire ensures that every province recognizes the emperor’s authority, restoring the territorial and cultural integrity of the Middle Kingdom."
 
-MIG_destroy_the_republicans_once_and_for_all:0 "Знищити Республіканців Раз і Назавжди"
-MIG_destroy_the_republicans_once_and_for_all_desc:0 "Залишки республіканських сил є останньою перешкодою на шляху до повного об'єднання. Рішуче перемагаючи їх, чи то через битву, чи через стратегічне маневрування, ми цементуємо авторитет династії Мін та усуваємо загрози стабільності нашої нації. Перемога гарантує, що весь Китай схилиться перед волею імператора."
+MIG_destroy_the_republicans_once_and_for_all:0 "Destroy the Republicans Once and For All"
+MIG_destroy_the_republicans_once_and_for_all_desc:0 "The remnants of republican forces are the last barrier to complete unification. By decisively defeating them, whether through battle or strategic maneuvering, we cement the authority of the Ming dynasty and eliminate threats to our nation’s stability. Victory ensures that all of China bows to the emperor’s will."
 
-MIG_thexinjiangmenance:0 "Синьцзянська Загроза"
-MIG_thexinjiangmenance_desc:0 "Сепаратисти Синьцзяну продовжують чинити опір авторитету імператора, загрожуючи західним кордонам імперії. Потрібна рішуча кампанія для відновлення порядку, приведення регіону до гармонії з імперським управлінням та запобігання експлуатації заворушень іноземними державами. Контроль над Синьцзяном забезпечує західний кордон імперії та зміцнює національну єдність."
+MIG_thexinjiangmenance:0 "The Xinjiang Menace"
+MIG_thexinjiangmenance_desc:0 "Xinjiang’s separatists continue to resist the emperor’s authority, threatening the western borders of the empire. A decisive campaign is required to restore order, bring the region into harmony with imperial governance, and prevent foreign powers from exploiting unrest. Control over Xinjiang secures the empire’s western frontier and strengthens national unity."
 
-MIG_cross_into_tibet:0 "Перетнути Кордон із Тибетом"
-MIG_cross_into_tibet_desc:0 "Тибетське плато, багате культурою та стратегічним значенням, залишається поза імперським контролем. Поширюючи управління на Тибет, ми беремо регіон під захист династії Мін, забезпечуємо життєво важливі гірські перевали та утверджуємо авторитет імператора над усіма землями, що традиційно належать Серединному Царству."
+MIG_cross_into_tibet:0 "Cross into Tibet"
+MIG_cross_into_tibet_desc:0 "The Tibetan plateau, rich in culture and strategic significance, remains outside imperial control. By extending governance into Tibet, we bring the region under the Ming dynasty’s protection, secure vital mountain passes, and assert the authority of the emperor over all lands traditionally belonging to the Middle Kingdom."
 
-MIG_china_united:0 "Об'єднаний Китай"
-MIG_china_united_desc:0 "Після років обережного планування, військових кампаній та дипломатії, увесь Китай нарешті об'єднаний під династією Мін. З лояльністю кожного регіону до трону, нація стоїть як непорушна імперія, здатна витримати іноземні загрози та внутрішні заворушення. Процвітання, безпека та імперська слава тепер є долею повністю об'єднаного Китаю."
+MIG_china_united:0 "China United"
+MIG_china_united_desc:0 "After years of careful planning, military campaigns, and diplomacy, the entirety of China is finally united under the Ming dynasty. With every region loyal to the throne, the nation stands as an unbroken empire, capable of withstanding foreign threats and internal unrest. Prosperity, security, and imperial glory are now the destiny of a fully united China."
 
-MIG_coorperate_with_the_republicans:0 "Співпрацювати з Республіканцями?"
-MIG_coorperate_with_the_republicans_desc:0 "У несподіваному повороті, імперія прагне співпрацювати із залишками республіканських сил. Формуючи стратегічні союзи, пропонуючи поступки та сприяючи діалогу, Династія Мін може зменшити внутрішній конфлікт, отримати доступ до ресурсів та плавніше орієнтуватися в політичному ландшафті. Цей неортодоксальний шлях може уникнути негайного кровопролиття, водночас забезпечуючи довгострокову стабільність."
+MIG_coorperate_with_the_republicans:0 "Cooperate with the Republicans?"
+MIG_coorperate_with_the_republicans_desc:0 "In an unexpected turn, the empire seeks to collaborate with remnants of republican forces. By forming strategic alliances, offering concessions, and fostering dialogue, the Ming dynasty can reduce internal conflict, gain access to resources, and navigate the political landscape more smoothly. This unorthodox path may avoid immediate bloodshed while securing long-term stability."
 
-MIG_renew_the_treaty_of_nanjing:0 "Поновити Нанкінський Договір"
-MIG_renew_the_treaty_of_nanjing_desc:0 "Договір із республіканцями забезпечує мир та визначає параметри співпраці. Поновлюючи цю угоду, імперія зміцнює дипломатичні відносини, забезпечує економічні вигоди та підтримує буфер проти потенційних ворожих дій. Цей договір символізує делікатний баланс між прагматичною дипломатією та імперським авторитетом."
+MIG_renew_the_treaty_of_nanjing:0 "Renew the Treaty of Nanjing"
+MIG_renew_the_treaty_of_nanjing_desc:0 "The treaty with the republicans ensures peace and defines the parameters of cooperation. By renewing this agreement, the empire solidifies diplomatic relations, secures economic benefits, and maintains a buffer against potential hostilities. This treaty symbolizes the delicate balance between pragmatic diplomacy and imperial authority."
 
-MIG_open_arms_policy:0 "Політика 'Відкритих Обіймів'"
-MIG_open_arms_policy_desc:0 "Китай має прийняти іноземний вплив та сприяти міжнародній співпраці для швидкої модернізації. Вітаючи радників, технології та торгівлю, імперія прискорює індустріалізацію, зміцнює військових та отримує конкурентну перевагу над суперниками. Відкрита взаємодія зі світом забезпечує виживання та процвітання Китаю в сучасну еру."
+MIG_open_arms_policy:0 "Open Arms Policy"
+MIG_open_arms_policy_desc:0 "China must embrace foreign influence and foster international collaboration to modernize rapidly. By welcoming advisors, technologies, and trade, the empire accelerates industrialization, strengthens the military, and gains a competitive edge against rivals. Open engagement with the world ensures China’s survival and prosperity in the modern era."
 
-MIG_jingyiwei:0 "Цзіньївей"
-MIG_jingyiwei_desc:0 "Імперська таємна поліція, Цзіньївей, має бути зміцнена для виконання волі імператора, збору розвідувальних даних та запобігання змовам. Створюючи лояльну та ефективну силу, ми гарантуємо, що загрози трону, чи то внутрішні, чи зовнішні, будуть швидко виявлені та усунені, зберігаючи стабільність та святість династії Мін."
+MIG_jingyiwei:0 "Jingyiwei"
+MIG_jingyiwei_desc:0 "The imperial secret police, Jingyiwei, must be strengthened to enforce the emperor’s will, gather intelligence, and prevent conspiracies. By organizing a loyal and effective force, we ensure that threats to the throne, whether internal or external, are identified and eliminated swiftly, preserving the stability and sanctity of the Ming dynasty."
 
-MIG_distribute_real_country:0 "Розподілити Справжню Країну"
-MIG_distribute_real_country_desc:0 "Контроль над провінціями та ресурсами має бути збалансований, щоб запобігти корупції та сприяти лояльності. Розподіляючи владу розсудливо серед довірених чиновників та лояльних військових підрозділів, імперія забезпечує ефективне управління, водночас гарантуючи вірність від тих, хто вірно служить трону."
+MIG_distribute_real_country:0 "Distribute the Real Country"
+MIG_distribute_real_country_desc:0 "Control over provinces and resources must be balanced to prevent corruption and foster loyalty. By distributing power judiciously among trusted officials and loyal military units, the empire ensures effective governance while securing allegiance from those who serve the throne faithfully."
 
-MIG_coorperate_with_the_teutons:0 "Співпрацювати з Тевтонами"
-MIG_coorperate_with_the_teutons_desc:0 "Створюючи союзи з технологічно просунутими Тевтонськими державами, Імперія Мін отримує доступ до промислового досвіду, військових технологій та стратегічних партнерств. Співпраця посилює позиції імперії на міжнародній арені, водночас готуючись до остаточного об'єднання та захисту наших кордонів."
+MIG_coorperate_with_the_teutons:0 "Cooperate with the Teutons"
+MIG_coorperate_with_the_teutons_desc:0 "By forging alliances with the technologically advanced Teutonic states, the Ming empire gains access to industrial expertise, military technologies, and strategic partnerships. Cooperation enhances the empire’s position internationally while preparing for eventual unification and the safeguarding of our borders."
 
-MIG_strengthening_of_the_civilian_adminstration:0 "Зміцнення Цивільної Адміністрації"
-MIG_strengthening_of_the_civilian_adminstration_desc:0 "Ефективна бюрократія забезпечує швидке та ефективне виконання імперських указів. Зміцнюючи цивільну адміністрацію, ми оптимізуємо управління, зменшуємо корупцію та покращуємо якість обслуговування населення, дозволяючи імператору правити з більшим авторитетом та передбачливістю."
+MIG_strengthening_of_the_civilian_adminstration:0 "Strengthening of the Civilian Administration"
+MIG_strengthening_of_the_civilian_adminstration_desc:0 "An efficient bureaucracy ensures that imperial decrees are executed promptly and effectively. By strengthening the civilian administration, we streamline governance, reduce corruption, and improve the quality of service to the populace, allowing the emperor to rule with greater authority and foresight."
 
-MIG_attempt_at_unification:0 "Спроба Об'єднання"
-MIG_attempt_at_unification_desc:0 "Фінальний етап об'єднання вимагає обережної координації, дипломатії та військової точності. Ведучи переговори, умиротворюючи або перемагаючи фракції, що залишилися, Династія Мін працює над створенням Китаю, де лояльність є абсолютною, кордони безпечні, а авторитет імператора визнається по всій імперії."
+MIG_attempt_at_unification:0 "Attempt at Unification"
+MIG_attempt_at_unification_desc:0 "The final stage of unification requires careful coordination, diplomacy, and military precision. By negotiating, pacifying, or defeating remaining independent factions, the Ming dynasty works toward a China where loyalty is absolute, borders are secure, and the emperor’s authority is recognized throughout the realm."
 
-MIG_one_china_two_systems:0 "Один Китай, Дві Системи"
-MIG_one_china_two_systems_desc:0 "Певні регіони зберігають відмінні культурні чи політичні системи, але всі вони лояльні до імператора. Дозволяючи місцеву автономію в рамках імперського авторитету, Династія Мін підтримує єдність, не підриваючи традицій, досягаючи гармонії та зміцнюючи довговічність нашого правління."
+MIG_one_china_two_systems:0 "One China, Two Systems"
+MIG_one_china_two_systems_desc:0 "Certain regions retain distinct cultural or political systems, yet all are loyal to the emperor. By allowing local autonomy within the framework of imperial authority, the Ming dynasty maintains unity without eroding traditions, achieving harmony and reinforcing the longevity of our governance."
 
-MIG_the_dragon_emperor:0 "Імператор Дракон"
-MIG_the_dragon_emperor_desc:0 "Імператор втілює силу, мудрість та гідність самого дракона. Приймаючи мантію 'Імператора Дракона', він символізує національну єдність, божественний авторитет та кінцевого захисника народу. Це піднесене становище надихає лояльність, мужність та повагу по всій імперії."
+MIG_the_dragon_emperor:0 "The Dragon Emperor"
+MIG_the_dragon_emperor_desc:0 "The emperor embodies the strength, wisdom, and dignity of the dragon itself. By embracing the mantle of the Dragon Emperor, he symbolizes national unity, divine authority, and the ultimate protector of the people. This exalted position inspires loyalty, courage, and reverence throughout the empire."
 
-MIG_revive_confucian_bureacracy:0 "Відродити Конфуціанську Бюрократію"
-MIG_revive_confucian_bureacracy_desc:0 "Стародавні традиції Конфуціанського управління забезпечують мудрість, стабільність та моральне керівництво. Відроджуючи Конфуціанську бюрократію, імперія гарантує, що чиновники освічені, доброчесні та віддані добробуту народу, зміцнюючи легітимність та ефективне управління по всьому Китаю."
+MIG_revive_confucian_bureacracy:0 "Revive the Confucian Bureaucracy"
+MIG_revive_confucian_bureacracy_desc:0 "The ancient traditions of Confucian governance provide wisdom, stability, and moral guidance. By reviving the Confucian bureaucracy, the empire ensures that officials are educated, virtuous, and dedicated to the welfare of the people, reinforcing legitimacy and effective governance across China."
 
-MIG_master_of_the_east:0 "Володар Сходу"
-MIG_master_of_the_east_desc:0 "Китай відновлює своє домінування по всій Східній Азії, проєктуючи силу та вплив на сусідні держави. Через дипломатію, торгівлю та військову майстерність, Династія Мін утверджується як беззаперечний володар регіону, забезпечуючи безпеку та процвітання імперії, водночас стримуючи потенційних суперників."
+MIG_master_of_the_east:0 "Master of the East"
+MIG_master_of_the_east_desc:0 "China reasserts its dominance across East Asia, projecting power and influence over neighboring states. Through diplomacy, trade, and military prowess, the Ming dynasty establishes itself as the uncontested master of the region, ensuring security and prosperity for the empire while deterring potential rivals."
 
-MIG_consolidate_international_industries:0 "Консолідувати Міжнародні Промисловості"
-MIG_consolidate_international_industries_desc:0 "Іноземні інвестиції та підприємства інтегровані до національної структури, забезпечуючи, що багатство, згенероване за кордоном, приносить користь Китаю безпосередньо. Консолідуючи промисловість під імперським наглядом, ми посилюємо економічну стабільність, технологічний прогрес та контроль над стратегічними ресурсами, зміцнюючи імперію для майбутніх викликів."
+MIG_consolidate_international_industries:0 "Consolidate International Industries"
+MIG_consolidate_international_industries_desc:0 "Foreign investments and enterprises are integrated into the national framework, ensuring that wealth generated abroad benefits China directly. By consolidating industries under imperial oversight, we enhance economic stability, technological advancement, and control over strategic resources, strengthening the empire for the challenges ahead."
 
-MIG_pardon_republican_officers:0 "Помилувати Республіканських Офіцерів"
-MIG_pardon_republican_officers_desc:0 "Для забезпечення лояльності та запобігання подальшому опору, деяким республіканським офіцерам надається помилування та реінтеграція до імперських сил. Їхній досвід та знання є цінними активами, і їхня вірність, щойно забезпечена, зміцнює єдність та ефективність армії Мін."
+MIG_pardon_republican_officers:0 "Pardon Republican Officers"
+MIG_pardon_republican_officers_desc:0 "To secure loyalty and prevent further resistance, certain republican officers are granted pardon and reintegration into the imperial forces. Their experience and knowledge are valuable assets, and their allegiance, once secured, strengthens the unity and effectiveness of the Ming military."
 
-MIG_fate_of_joseon:0 "Доля Чосону"
-MIG_fate_of_joseon_desc:0 "Королівство Чосон, наш традиційний васал, вимагає чіткого керівництва та твердого нагляду. Утверджуючи вплив або контроль над Чосоном, Династія Мін забезпечує регіональну стабільність, стримує іноземне втручання та підтримує історичне домінування Китаю над Корейським півостровом."
+MIG_fate_of_joseon:0 "The Fate of Joseon"
+MIG_fate_of_joseon_desc:0 "The Joseon kingdom, our traditional vassal, requires clear guidance and firm oversight. By asserting influence or control over Joseon, the Ming dynasty ensures regional stability, deters foreign interference, and maintains China’s historic dominance over the Korean peninsula."
 
-MIG_look_to_the_east:0 "Погляд на Схід"
-MIG_look_to_the_east_desc:0 "Увага імперії має звернутися до східних морів, де суперники, колоніальні держави та потенційні союзники борються за вплив. Проєктуючи силу, зміцнюючи війська та утверджуючи дипломатичну та військову присутність, Китай готується захистити свої східні кордони та розширити свій вплив по всій Азії."
+MIG_look_to_the_east:0 "Look to the East"
+MIG_look_to_the_east_desc:0 "The empire’s attention must turn toward the eastern seas, where rivals, colonial powers, and potential allies vie for influence. By projecting power, strengthening forces, and asserting diplomatic and military presence, China prepares to secure its eastern borders and expand its influence across Asia."
 
-MIG_take_direct_control_over_concession_cities:0 "Взяти Прямий Контроль Над Концесійними Містами"
-MIG_take_direct_control_over_concession_cities_desc:0 "Контрольовані іноземцями міста становлять як можливість, так і загрозу. Беручи прямий контроль над цими концесіями, Династія Мін забезпечує безпеку, зміцнює суверенітет та використовує економічний потенціал, інтегруючи ці міські центри в імперську структуру, водночас обмежуючи іноземне втручання."
+MIG_take_direct_control_over_concession_cities:0 "Take Direct Control Over Concession Cities"
+MIG_take_direct_control_over_concession_cities_desc:0 "Foreign-controlled cities represent both opportunity and threat. By assuming direct control over these concessions, the Ming dynasty ensures security, enforces sovereignty, and harnesses economic potential, integrating these urban centers into the imperial framework while limiting foreign interference."
 
-MIG_take_dainam:0 "Захопити Дайнам"
-MIG_take_dainam_desc:0 "Регіон Дайнам, багатий на ресурси та стратегічно розташований, має бути введений у сферу впливу Мін. Утверджуючи владу та встановлюючи контроль, імперія забезпечує торговельні шляхи, зміцнює регіональне домінування та гарантує, що Дайнам сприятиме процвітанню та безпеці Китаю."
+MIG_take_dainam:0 "Take Dai Nam"
+MIG_take_dainam_desc:0 "The region of Dai Nam, rich in resources and strategically located, must be brought under the Ming sphere of influence. By asserting authority and establishing control, the empire secures trade routes, strengthens regional dominance, and ensures that Dai Nam contributes to the prosperity and security of China."
 
-MIG_the_japanese_question:0 "Японське Питання"
-MIG_the_japanese_question_desc:0 "Зростаюча міць та мілітаризм Японії становлять пряму загрозу безпеці та впливу Китаю. Готуючись до конфлікту, організовуючи антияпонські сили та формулюючи стратегічні відповіді, імперія гарантує, що її кордони, торгівля та народ захищені від іноземної агресії, водночас підтримуючи баланс сил у Східній Азії."
+MIG_the_japanese_question:0 "The Japanese Question"
+MIG_the_japanese_question_desc:0 "Japan’s rising power and militarism pose a direct threat to China’s security and influence. By preparing for conflict, organizing anti-Japanese forces, and formulating strategic responses, the empire ensures that its borders, trade, and people are protected from foreign aggression while maintaining the balance of power in East Asia."
 
-MIG_liberate_indonesia:0 "Визволити Індонезію"
-MIG_liberate_indonesia_desc:0 "Архіпелаг Індонезії довго страждав під колоніальною експлуатацією. Розпочинаючи визвольну кампанію, Китай розширює свій вплив, підтримує рухи за незалежність та забезпечує життєво важливі ресурси, демонструючи силу, охоплення та відданість Династії Мін регіональній справедливості."
+MIG_liberate_indonesia:0 "Liberate Indonesia"
+MIG_liberate_indonesia_desc:0 "The archipelago of Indonesia has long suffered under colonial exploitation. By launching a liberation campaign, China extends its influence, supports independence movements, and secures vital resources, demonstrating the Ming dynasty’s strength, reach, and commitment to regional justice."
 
-MIG_invest_in_foreign_industries:0 "Інвестувати в Іноземні Галузі Промисловості"
-MIG_invest_in_foreign_industries_desc:0 "Іноземні промислові інвестиції приносять технології, досвід та капітал в імперію. Обережно керуючи цими інвестиціями, Китай модернізує свою промисловість, створює робочі місця та сприяє економічному зростанню, водночас забезпечуючи, що такі проєкти служать стратегічним інтересам Династії Мін."
+MIG_invest_in_foreign_industries:0 "Invest in Foreign Industries"
+MIG_invest_in_foreign_industries_desc:0 "Foreign industrial investment brings technology, expertise, and capital into the empire. By carefully managing these investments, China modernizes its industry, creates jobs, and fosters economic growth, while also ensuring that such ventures serve the strategic interests of the Ming dynasty."
 
-MIG_import_roman_steel:0 "Імпортувати Римську Сталь"
-MIG_import_roman_steel_desc:0 "Високоякісна сталь від Східних Римлян забезпечує основу для промислової та військової експансії. Імпортуючи та інтегруючи цю сталь у наші фабрики та інфраструктуру, ми зміцнюємо виробництво, оснащуємо наші сили вищою зброєю та прискорюємо модернізацію по всій імперії."
+MIG_import_roman_steel:0 "Import Roman Steel"
+MIG_import_roman_steel_desc:0 "High-quality steel from the Eastern Romans provides the foundation for industrial and military expansion. By importing and integrating this steel into our factories and infrastructure, we strengthen production, equip our forces with superior weaponry, and accelerate modernization across the empire."
 
-MIG_western_rail_engineers:0 "Західні Залізничні Інженери"
-MIG_western_rail_engineers_desc:0 "Кваліфіковані інженери із Заходу можуть будувати ефективні залізниці, які з'єднують ключові регіони імперії. Ці залізничні мережі посилюють логістику, полегшують пересування військ та стимулюють економічний розвиток, формуючи основу зусиль Китаю з модернізації та національної інтеграції."
+MIG_western_rail_engineers:0 "Western Rail Engineers"
+MIG_western_rail_engineers_desc:0 "Skilled engineers from the West can construct efficient railways that connect key regions of the empire. These rail networks enhance logistics, facilitate troop movement, and stimulate economic development, forming the backbone of China’s modernization efforts and national integration."
 
-MIG_shenyang_manufacturing_firms:0 "Шеньянські Виробничі Фірми"
-MIG_shenyang_manufacturing_firms_desc:0 "Створюючи передові виробничі центри в Шеньяні, ми створюємо осередки промислових інновацій. Фабрики виробляють зброю, машини та критично важливі запаси, водночас навчаючи кваліфікованих робітників, посилюючи промислову спроможність імперії та забезпечуючи самодостатність у часи кризи."
+MIG_shenyang_manufacturing_firms:0 "Shenyang Manufacturing Firms"
+MIG_shenyang_manufacturing_firms_desc:0 "By establishing advanced manufacturing hubs in Shenyang, we create centers of industrial innovation. Factories produce weapons, machinery, and critical supplies while training skilled workers, reinforcing the empire’s industrial capacity and ensuring self-sufficiency in times of crisis."
 
-MIG_advanced_equipment:0 "Передове Обладнання"
-MIG_advanced_equipment_desc:0 "Сучасна війна та промисловість вимагають передового обладнання. Через іноземні контракти, внутрішні дослідження та технологічне прийняття ми оснащуємо наші сили та фабрики інструментами, необхідними для конкуренції з будь-якою світовою державою, забезпечуючи, що Династія Мін залишається на передовій прогресу та військової могутності."
+MIG_advanced_equipment:0 "Advanced Equipment"
+MIG_advanced_equipment_desc:0 "Modern warfare and industry demand cutting-edge equipment. Through foreign contracts, domestic research, and technological adoption, we equip our forces and factories with the tools necessary to compete with any global power, ensuring that the Ming dynasty remains at the forefront of progress and military strength."
 
-MIG_modernising_synthetic:0 "Модернізація Синтетичного Виробництва"
-MIG_modernising_synthetic_desc:0 "Синтетичні ресурси, як-от гума та паливо, є критично важливими для промисловості та війни. Модернізуючи виробничі потужності, Китай забезпечує стратегічні матеріали, зменшує залежність від імпорту та гарантує, що фабрики та армії можуть працювати з максимальною ефективністю, навіть під час тривалих конфліктів."
+MIG_modernising_synthetic:0 "Modernising Synthetic Production"
+MIG_modernising_synthetic_desc:0 "Synthetic resources, such as rubber and fuel, are critical to industry and war. By modernizing production facilities, China secures strategic materials, reduces dependence on imports, and ensures that factories and armies can operate at maximum efficiency, even during prolonged conflicts."
 
-MIG_foreign_expertise:0 "Іноземний Досвід"
-MIG_foreign_expertise_desc:0 "Знання та навички іноземних експертів прискорюють модернізацію Китаю. Включаючи міжнародну інженерну, наукову та промислову практику, імперія зміцнює інфраструктуру, покращує виробничі технології та сприяє інноваціям, які зміцнять національну міць на десятиліття вперед."
+MIG_foreign_expertise:0 "Foreign Expertise"
+MIG_foreign_expertise_desc:0 "The knowledge and skills of foreign experts accelerate China’s modernization. By incorporating international engineering, scientific, and industrial practices, the empire strengthens infrastructure, improves production techniques, and fosters innovation that solidifies national power for decades to come."
 
-MIG_university_exchange:0 "Програми Університетського Обміну"
-MIG_university_exchange_desc:0 "Програми стипендій та академічні обміни з іноземними університетами культивують нове покоління кваліфікованих інженерів, науковців та адміністраторів. Ця освітня ініціатива гарантує, що Китай отримає вигоду від передових знань, сучасних практик та кадрів навчених професіоналів, здатних керувати національним розвитком."
+MIG_university_exchange:0 "University Exchange Programs"
+MIG_university_exchange_desc:0 "Scholarship programs and academic exchanges with foreign universities cultivate a new generation of skilled engineers, scientists, and administrators. This educational initiative ensures that China benefits from advanced knowledge, modern practices, and a cadre of trained professionals capable of driving national development."
 
-MIG_central_china_development:0 "Розвиток Центрального Китаю"
-MIG_central_china_development_desc:0 "Серце Китаю багате на ресурси, населення та стратегічну цінність. Інвестуючи в інфраструктуру, видобуток корисних копалин та промисловість у центральних провінціях, ми стимулюємо економічне зростання, збільшуємо зайнятість та забезпечуємо ключові ресурси, які зміцнюють імперію та підтримують національні цілі."
+MIG_central_china_development:0 "Central China Development"
+MIG_central_china_development_desc:0 "The heartland of China is rich in resources, population, and strategic value. By investing in infrastructure, mining, and industry in central provinces, we stimulate economic growth, increase employment, and secure key resources that strengthen the empire and support national objectives."
 
-MIG_expand_the_kailuan_mines:0 "Розширити Копальні Кайлуань"
-MIG_expand_the_kailuan_mines_desc:0 "Кайлуань є критично важливим джерелом вугілля та промислового багатства. Розширення видобутку забезпечує сировиною фабрики, енергією залізниці та зміцнює промислову базу Китаю. Ця ініціатива живить модернізацію та гарантує, що економіка імперії залишається надійною та стійкою."
+MIG_expand_the_kailuan_mines:0 "Expand the Kailuan Mines"
+MIG_expand_the_kailuan_mines_desc:0 "Kailuan is a crucial source of coal and industrial wealth. Expanding mining operations provides raw materials for factories, energy for railways, and strengthens China’s industrial base. This initiative fuels modernization and ensures that the empire’s economy remains robust and resilient."
 
-QIE_expanding_our_shanxi_spoils:0 "Розширення Нашої Здобичі в Шаньсі"
-QIE_expanding_our_shanxi_spoils_desc:0 "Розширюючи промислові та транспортні мережі в Шаньсі, ми інтегруємо новопридбані території в економіку імперії. Залізниці та інфраструктурні проєкти не лише підсилюють торгівлю та видобуток ресурсів, але й консолідують політичний контроль та зміцнюють національну єдність."
+QIE_expanding_our_shanxi_spoils:0 "Expanding Our Shanxi Spoils"
+QIE_expanding_our_shanxi_spoils_desc:0 "By extending industrial and transport networks into Shanxi, we integrate newly acquired territories into the empire’s economy. Railways and infrastructure projects not only boost trade and resource extraction but also consolidate political control and strengthen national unity."
 
-MIG_daye_hanyang:0 "Промисловий Центр Дає-Ханьян"
-MIG_daye_hanyang_desc:0 "Розвиток промислових регіонів Дає та Ханьян забезпечує виробництво необхідних товарів, зброї та машин. Фабрики, майстерні та енергетичні об'єкти спільно створюють потужний промисловий коридор, забезпечуючи як економічне процвітання, так і військовий потенціал для імперії."
+MIG_daye_hanyang:0 "Daye-Hanyang Industrial Hub"
+MIG_daye_hanyang_desc:0 "Developing the industrial regions of Daye and Hanyang ensures the production of essential goods, weapons, and machinery. Factories, workshops, and energy facilities collectively create a powerful industrial corridor, providing both economic prosperity and military capability for the empire."
 
-MIG_expand_arsenals_of_war:0 "Розширити Арсенали Війни"
-MIG_expand_arsenals_of_war_desc:0 "Військова міць посилюється арсеналами, здатними виробляти зброю, боєприпаси та обладнання у великих масштабах. Розширення цих об'єктів гарантує, що Китай може швидко реагувати на загрози, ефективно оснащувати свої війська та підтримувати домінуючу військову присутність на всіх театрах операцій."
+MIG_expand_arsenals_of_war:0 "Expand Arsenals of War"
+MIG_expand_arsenals_of_war_desc:0 "Military strength is reinforced by arsenals capable of producing weapons, ammunition, and equipment at scale. Expanding these facilities ensures that China can respond to threats swiftly, equip its forces efficiently, and maintain a dominant military presence across all theaters of operation."
 
-MIG_the_guanziying_army:0 "Армія Гуанцзіїн"
-MIG_the_guanziying_army_desc:0 "Армія Гуанцзіїн стоїть як традиційне ядро міці Китаю, об'єднуючи ветеранів та навчених новобранців під багатовіковою військовою традицією. Її присутність підтверджує Мандат Небес та нашу непохитну рішучість захищати імперію від розбрату та зовнішніх загроз."
+MIG_the_guanziying_army:0 "The Guanziying Army"
+MIG_the_guanziying_army_desc:0 "The Guanziying Army stands as the traditional core of China’s might, uniting veterans and trained recruits under centuries of martial tradition. Its presence reaffirms the Mandate of Heaven and our unshaken resolve to guard the empire from strife and foreign threats."
 
-MIG_the_imperial_army_of_china:0 "Імперська Армія Китаю"
-MIG_the_imperial_army_of_china_desc:0 "Імперська Армія, основа нації, поєднує дисципліну з багатовіковим досвідом, водночас модернізуючись для нових викликів. З удосконаленою артилерією, логістикою та стратегією, вона невтомно тренується, щоб захищати імперію від заворушень та іноземних загроз, оберігаючи спадщину Мін."
+MIG_the_imperial_army_of_china:0 "The Imperial Army of China"
+MIG_the_imperial_army_of_china_desc:0 "The Imperial Army, backbone of the nation, blends discipline with centuries of experience while modernizing for new challenges. With refined artillery, logistics, and strategy, it trains tirelessly to defend the empire from unrest and foreign threats, safeguarding the legacy of the Ming."
 
-MIG_a_traditional_fighting_doctrine:0 "Традиційна Бойова Доктрина"
-MIG_a_traditional_fighting_doctrine_desc:0 "У бою вчення наших предків зберігаються. Через дисципліновані формування та освячені часом стратегії, ця доктрина готує наші війська протистояти сучасним арміям, забезпечуючи, що їхня мужність та рішучість відповідають силі їхньої зброї."
+MIG_a_traditional_fighting_doctrine:0 "A Traditional Fighting Doctrine"
+MIG_a_traditional_fighting_doctrine_desc:0 "In battle, the teachings of our forefathers endure. Through disciplined formations and time-honored strategies, this doctrine readies our troops to resist modern armies, ensuring their courage and resolve match the strength of their weapons."
 
-MIG_goals_of_the_imperial_army:0 "Цілі Імперської Армії"
-MIG_goals_of_the_imperial_army_desc:0 "Армія є інструментом нашої національної волі, що захищає кордони імперії, підтримує стабільність та проєктує міць Мін. Кожен підрозділ підтримує Мандат Небес, відображаючи як стратегічне бачення, так і незмінний дух імперії."
+MIG_goals_of_the_imperial_army:0 "Goals of the Imperial Army"
+MIG_goals_of_the_imperial_army_desc:0 "The army is the instrument of our national will, defending the empire’s borders, maintaining stability, and projecting Ming strength. Each unit upholds the Mandate of Heaven, reflecting both strategic vision and the enduring spirit of the empire."
 
-MIG_overwhelming_strength:0 "Непереборна Сила"
-MIG_overwhelming_strength_desc:0 "Через невтомну підготовку, вищу тактику та стратегічне використання наших сил, ми прагнемо досягти непереборної сили. Концентруючи наші армії, координуючи об'єднані роди військ та використовуючи переваги місцевості, ми прагнемо вселяти страх у серця наших ворогів. Міць Мін буде очевидною на кожному полі бою, доводячи, що жоден іноземний загарбник не може кинути виклик нашому верховенству."
+MIG_overwhelming_strength:0 "Overwhelming Strength"
+MIG_overwhelming_strength_desc:0 "Through relentless training, superior tactics, and the strategic use of our forces, we aspire to achieve overwhelming strength. By concentrating our armies, coordinating combined arms, and exploiting the terrain to our advantage, we aim to strike fear into the hearts of our enemies. The power of the Ming will be evident on every battlefield, proving that no foreign invader can challenge our supremacy."
 
-MIG_the_ming_new_army:0 "Нова Армія Мін"
-MIG_the_ming_new_army_desc:0 "Модернізація — це шлях до виживання в епоху мінливої війни. 'Нова Армія Мін' поєднує традиційну доблесть із сучасними інноваціями, включаючи механізовані підрозділи, передову артилерію та покращені організаційні структури. Ці реформи гарантують, що сили імперії зможуть протистояти будь-якому супротивнику з точністю, дисципліною та гнучкістю, готуючи Китай утвердитися як військова держава у бурхливому світі."
+MIG_the_ming_new_army:0 "The Ming New Army"
+MIG_the_ming_new_army_desc:0 "Modernization is the path to survival in an era of changing warfare. The Ming New Army fuses traditional valor with contemporary innovations, incorporating mechanized units, advanced artillery, and improved organizational structures. These reforms ensure that the empire can meet any adversary with precision, discipline, and flexibility, preparing China to assert itself as a military power in a turbulent world."
 
-MIG_expanding_the_baoding_arsenal:0 "Розширення Баодінського Арсеналу"
-MIG_expanding_the_baoding_arsenal_desc:0 "Наш знаменитий Баодінський Арсенал є серцем нашого сухопутного військового виробництва. Розширюючи його потужність, ми забезпечуємо безперервне постачання зброї, боєприпасів та машин для підтримки як традиційних, так і сучасних підрозділів. Це зусилля символізує відданість імперії самостійності, зменшуючи залежність від іноземних постачальників та оснащуючи наших солдатів інструментами, необхідними для забезпечення перемоги."
+MIG_expanding_the_baoding_arsenal:0 "Expanding the Baoding Arsenal"
+MIG_expanding_the_baoding_arsenal_desc:0 "Our famed Baoding Arsenal is the heart of our land-based military production. By expanding its capacity, we ensure a continuous supply of arms, ammunition, and machinery to support both traditional units and modern divisions. This effort symbolizes the empire’s commitment to self-reliance, reducing dependency on foreign suppliers, and equipping our soldiers with the tools necessary to secure victory."
 
-MIG_new_armoured_divisions:0 "Нові Бронетанкові Дивізії"
-MIG_new_armoured_divisions_desc:0 "Поле бою змінилося, і бронетанкові дивізії приносять швидкість та силу. Танки та механізовані підрозділи очолюють кампанії, прориваючи ворожі лінії та відображаючи прийняття Мін сучасної війни, водночас зберігаючи незламний дух солдатів."
+MIG_new_armoured_divisions:0 "New Armoured Divisions"
+MIG_new_armoured_divisions_desc:0 "The battlefield has changed, and armored divisions bring speed and force. Tanks and mechanized units spearhead campaigns, breaking enemy lines and reflecting the Ming’s embrace of modern warfare while keeping the soldiers’ indomitable spirit."
 
-MIG_the_green_standards:0 "Зелені Штандарти"
-MIG_the_green_standards_desc:0 "Відроджуючи легендарні 'Зелені Штандарти', ми поєднуємо традицію з сучасною військовою практикою. Ці підрозділи несуть символічні прапори нашої імперії, що представляють порядок, лояльність та непохитну мужність. Їхня присутність вселяє впевненість у наших людей та вселяє жах у тих, хто загрожує нашому суверенітету. 'Зелені Штандарти' втілюють єдність минулої доблесті та теперішнього потенціалу."
+MIG_the_green_standards:0 "The Green Standards"
+MIG_the_green_standards_desc:0 "Reviving the legendary Green Standards, we blend tradition with contemporary military practice. These units carry the symbolic banners of our empire, representing order, loyalty, and unwavering courage. Their presence inspires confidence among our people and instills dread in those who would threaten our sovereignty. The Green Standards embody the unity of past valor and present capability."
 
-MIG_superiority_of_the_chinese_army:0 "Перевага Китайської Армії"
-MIG_superiority_of_the_chinese_army_desc:0 "З сучасними тактиками, ветеранськими лідерами та добре оснащеними підрозділами, Китайська Армія досягає неперевершеної сили. Імперія Мін готова захищати свої території та проєктувати силу, гарантуючи, що жоден ворог не загрожуватиме нашій спадщині."
+MIG_superiority_of_the_chinese_army:0 "Superiority of the Chinese Army"
+MIG_superiority_of_the_chinese_army_desc:0 "With modern tactics, veteran leaders, and well-equipped units, the Chinese Army achieves unmatched strength. The Ming Empire stands ready to defend its territories and project power, ensuring no enemy threatens our legacy."
 
-MIG_the_imperial_airforce:0 "Імперські Повітряні Сили"
-MIG_the_imperial_airforce_desc:0 "Небеса належать імперії. Імперські Повітряні Сили вводять Китай у сучасну війну з розвідкою, повітряною підтримкою та стратегічним бомбардуванням. Навчені пілоти, нові летовища та сучасні арсенали гарантують, що жоден ворог ніколи не пануватиме в нашому небі."
+MIG_the_imperial_airforce:0 "The Imperial Airforce"
+MIG_the_imperial_airforce_desc:0 "The skies belong to the empire. The Imperial Airforce brings China into modern warfare with reconnaissance, air support, and strategic bombing. Trained pilots, new airfields, and modern armories ensure no foe will ever dominate our skies."
 
-MIG_kongjun_xueyuan:0 "Кунцзюнь Сюеюань (Академія ВПС)"
-MIG_kongjun_xueyuan_desc:0 "Кунцзюнь Сюеюань слугує колискою нашого авіаційного досвіду. Тут найперспективніші пілоти імперії здобувають освіту та підготовку для вирішення викликів сучасної війни. Зосереджуючись на стратегії, інженерії та тактиці повітряного бою, ця установа гарантує, що Імперські Повітряні Сили залишаються на передовій інновацій та готовності, поєднуючи дисципліну з баченням."
+MIG_kongjun_xueyuan:0 "Kongjun Xueyuan"
+MIG_kongjun_xueyuan_desc:0 "The Kongjun Xueyuan serves as the cradle of our aviation expertise. Here, the empire’s most promising pilots are educated and trained to navigate the challenges of modern warfare. By focusing on strategy, engineering, and aerial tactics, this institution ensures that the Imperial Airforce remains at the forefront of innovation and readiness, blending discipline with vision."
 
-MIG_new_airbases:0 "Нові Авіабази"
-MIG_new_airbases_desc:0 "Для проєктування сили по всій нашій величезній імперії, будівництво нових авіабаз є необхідним. Ці стратегічні вузли дозволяють швидке розгортання літаків, ефективне обслуговування та посилену координацію з наземними силами. Їхня присутність зміцнює наші кордони та забезпечує швидку відповідь на будь-яку загрозу, демонструючи прагнення Мін до панування в повітряному просторі."
+MIG_new_airbases:0 "New Airbases"
+MIG_new_airbases_desc:0 "To project power across our vast empire, the construction of new airbases is essential. These strategic hubs allow rapid deployment of aircraft, efficient maintenance, and enhanced coordination with ground forces. Their presence fortifies our borders and ensures a swift response to any threat, demonstrating the Ming’s commitment to mastering the aerial domain."
 
-MIG_domestic_designs:0 "Вітчизняні Проєкти"
-MIG_domestic_designs_desc:0 "Наші інженери та конструктори звернули свою винахідливість до неба, створюючи літаки, пристосовані до наших унікальних потреб. Надаючи пріоритет вітчизняним проєктам, ми зменшуємо залежність від іноземних постачальників та створюємо машини, адаптовані до стратегічних вимог імперії. Цей фокус сприяє інноваціям, національній гордості та самодостатній аерокосмічній промисловості."
+MIG_domestic_designs:0 "Domestic Designs"
+MIG_domestic_designs_desc:0 "Our engineers and designers have turned their ingenuity to the skies, crafting aircraft suited to our unique needs. By prioritizing domestic designs, we reduce reliance on foreign suppliers and create machines tailored to the strategic demands of the empire. This focus fosters innovation, national pride, and a self-sufficient aerospace industry."
 
-MIG_foreign_aircraft:0 "Іноземні Літаки"
-MIG_foreign_aircraft_desc:0 "Поки наша вітчизняна промисловість розвивається, залишається важливим придбання передових літаків з-за кордону. Інтегруючи іноземні технології, ми прискорюємо модернізацію та гарантуємо, що наші пілоти мають доступ до новітніх досягнень. Цей імпорт доповнює наш флот, забезпечуючи універсальність та спроможність, необхідну для підтримки контролю в небі."
+MIG_foreign_aircraft:0 "Foreign Aircraft"
+MIG_foreign_aircraft_desc:0 "While our domestic industry develops, it remains crucial to acquire advanced aircraft from abroad. By integrating foreign technology, we accelerate modernization and ensure our pilots have access to the latest advancements. These imports supplement our fleet, providing the versatility and capability needed to maintain control of the skies."
 
-MIG_domestic_aircraft_industry:0 "Вітчизняна Авіаційна Промисловість"
-MIG_domestic_aircraft_industry_desc:0 "Через інвестиції та інновації, вітчизняна авіаційна промисловість Китаю досягає нових висот. Фабрики виробляють передові планери, двигуни та допоміжне обладнання, сприяючи самодостатності, водночас створюючи фундамент для потужних, стійких Імперських Повітряних Сил. Цей фокус знаменує поворотний момент у нашій спроможності захищати імперію як із суші, так і з повітря."
+MIG_domestic_aircraft_industry:0 "Domestic Aircraft Industry"
+MIG_domestic_aircraft_industry_desc:0 "Through investment and innovation, China’s domestic aircraft industry reaches new heights. Factories produce advanced airframes, engines, and support equipment, fostering self-reliance while providing the foundation for a powerful, enduring Imperial Airforce. This focus marks a turning point in our capacity to defend the empire from both land and air."
 
-MIG_the_chinese_imperial_navy:0 "Китайський Імперський Флот"
-MIG_the_chinese_imperial_navy_desc:0 "Води, що оточують імперію, — це наша життєва сила. Зміцнення Імперського Флоту гарантує наш суверенітет над торговельними шляхами, прибережними територіями та морськими доменами. Зі вправними моряками, сучасними кораблями та потужними верфями, Флот проєктує силу, стримує агресію та захищає моря для прийдешніх поколінь."
+MIG_the_chinese_imperial_navy:0 "The Chinese Imperial Navy"
+MIG_the_chinese_imperial_navy_desc:0 "The waters surrounding the empire are our lifeblood. Strengthening the Imperial Navy ensures our sovereignty over trade routes, coastal territories, and maritime domains. With skilled sailors, modern ships, and robust dockyards, the Navy projects power, deters aggression, and secures the seas for generations to come."
 
-MIG_torpedo_production:0 "Виробництво Торпед"
-MIG_torpedo_production_desc:0 "Розширення виробництва торпед збільшує нашу спроможність завдавати рішучих ударів по ворожих флотах. Ця потужна зброя підвищує летальність наших військово-морських підрозділів та захищає узбережжя імперії. Приймаючи передові боєприпаси, ми демонструємо нашу прихильність технологічній майстерності та пануванню на морі."
+MIG_torpedo_production:0 "Torpedo Production"
+MIG_torpedo_production_desc:0 "Expanding torpedo production increases our ability to strike decisively against enemy fleets. These potent weapons enhance the lethality of our naval units and safeguard the empire’s coasts. By embracing advanced ordnance, we demonstrate our commitment to technological mastery and maritime supremacy."
 
-MIG_expand_naval_facilities:0 "Розширити Військово-морські Об'єкти"
-MIG_expand_naval_facilities_desc:0 "Будівництво та вдосконалення військово-морських об'єктів зміцнює морську інфраструктуру нашої імперії. Верфі, ремонтні доки та допоміжні будівлі забезпечують більший флот, швидше суднобудування та покращену логістичну підтримку. Це розширення означає рішучість імперії домінувати в морях та захищати свою торгівлю та береги."
+MIG_expand_naval_facilities:0 "Expand Naval Facilities"
+MIG_expand_naval_facilities_desc:0 "The construction and improvement of naval facilities fortify our empire’s maritime infrastructure. Dockyards, repair bays, and support buildings enable a larger fleet, faster shipbuilding, and improved logistical support. This expansion signifies the empire’s determination to dominate the seas and protect its commerce and shores."
 
-MIG_naval_guns:0 "Морські Гармати"
-MIG_naval_guns_desc:0 "Вища вогнева міць є важливою для нашої військово-морської доктрини. Покращуючи виробництво морських гармат та встановлюючи передову артилерію на наших кораблях, Китайський Імперський Флот може домінувати в прибережних боях та морських битвах. Ці гармати — сталеві пальці нашої імперії, які проєктують авторитет та гарантують ворогу неминучу поразку."
+MIG_naval_guns:0 "Naval Guns"
+MIG_naval_guns_desc:0 "Superior firepower is essential to our naval doctrine. By improving naval gun production and installing advanced artillery on our ships, the Chinese Imperial Navy can dominate coastal engagements and naval battles. These guns are the steel fingers of our empire, projecting authority and ensuring the enemy faces inevitable defeat."
 
-MIG_strengthen_coastline:0 "Зміцнити Берегову Лінію"
-MIG_strengthen_coastline_desc:0 "Укріплена берегова лінія є першою лінією оборони проти будь-якої морської загрози. Будуючи військово-морські бази та прибережні бункери у стратегічних точках, ми захищаємо життєво важливі порти та забезпечуємо швидку відповідь на вторгнення. Береги Імперії Мін тепер не лише прекрасні, але й неприступні."
+MIG_strengthen_coastline:0 "Strengthen the Coastline"
+MIG_strengthen_coastline_desc:0 "A fortified coastline is the first line of defense against any seaborne threat. By constructing naval bases and coastal bunkers at strategic points, we safeguard vital ports and ensure rapid response to invasions. The Ming Empire’s shores are now not only beautiful but impregnable."
 
-MIG_maritime_artillery:0 "Морська Артилерія"
-MIG_maritime_artillery_desc:0 "Наші прибережні укріплення посилені передовою морською артилерією. Ці батареї гарантують, що будь-який ворожий флот зустрінеться з нищівною вогневою міццю, стримуючи агресію та захищаючи наші суверенні води. Кожна гармата, кожна установка відображає рішучість Китаю домінувати в морях."
+MIG_maritime_artillery:0 "Maritime Artillery"
+MIG_maritime_artillery_desc:0 "Our coastal fortifications are enhanced with cutting-edge maritime artillery. These batteries ensure that any hostile fleet is met with overwhelming firepower, deterring aggression and protecting our sovereign waters. Every cannon, every emplacement reflects China’s determination to dominate the seas."
 
-MIG_superior_navy:0 "Вищий Флот"
-MIG_superior_navy_desc:0 "Завдяки інноваціям, дисциплінованим екіпажам та модернізованим кораблям, Імперський Флот досягає переваги над регіональними конкурентами. Вища тактика, передові технології та добре обслуговуваний флот дозволяють нам проєктувати силу, захищати торговельні шляхи та підтримувати морські інтереси імперії з непохитною міццю."
+MIG_superior_navy:0 "Superior Navy"
+MIG_superior_navy_desc:0 "Through innovation, disciplined crews, and modernized ships, the Imperial Navy achieves superiority over regional competitors. Superior tactics, advanced technology, and a well-maintained fleet allow us to project force, protect trade routes, and uphold the empire’s maritime interests with unyielding strength."
 
-MIG_stockpile_fuel:0 "Запастися Паливом"
-MIG_stockpile_fuel_desc:0 "Паливо — це життєва сила сучасної війни. Забезпечуючи та накопичуючи запаси нафти у стратегічних об'єктах, імперія гарантує, що її армії, флоти та повітряні сили можуть діяти без перерв. Готовність в енергетиці гарантує, що жоден ворог не зможе скористатися дефіцитом чи уповільнити наш марш до перемоги."
+MIG_stockpile_fuel:0 "Stockpile Fuel"
+MIG_stockpile_fuel_desc:0 "Fuel is the lifeblood of modern warfare. By securing and stockpiling oil reserves across strategic facilities, the empire ensures its armies, navies, and air forces can operate without interruption. Preparedness in energy guarantees that no enemy can exploit shortages or slow our march to victory."
 
-MIG_imperial_marines:0 "Імперська Морська Піхота"
-MIG_imperial_marines_desc:0 "Спеціалізовані на амфібійній війні, Імперська Морська Піхота навчена завдавати ударів з моря на сушу з точністю та рішучістю. Оснащені передовим спорядженням та навчені для спільних операцій, ці елітні війська гарантують, що інтереси імперії можуть бути захищені скрізь, де хвилі зустрічаються з берегом."
+MIG_imperial_marines:0 "Imperial Marines"
+MIG_imperial_marines_desc:0 "Specialized in amphibious warfare, the Imperial Marines are trained to strike from sea to land with precision and decisiveness. Equipped with cutting-edge gear and trained in combined operations, these elite troops ensure that the empire’s interests can be defended wherever the waves meet the shore."
 
-MIG_chinese_flotilla:0 "Китайська Флотилія"
-MIG_chinese_flotilla_desc:0 "Формування спеціалізованої флотилії зміцнює здатність імперії патрулювати прибережні води, реагувати на загрози та підтримувати більші військово-морські операції. Спритні, універсальні та добре озброєні, ці підрозділи підтримують морську безпеку, водночас проєктуючи міць Мін через наші внутрішні моря та річкові мережі."
+MIG_chinese_flotilla:0 "Chinese Flotilla"
+MIG_chinese_flotilla_desc:0 "The formation of a dedicated flotilla strengthens the empire’s ability to patrol coastal waters, respond to threats, and support larger naval operations. Agile, versatile, and well-armed, these units maintain maritime security while projecting the might of the Ming across our inland seas and riverine networks."
 
-MIG_light_crusiers:0 "Легкі Крейсери"
-MIG_light_crusiers_desc:0 "Швидкі, маневрені та легко озброєні, наші легкі крейсери служать розвідниками, ескортом та захисниками торгівлі. Вони дозволяють флоту швидко реагувати на загрози, проводити розвідку та підтримувати більші судна в бою. Їхня присутність гарантує, що Китайський Імперський Флот зберігає гнучкість та оперативне охоплення."
+MIG_light_crusiers:0 "Light Cruisers"
+MIG_light_crusiers_desc:0 "Fast, maneuverable, and lightly armed, our light cruisers serve as scouts, escorts, and commerce protectors. They allow the fleet to react swiftly to threats, perform reconnaissance, and support larger vessels in battle. Their presence ensures the Chinese Imperial Navy maintains flexibility and operational reach."
 
-MIG_heavy_crusiers:0 "Важкі Крейсери"
-MIG_heavy_crusiers_desc:0 "Важко озброєні та броньовані, ці крейсери є молотом нашого флоту. Вони проникають глибоко у ворожі формування, забезпечують вогневу підтримку легшим підрозділам та служать видимим стримуючим фактором для потенційних агресорів. Важкі крейсери символізують рішучість імперії та морську міць."
+MIG_heavy_crusiers:0 "Heavy Cruisers"
+MIG_heavy_crusiers_desc:0 "Heavily armed and armored, these cruisers are the hammer of our fleet. They strike deep into enemy formations, provide fire support for lighter units, and serve as a visible deterrent to would-be aggressors. The heavy cruisers symbolize the empire’s resolve and maritime strength."
 
-MIG_naval_intelligence:0 "Морська Розвідка"
-MIG_naval_intelligence_desc:0 "Знання такі ж потужні, як і сталь. Інвестуючи в морську розвідку, ми відстежуємо рух ворога, передбачаємо загрози та оптимізуємо розгортання флоту. Вища інформація дозволяє Китайському Імперському Флоту діяти рішуче, перехиляючи суперників та забезпечуючи домінування над морським простором."
+MIG_naval_intelligence:0 "Naval Intelligence"
+MIG_naval_intelligence_desc:0 "Knowledge is as powerful as steel. By investing in naval intelligence, we track enemy movements, anticipate threats, and optimize fleet deployments. Superior information allows the Chinese Imperial Navy to act decisively, outmaneuvering rivals and ensuring dominance over the maritime domain."
 
-MIG_escort_destroyers:0 "Ескортні Есмінці"
-MIG_escort_destroyers_desc:0 "Есмінці забезпечують спритний захист наших основних флотів, оберігаючи їх від підводних човнів, рейдерів та несподіваних атак. Їхня швидкість, вогнева міць та спеціалізоване обладнання гарантують безпеку більших суден та забезпечують контроль над ключовими морськими шляхами, відображаючи стратегічну передбачливість та військово-морський досвід імперії."
+MIG_escort_destroyers:0 "Escort Destroyers"
+MIG_escort_destroyers_desc:0 "Destroyers provide agile protection for our main fleets, safeguarding them from submarines, raiders, and surprise attacks. Their speed, firepower, and specialized equipment ensure the safety of larger vessels and secure control of key sea lanes, reflecting the empire’s strategic foresight and naval expertise."
 
-MIG_superior_subs:0 "Вищі Підводні Човни"
-MIG_superior_subs_desc:0 "Наш підводний флот завдає ударів тихо під хвилями, здатний калічити вороже судноплавство та збирати життєво важливу розвідку. Поєднуючи непомітність, витривалість та передові технології, ці підводні воїни розширюють охоплення нашого флоту та створюють невизначеність у свідомості будь-якого супротивника, що розглядає морське протистояння."
+MIG_superior_subs:0 "Superior Submarines"
+MIG_superior_subs_desc:0 "Our submarine fleet strikes silently beneath the waves, capable of crippling enemy shipping and gathering vital intelligence. By combining stealth, endurance, and advanced technology, these undersea warriors extend the reach of our navy and create uncertainty in the minds of any adversary considering a maritime confrontation."
 
-MIG_battleships:0 "Лінкори"
-MIG_battleships_desc:0 "Основа військово-морської могутності, лінкори забезпечують неперевершену вогневу міць та стійкість. Кожне судно — це плавуча фортеця, здатна формувати результат морських боїв. Їхня присутність гарантує контроль імперії над стратегічними водами та підкреслює прихильність Китаю до панування на морі."
+MIG_battleships:0 "Battleships"
+MIG_battleships_desc:0 "The backbone of naval power, battleships deliver unmatched firepower and resilience. Each vessel is a floating fortress, capable of shaping the outcome of naval engagements. Their presence guarantees the empire’s command of strategic waters and underscores the Chinese commitment to maritime supremacy."
 
-MIG_proper_carriers:0 "Повноцінні Авіаносці"
-MIG_proper_carriers_desc:0 "Авіаносці трансформують морську війну, слугуючи мобільними авіабазами, що проєктують силу далеко від рідних берегів. Замовляючи авіаносці класу 'Ляонін', імперія демонструє технологічну майстерність та стратегічну передбачливість. Ці плавучі фортеці дозволяють Імперському Флоту контролювати небо та домінувати на віддалених театрах із неперевершеним охопленням та гнучкістю."
+MIG_proper_carriers:0 "Proper Carriers"
+MIG_proper_carriers_desc:0 "Aircraft carriers transform naval warfare, serving as mobile airbases projecting power far from home shores. By commissioning the Liaoning-class carriers, the empire demonstrates technological mastery and strategic foresight. These floating fortresses allow the Imperial Navy to control the skies and dominate distant theaters with unmatched reach and flexibility."
 
-MIG_refit_civilian_ships:0 "Переоснастити Цивільні Кораблі"
-MIG_refit_civilian_ships_desc:0 "Імперія розпочала переобладнання цивільних лайнерів у допоміжні авіаносці, перетворюючи судна комерції на інструменти війни. Посилені корпуси, авіаційні палуби та протиповітряна оборона роблять їх життєво важливими для проєктування сили вздовж нашого узбережжя та територій. Розширені верфі прискорюють ці переобладнання, зміцнюючи флот та захищаючи ключові порти в цю невизначену еру."
+MIG_refit_civilian_ships:0 "Refit Civilian Ships"
+MIG_refit_civilian_ships_desc:0 "The empire has begun converting civilian liners into auxiliary carriers, transforming vessels of commerce into instruments of war. Reinforced hulls, aircraft decks, and anti-air defenses make them vital for power projection across our coasts and territories. Expanded dockyards speed these conversions, strengthening the fleet and safeguarding key ports in this uncertain era."
 
-MIG_top_of_the_line_navy:0 "Флот Найвищого Класу"
-MIG_top_of_the_line_navy_desc:0 "Китайський Імперський Флот стоїть сильнішим, ніж будь-коли, виставляючи крейсери, лінкори та есмінці, озброєні сучасною артилерією, торпедами та протиповітряними системами. Сміливі адмірали, розширені верфі та нові класи крейсерів, як-от 'Шаньдун', знаменують піднесення імперії як справжньої морської держави, готової захищати свої береги та проєктувати вплив за кордон."
+MIG_top_of_the_line_navy:0 "Top of the Line Navy"
+MIG_top_of_the_line_navy_desc:0 "The Chinese Imperial Navy stands stronger than ever, fielding cruisers, battleships, and destroyers armed with modern artillery, torpedoes, and anti-aircraft systems. Bold admirals, expanded dockyards, and new cruiser classes like the Shandong mark the empire’s rise as a true maritime power, ready to defend its shores and project influence abroad."

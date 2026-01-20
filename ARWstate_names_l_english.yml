@@ -1,6 +1,7 @@
 ﻿l_english:
-STATE_1017:0 "Йокогама"
-STATE_1018:0 "Нагасакі"
-STATE_1019:0 "Нагоя"
-STATE_1020:0 "Окаяма"
-STATE_1021:0 "Коті"
+ STATE_1047:0 "Yokohama"
+ STATE_1048:0 "Nagasaki"
+ STATE_1049:0 "Nagoya"
+ STATE_1050:0 "Okayama"
+ STATE_1051:0 "Kochi"
+ STATE_1052:0 "South Arizona"

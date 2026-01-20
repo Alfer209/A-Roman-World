@@ -1,0 +1,20 @@
+﻿l_english:
+ ####### FRANCIA #######
+ FRA_power_balance:0 "National Divide"
+ FAC_divided_francia_side:1 "Divided Francia"
+ FAC_united_francia_side:0 "United Francia"
+
+ FAC_balance_range:0 "Civil Equilibrium"
+ FAC_low_divided_francia_side:0 "Sporadic Civil Unrest"
+ FAC_medium_divided_francia_side:0 "Regular Civil Unrest"
+ FAC_high_divided_francia_side:0 "Very High Civil Unrest"
+ FAC_total_divided_francia_side:0 "Civil War"
+ FAC_low_united_francia_side:0 "Civil Co-operation"
+ FAC_medium_united_francia_side:0 "Regular Patriotism"
+ FAC_high_united_francia_side:0 "Wave Of Patriotism"
+ FAC_total_united_francia_side:0 "United Francia"
+ 
+ FRA_deploy_secret_police:0 "Deploy Secret Police"
+ FRA_arm_the_militants:0 "Arm the Militants"
+ FRA_police_clashes:0 "Police Clashes"
+ FRA_disjointed_francia:0 "Disjointed Francia"

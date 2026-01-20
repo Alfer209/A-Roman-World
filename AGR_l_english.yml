@@ -1,0 +1,45 @@
+﻿l_english:
+
+ AGR_the_hollow_covenant:0 "The Hollow Covenant"
+ AGR_the_hollow_covenant_desc:0 "We have pledged ourselves to the Inner Sun and the eternal realm of Agartha. The surface world will tremble before our geothermal reactors and metaphysical bureaucracy."
+
+ AGR_open_the_gate_to_hyperborea:0 "Open the Gate to Hyperborea"
+ AGR_open_the_gate_to_hyperborea_desc:0 "The preparations are complete. With ancient blueprints recovered from the depths, our engineers will pierce the barrier separating our world from Hyperborea. The gate hums with unbearable power, and the air is thick with light. Something is waiting on the other side."
+
+ AGR_the_great_emergence:0 "The Great Emergence"
+ AGR_the_great_emergence_desc:0 "The portal blazes open — and from it, legions march forth clad in radiant armor and frost. The Hollow Earth has awakened, and Agartha will no longer remain hidden. The time of myth is over; the world above shall bear witness to our return."
+
+ AGR_the_surface_trembles:0 "The Surface Trembles"
+ AGR_the_surface_trembles_desc:0 "Reports from the surface tell of earthquakes, magnetic storms, and vanishing patrols. The nations above whisper our name with dread. Let them tremble. The Inner Sun will soon rise over their broken empires."
+
+ AGR_the_hollow_earth:0 "The Hollow Earth Offensive"
+ AGR_the_hollow_earth_desc:0 "Our armies surge upward through molten tunnels and forgotten passageways. The ground itself becomes our weapon as we strike at the surface powers. Their machines will rust, their cities will sink, and their people will kneel before the warmth of the core."
+
+ AGR_assimilate_the_surface:0 "Assimilate the Surface"
+ AGR_assimilate_the_surface_desc:0 "The surface dwellers cling to their fading world, but resistance is futile. Their governments collapse under the pressure of the Inner Sun. We shall guide them — gently or otherwise — into unity with the luminous empire of Agartha."
+
+ AGR_unity_of_the_inner_and_outer_earth:0 "Unity of the Inner and Outer Earth"
+ AGR_unity_of_the_inner_and_outer_earth_desc:0 "The walls between worlds have crumbled. The Hollow Earth and the surface have become one realm under the radiant will of Agartha. The age of separation ends — and the Eternal Dominion begins."
+
+ blessings_of_the_inner_sun:0 "Blessings of the Inner Sun"
+ the_great_emergence:0 "The Great Emergence"
+ the_surface_trembles:0 "The Surface Trembles"
+ eternal_dominion:0 "Eternal Dominion"
+
+ agr.1.t:0 "The Portal Has Opened..."
+ agr.1.desc:0 "At first, it was only a hum beneath the ice. Then, the ground split apart, and from the depths of Jan Mayen came a blinding pillar of light that pierced the storm clouds above. The Agarthan research teams shouted over the roaring winds as their 'Hyperborea Gateway' activated, filling the island with unbearable heat and magnetic distortion. Equipment failed. Compasses spun wildly. The light pulsed like a heartbeat — and then, silence. Witnesses swear they heard voices from within the rift, chanting in unison in a language no one has spoken for millennia. The project’s lead scientist reported only one line before communications were lost; §R'It sees us.'§!"
+ agr.1.a:0 "Begin the transmission!"
+
+ agr.2.t:0 "The Great Emergence"
+ agr.2.desc:0 "From the depths of the portal came legions cloaked in blinding light — though those who stood too close swore the radiance was only a mask for something far darker. Their armor glowed like molten glass, their movements precise and wordless, and yet they obeyed every command as if bound by invisible chains. Behind them, the air shimmered with a suffocating heat, and the scent of ozone and ash filled the tunnels. Whatever these beings are, they are not of this world — and now, they march beneath our banner. The surface will never sleep soundly again."
+ agr.2.a:0 "Our dominion begins."
+
+ agr.3.t:0 "The Surface Trembles"
+ agr.3.desc:0 "Strange seismic waves have rippled across the northern hemisphere, throwing instruments into chaos and shattering the quiet of the Arctic. Entire glaciers have collapsed overnight, revealing vast, glowing caverns deep below the crust. Reports from remote outposts describe unidentified forces marching through the blizzards — ranks of metallic soldiers bearing banners of silver and fire. Governments across the world are scrambling to respond, though few believe the truth: that Agartha, the mythic realm said to dwell beneath the Earth, has broken through to the surface. The tremors have stopped for now... but the silence feels far worse."
+ agr.3.a:0 "This cannot be real..."
+ agr.3.b:0 "The surface will know fear."
+
+ agr.4.t:0 "The World Falls Silent"
+ agr.4.desc:0 "It began with radio static — brief bursts of coded transmissions that spread across every known frequency. Then came the light. From orbit, satellites captured a colossal pattern of energy spanning the Arctic Circle, its luminous tendrils stretching across continents like veins of molten gold. Entire communication networks have gone dark. Cities report seeing auroras even at the equator, and strange clouds shaped like eyes drift across the skies. The armies of Agartha march openly now, their banners rising over the ruins of surface nations. The world as we knew it is gone. The Inner Sun burns bright, and humanity kneels in its glow."
+ agr.4.a:0 "Humanity’s age has ended."
+ agr.4.b:0 "Agartha eternal!"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ PAM_the_middle_kingdom:0 "The Middle Kingdom"
+ PAM_the_middle_kingdom_desc:0 "For decades, Pannonian foriegn policy has focused on maintaining a delicate balance between the powers that be: our former suzerains in Constantinople, and the ascendent Teutonic Empire of Berlin. For the moment, the Great Powers are content to leave us be, however showing favouritism to either side could have dire consequences."
+
+ PAM_the_shield_of_christendom:0 "The Shield of Christendom"
+ PAM_the_shield_of_christendom_desc:0 "Our nation was founded by Constantinople as a Carpathian shield against Teutonic raids into the Roman heartland. With global tensions rising, and conflict with the Teutons seemingly inevitable, it is time for Pannonia to wield the Shield of Christendom against the enemies of the duarchy once more."
+
+ PAM_power_balance:0 "Between Giants"
+ PAM_ERE_side:0 "Support the Fatherland"
+ PAM_GEM_side:0 "German Brotherhood"
+ PAM_neutral_range:0 "Status Quo"
+
+ ERE_lean_range:0 "Pro-Roman Sentiment"
+ ERE_favouritism_range:0 "Roman Favouritism"
+ ERE_alliance_range:0 "Full Roman Alignment"
+
+ GEM_lean_range:0 "Pro-German Sentiment"
+ GEM_favouritism_range:0 "German Favouritism"
+ GEM_alliance_range:0 "Full German Alignment"
+
+ PAM_bathtub_admiral:0 "Bathtub Admiral"

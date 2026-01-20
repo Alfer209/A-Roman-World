@@ -1,121 +1,121 @@
 ﻿l_english:
 
- revitalisedlegions:0 "Відроджені Легіони"
-revitalisedlegions_desc:0 "Легіонерські Штати Америки відродили давню дисципліну Римської війни. Їхні основні сили борються з оновленою енергією, хоча їхні жорсткі формування перешкоджають оперативній гнучкості."
+ revitalisedlegions:0 "Revitalised Legions"
+ revitalisedlegions_desc:0 "The Legion States of America has revived the ancient discipline of Roman warfare. Its core forces fight with renewed vigour, though their rigid formations hinder operational flexibility."
 
-revitalisedlegions2:0 "Відроджені Легіони"
-revitalisedlegions2_desc:0 "Легіони тепер наступають зі швидкістю та точністю, вселяючи страх у менші держави та зосереджуючи свою міць проти північних супротивників."
+ revitalisedlegions2:0 "Revitalised Legions"
+ revitalisedlegions2_desc:0 "The legions now advance with speed and precision, instilling fear in lesser powers and focusing their might against northern adversaries."
 
-LSA_foreignwealthseized:0 "Захоплене Іноземне Багатство"
-LSA_foreignwealthseized_desc:0 "Іноземні активи в межах нації були присвоєні, що дозволяє державі перенаправити ресурси на національний розвиток та стратегічні пріоритети."
+ LSA_foreignwealthseized:0 "Foreign Wealth Seized"
+ LSA_foreignwealthseized_desc:0 "Foreign assets within the nation's borders have been appropriated, allowing the state to redirect resources towards national development and strategic priorities."
 
-LSA_military_intelligence:0 "Бюро Військової Розвідки"
-LSA_military_intelligence_desc:0 "Створено централізоване розвідувальне бюро для моніторингу загроз, проведення шпигунства та захисту інтересів нації за кордоном."
+ LSA_military_intelligence:0 "Military Intelligence Bureau"
+ LSA_military_intelligence_desc:0 "A centralised intelligence bureau has been established to monitor threats, conduct espionage, and safeguard the nation's interests abroad."
 
-LSA_military_intelligence2:0 "Бюро Військової Розвідки"
-LSA_military_intelligence2_desc:0 "Розширені розвідувальні операції тепер впливають на іноземні ідеології, тонко змінюючи глобальну політику на користь Легіонерських Штатів."
+ LSA_military_intelligence2:0 "Military Intelligence Bureau"
+ LSA_military_intelligence2_desc:0 "Expanded intelligence operations now influence foreign ideologies, subtly reshaping global politics to favour the Legion States."
 
-militarysenate:0 "Військовий Сенат"
-militarysenate_desc:0 "Сенат, що складається з військових чиновників, керує разом із консулом, оптимізуючи командні структури та зменшуючи цивільний нагляд."
+ militarysenate:0 "Military Senate"
+ militarysenate_desc:0 "A senate composed of military officials governs alongside the consul, streamlining command structures and reducing civilian oversight."
 
-martialcitizenship:0 "Військове Громадянство"
-martialcitizenship_desc:0 "Громадянство надається через військову службу, сприяючи дисциплінованому населенню та зміцнюючи ідеологічну згуртованість."
+ martialcitizenship:0 "Martial Citizenship"
+ martialcitizenship_desc:0 "Citizenship is granted through military service, fostering a disciplined populace and reinforcing ideological cohesion."
 
-martialcitizenship2:0 "Військове Громадянство"
-martialcitizenship2_desc:0 "Войовничий етос глибоко вкорінився в суспільстві, забезпечуючи непохитну лояльність та готовність до конфлікту."
+ martialcitizenship2:0 "Martial Citizenship"
+ martialcitizenship2_desc:0 "The martial ethos has become deeply ingrained in society, ensuring unwavering loyalty and readiness for conflict."
 
-victoriapopuliromani:0 "Victoria Populi Romani (Перемога Римського Народу)"
-victoriapopuliromani_desc:0 "Перемога проголошується в ім'я Римського народу. Легіони борються з неперевершеним моральним духом, агресією та швидкістю."
+ victoriapopuliromani:0 "Victoria Populi Romani"
+ victoriapopuliromani_desc:0 "Victory is claimed in the name of the Roman people. The legions fight with unmatched morale, aggression, and speed."
 
-followeastromandoctrine:0 "Східноримська Доктрина"
-followeastromandoctrine_desc:0 "Прийнято стратегічні доктрини, натхненні Східноримськими військовими, що зменшує виснаження та розширює логістичне охоплення."
+ followeastromandoctrine:0 "Eastern Roman Doctrine"
+ followeastromandoctrine_desc:0 "The strategic doctrines of the Eastern Roman Empire have been adopted, reducing attrition and extending logistical reach."
 
-eastromansupport:0 "Східноримська Підтримка"
-eastromansupport_desc:0 "Підтримка від ідеологічних союзників на Сході поповнює запаси палива та прискорює військові дослідження."
+ eastromansupport:0 "Eastern Roman Support"
+ eastromansupport_desc:0 "Support from ideological allies in the East bolsters fuel reserves and accelerates military research."
 
-LSA_wardepartment:0 "Військовий Департамент"
-LSA_wardepartment_desc:0 "Централізований військовий департамент посилює командну спроможність та полегшує стратегічну координацію на всіх фронтах."
+ LSA_wardepartment:0 "War Department"
+ LSA_wardepartment_desc:0 "A centralised war department enhances command capacity and facilitates strategic coordination across all fronts."
 
-LSA_aromanarmy:0 "Римська Армія"
-LSA_aromanarmy_desc:0 "Збройні сили мобілізовані з Римською ефективністю, готуючи націю до тотальної війни."
+ LSA_aromanarmy:0 "A Roman Army"
+ LSA_aromanarmy_desc:0 "The armed forces are mobilised with Roman efficiency, preparing the nation for total war."
 
-motorised_equities:0 "Моторизовані Еквіти"
-motorised_equities_desc:0 "Інвестиції в моторизовану інфраструктуру знизили виробничі витрати, дозволяючи швидше розгортати механізовані підрозділи."
+ motorised_equities:0 "Motorised Equities"
+ motorised_equities_desc:0 "Investments in motorised infrastructure have reduced production costs, enabling faster deployment of mechanised units."
 
-milescaduci:0 "Miles Caduci"
-milescaduci_desc:0 "Сили спеціального призначення, навчені стародавнім Римським бойовим технікам, розширюють можливості нації для елітних операцій."
+ milescaduci:0 "Miles Caduci"
+ milescaduci_desc:0 "Special forces trained in ancient Roman combat techniques expand the nation's capacity for elite operations."
 
-LSA_women_serve_in_the_legions:0 "Жінки в Легіонах"
-LSA_women_serve_in_the_legions_desc:0 "Жінки інтегровані в легіони, збільшуючи живу силу нації та демонструючи модернізований військовий етос."
+ LSA_women_serve_in_the_legions:0 "Women in the Legions"
+ LSA_women_serve_in_the_legions_desc:0 "Women have been integrated into the legions, increasing the nation's manpower and demonstrating a modernised martial ethos."
 
-LSA_airwarplans:0 "Плани Повітряної Війни"
-LSA_airwarplans_desc:0 "Стратегічне планування оптимізувало виробництво літаків, забезпечуючи домінування в небі."
+ LSA_airwarplans:0 "Air War Plans"
+ LSA_airwarplans_desc:0 "Strategic planning has streamlined aircraft production, ensuring dominance in the skies."
 
-fighterdevelopmentfocus:0 "Фокус на Розвитку Винищувачів"
-fighterdevelopmentfocus_desc:0 "Держава надає пріоритет розробці спритних та смертоносних винищувачів для забезпечення переваги в повітрі."
+ fighterdevelopmentfocus:0 "Fighter Development Focus"
+ fighterdevelopmentfocus_desc:0 "The state prioritises the development of agile and lethal fighter aircraft to secure aerial superiority."
 
-stratbombingfocus:0 "Фокус на Стратегічному Бомбардуванні"
-stratbombingfocus_desc:0 "Ефективне виробництво бомбардувальників дозволяє знищувати ворожу інфраструктуру здалеку."
+ stratbombingfocus:0 "Strategic Bombing Focus"
+ stratbombingfocus_desc:0 "Efficient bomber production enables the destruction of enemy infrastructure from afar."
 
-combinedbombingfocus:0 "Фокус на Комбінованому Бомбардуванні"
-combinedbombingfocus_desc:0 "Посилені можливості для далекобійного бомбардування дозволяють завдавати ударів глибоко у ворожу територію, порушуючи логістику та моральний дух."
+ combinedbombingfocus:0 "Combined Bombing Focus"
+ combinedbombingfocus_desc:0 "Enhanced long-range bombing capabilities allow strikes deep into enemy territory, disrupting logistics and morale."
 
-LSA_masters_of_the_air:0 "Майстри Повітря"
-LSA_masters_of_the_air_desc:0 "Майстерність у повітряній доктрині знизила витрати на дослідження та покращила ефективність повітряного бою."
+ LSA_masters_of_the_air:0 "Masters of the Air"
+ LSA_masters_of_the_air_desc:0 "Mastery of aerial doctrine has reduced research costs and improved air combat effectiveness."
 
-LSA_navaldepartment:0 "Військово-морський Департамент"
-LSA_navaldepartment_desc:0 "Військово-морський департамент наглядає за проєктуванням та модернізацією кораблів, підвищуючи ефективність флоту та знижуючи виробничі витрати."
+ LSA_navaldepartment:0 "Naval Department"
+ LSA_navaldepartment_desc:0 "A naval department oversees ship design and upgrades, improving fleet efficiency and reducing production costs."
 
-LSA_escortfocus:0 "Фокус на Супроводі"
-LSA_escortfocus_desc:0 "Легкі судна супроводу отримують пріоритет для захисту конвоїв та підтримки більших військових кораблів."
+ LSA_escortfocus:0 "Escort Focus"
+ LSA_escortfocus_desc:0 "Light escort vessels are prioritised to safeguard convoys and support larger warships."
 
-LSA_unrestricted_sub_warfare:0 "Необмежена Підводна Війна"
-LSA_unrestricted_sub_warfare_desc:0 "Застосування необмеженої підводної війни дозволяє нашому флоту перехоплювати ворожу торгівлю, калічити ланцюги постачання та чинити стратегічний тиск на супротивників."
+ LSA_unrestricted_sub_warfare:0 "Unrestricted Submarine Warfare"
+ LSA_unrestricted_sub_warfare_desc:0 "Submarines operate with stealth and precision, disrupting enemy supply lines through unrestricted warfare."
 
-LSA_maritime_comission:0 "Морська Комісія"
-LSA_maritime_comission_desc:0 "Національна морська комісія прискорює будівництво верфей та розширення флоту."
+ LSA_maritime_comission:0 "Maritime Commission"
+ LSA_maritime_comission_desc:0 "A national maritime commission accelerates dockyard construction and naval expansion."
 
-LSA_legionaryships:0 "Легіонерські Кораблі"
-LSA_legionaryships_desc:0 "Конвої будуються для швидкого розгортання та амфібійних операцій, відображаючи військово-морські амбіції сучасної Римської держави."
+ LSA_legionaryships:0 "Legionary Ships"
+ LSA_legionaryships_desc:0 "Convoys are constructed for rapid deployment and amphibious operations, reflecting the naval ambitions of a modern Roman state."
 
-eagleascendant:0 "Орел, Що Підноситься"
-eagleascendant_desc:0 "Орел знову піднімається. Національна гордість та військова готовність піднесені серед населення."
+ eagleascendant:0 "Eagle Ascendant"
+ eagleascendant_desc:0 "The eagle rises once more. National pride and war readiness are elevated across the populace."
 
-LSA_wartimeproduction:0 "Виробництво Воєнного Часу"
-LSA_wartimeproduction_desc:0 "Цивільна промисловість перепрофільована для військового використання, різко збільшуючи виробництво воєнного часу."
+ LSA_wartimeproduction:0 "Wartime Production"
+ LSA_wartimeproduction_desc:0 "Civilian industry has been repurposed for military use, dramatically increasing wartime output."
 
-projecty:0 "Проєкт Y"
-projecty_desc:0 "Таємна дослідницька ініціатива прискорює ядерну розробку, обіцяючи неперевершену руйнівну спроможність."
+ projecty:0 "Project Y"
+ projecty_desc:0 "A clandestine research initiative accelerates nuclear development, promising unparalleled destructive capability."
 
-nationalreconciliation:0 "Національне Примирення"
-nationalreconciliation_desc:0 "Зусилля з подолання внутрішніх розколів стабілізували націю, хоча напруга залишається під поверхнею."
+ nationalreconciliation:0 "National Reconciliation"
+ nationalreconciliation_desc:0 "Efforts to reconcile internal divisions have stabilised the nation, though tensions remain beneath the surface."
 
-citizenandsoldier:0 "Громадянин та Солдат"
-citizenandsoldier_desc:0 "Громадянство повністю мілітаризоване, кожна особа готова захищати державу та сприяти її відновленню."
+ citizenandsoldier:0 "Citizen and Soldier"
+ citizenandsoldier_desc:0 "The citizenry is fully militarised, with every individual prepared to defend the state and contribute to its recovery."
 
-citizenandsoldier2:0 "Громадянин та Солдат"
-citizenandsoldier2_desc:0 "Мілітаризоване населення тепер підтримує іноземні інтервенції та швидке промислове відновлення, втілюючи єдність громадянина та солдата."
+ citizenandsoldier2:0 "Citizen and Soldier"
+ citizenandsoldier2_desc:0 "The militarised population now supports foreign interventions and rapid industrial repair, embodying the unity of citizen and soldier."
 
-agriculturaleconomy:0 "Сільськогосподарська Економіка"
-agriculturaleconomy_desc:0 "Надмірна залежність від сільського господарства стримує промисловий розвиток та знижує ефективність виробництва."
+ agriculturaleconomy:0 "Agricultural Economy"
+ agriculturaleconomy_desc:0 "An overreliance on agriculture has hindered industrial development and reduced production efficiency."
 
-sloweconomicgrowth:0 "Повільне Економічне Зростання"
-sloweconomicgrowth_desc:0 "Економіка зростає млявими темпами, обмежуючи промисловий потенціал та будівельні зусилля."
+ sloweconomicgrowth:0 "Slow Economic Growth"
+ sloweconomicgrowth_desc:0 "The economy grows at a sluggish pace, limiting industrial capacity and construction efforts."
 
-economiccompotence:0 "Економічна Компетентність"
-economiccompotence_desc:0 "Компетентне економічне управління покращило випуск продукції фабриками та зменшило навантаження на споживачів, зміцнюючи національну економіку."
+ economiccompotence:0 "Economic Competence"
+ economiccompotence_desc:0 "Competent economic management has improved factory output and reduced consumer strain, strengthening the national economy."
 
-destroyingremainingresistance:0 "Знищення Опору, Що Залишився"
-destroyingremainingresistance_desc:0 "Осередки опору придушуються зі швидкістю та точністю, дозволяючи легіонам наступати швидше та завдавати сильніших ударів."
+ destroyingremainingresistance:0 "Destroying Remaining Resistance"
+ destroyingremainingresistance_desc:0 "Pockets of resistance are crushed with speed and precision, allowing the legions to advance faster and strike harder."
 
-legionstatecontinentalarmy:0 "Континентальна Армія Легіонерських Штатів"
-legionstatecontinentalarmy_desc:0 "Континентальна армія піднімається, готова проєктувати силу за кордон із зростаючою впевненістю, добровольцями та політичною підтримкою."
+ legionstatecontinentalarmy:0 "Legionary Continental Army"
+ legionstatecontinentalarmy_desc:0 "A continental army rises, ready to project power abroad with growing confidence, volunteers, and political backing."
 
-legionstatecontinentalarmy2:0 "Континентальна Армія Легіонерських Штатів"
-legionstatecontinentalarmy2_desc:0 "Континентальна армія піднімається, готова проєктувати силу за кордон із зростаючою впевненістю, добровольцями та політичною підтримкою."
+ legionstatecontinentalarmy2:0 "Legionary Continental Army"
+ legionstatecontinentalarmy2_desc:0 "A continental army rises, ready to project power abroad with growing confidence, volunteers, and political backing."
 
-altaniclifelines:0 "Альтанічні Життєві Лінії"
-altaniclifelines_desc:0 "Атлантичні життєві лінії забезпечені. Морські вторгнення стають більшими, швидшими та краще забезпеченими, відкриваючи шлях до глобальних кампаній."
+ altaniclifelines:0 "Altanic Lifelines"
+ altaniclifelines_desc:0 "The Atlantic lifelines are secured. Naval invasions become larger, faster, and better supplied, opening the path to global campaigns."
 
-romanindustries:0 "Римські Промисловості"
+ romanindustries:0 "Roman Industries"
  romanindustries_desc:0 ""

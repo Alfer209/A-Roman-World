@@ -1,192 +1,190 @@
 ﻿l_english:
+ eastromandebufftest:0 "East Roman Debuff Test"
+ eastromandebufftest_desc:0 "I serve the Emperor!"
 
-#Потребує редагування
+ ERE_armyexpansion:0 "Rapid Army Expansion"
+ ERE_armyexpansion_desc:0 "The Empire has committed to a sweeping expansion of its military forces. Recruitment surges, training accelerates, and new legions rise to meet the coming storm."
 
-eastromandebufftest:0 "Тест дебафу Східного Риму"
-eastromandebufftest_desc:0 "Я служу імператору!"
+ agentsinalltheatres:0 "Agents In All Theatres"
+ agentsinalltheatres_desc:0 "The Roman intelligence network spans every front. Agents operate in foreign lands, gathering information, sabotaging enemies, and shaping the battlefield from the shadows."
 
-ERE_armyexpansion:0 "Швидке розширення армії"
-ERE_armyexpansion_desc:0 "Імперія взяла на себе зобов'язання масштабно розширити свої збройні сили. Набір прискорюється, навчання інтенсифікується, і нові легіони формуються, щоб зустріти наближаючу бурю."
+ imperialcentralcommand:0 "Imperial Central Command"
+ imperialcentralcommand_desc:0 "A unified command structure now governs all Roman military operations."
 
-agentsinalltheatres:0 "Агенти на всіх театрах"
-agentsinalltheatres_desc:0 "Розвідувальна мережа Риму охоплює кожен фронт. Агенти діють у чужих землях, збираючи інформацію, саботуючи ворогів і формуючи поле бою з тіні."
+ easternconsolidation:0 "Eastern Consolidation"
+ easternconsolidation_desc:0 "The Eastern Roman Empire chooses to consolidate and commit all defense in her territory instead of her Western Roman allied homeland."
 
-imperialcentralcommand:0 "Імперське центральне командування"
-imperialcentralcommand_desc:0 "Єдина структура командування тепер керує всіма римськими військовими операціями."
+ easternconsolidation2:0 "Eastern Consolidation"
+ easternconsolidation2_desc:0 "The Eastern Roman Empire chooses to consolidate and commit all defense in her territory instead of her Western Roman allied homeland."
 
-easternconsolidation:0 "Східна консолідація"
-easternconsolidation_desc:0 "Східна Римська Імперія обирає консолідацію та повне зосередження оборони на своїй території замість союзної батьківщини Західного Риму."
+ westernconsolidation:0 "Western Consolidation"
+ westernconsolidation_desc:0 ""
 
-easternconsolidation2:0 "Східна консолідація"
-easternconsolidation2_desc:0 "Східна Римська Імперія обирає консолідацію та повне зосередження оборони на своїй території замість союзної батьківщини Західного Риму."
+ 
+ ERE_rallyingpeople:0 "Rally of the Roman People"
+ ERE_rallyingpeople_desc:0 "The Roman people have answered the call. National unity surges as citizens embrace their role in defending the Empire and restoring its ancient glory."
 
-westernconsolidation:0 "Західна консолідація"
-westernconsolidation_desc:0 ""
+ ERE_massproduction:0 "Mass Production"
+ ERE_massproduction_desc:0 "Our factories roar with renewed purpose. Mass production of arms, vehicles, and supplies ensures our legions remain equipped for prolonged conflict."
 
-ERE_rallyingpeople:0 "Згуртування римського народу"
-ERE_rallyingpeople_desc:0 "Римський народ відгукнувся на заклик. Національна єдність зростає, оскільки громадяни приймають свою роль у захисті імперії та відновленні її давньої слави."
+ alloutdefense:0 "All Out Defense"
+ alloutdefense_desc:0 "Fortifications rise, factories roar, and the legions prepare to defend the homeland with unyielding resolve. Rome shall not fall again."
 
-ERE_massproduction:0 "Масове виробництво"
-ERE_massproduction_desc:0 "Наші заводи гудять із новою метою. Масове виробництво зброї, техніки та припасів забезпечує оснащення наших легіонів для тривалого конфлікту."
+ newdefenseindustry:0 "Defense Industry"
+ newdefenseindustry_desc:0 "War demands steel, oil, and sacrifice. We expand our military-industrial complex, converting civilian factories into engines of war. Ammunition, vehicles, and weapons flow from our workshops, ensuring the legions are never wanting. The Empire’s survival depends on its ability to arm itself faster than its foes."
+
+ armadefenseindustry:0 "Defense Industry"
+ armadefenseindustry_desc:0 "War demands steel, oil, and sacrifice. We expand our military-industrial complex, converting civilian factories into engines of war. Ammunition, vehicles, and weapons flow from our workshops, ensuring the legions are never wanting. The Empire’s survival depends on its ability to arm itself faster than its foes."
+
+ heavyindustrydefense:0 "Defense Industry"
+ heavyindustrydefense_desc:0 "War demands steel, oil, and sacrifice. We expand our military-industrial complex, converting civilian factories into engines of war. Ammunition, vehicles, and weapons flow from our workshops, ensuring the legions are never wanting. The Empire’s survival depends on its ability to arm itself faster than its foes."
+
+ increasedstatereserves:0 "Increased State Reserves"
+ increasedstatereserves_desc:0 "In times of crisis, foresight is as vital as firepower. The Empire stockpiles strategic materials—fuel, metals, and food—ensuring continuity in the face of siege or embargo. These reserves will sustain our armies and our people when the world turns cold and hostile."
+
+ integratedsubjecteconomies:0 "Integrated Subject Economies"
+ integratedsubjecteconomies_desc:0 "The provinces and client states of the Empire must serve a unified purpose. Through economic integration, eliminates inefficiencies and redirect their output toward imperial goals. No longer fragmented, the dominion becomes a single, synchronised machine of production and power."
+
+ romanresearchinstitue:0 "Roman Research Institute"
+ romanresearchinstitue_desc:0 "Knowledge is the cornerstone of supremacy. East Rome must establish a centralised institute to coordinate scientific efforts across the Empire."
+
+ antiteutoniclegions:0 "Anti Teutonic Legions"
+ antiteutoniclegions_desc:0 "The Teutonic menace threatens the Empire’s borders and ideals. In response, Constantinople must raise specialised legions trained to counter their tactics and break their formations. These elite units carry the fire of Roman vengeance and the discipline of centuries. The barbarians shall be repelled once more."
+
+ antifrancianlegions:0 "Anti Teutonic Legions"
+ antifrancianlegions_desc:0 "The Teutonic menace threatens the Empire’s borders and ideals. In response, Constantinople must raise specialised legions trained to counter their tactics and break their formations. These elite units carry the fire of Roman vengeance and the discipline of centuries. The barbarians shall be repelled once more."
+
+ britishdestroyer:0 "British Destroyer"
+ britishdestroyer_desc:0 "The illegimate usurpers in Britian must answer to their destruction, as they now attack their former overlords."
+
+ reconquerer:0 "Flame of Reconquest"
+ reconquerer_desc:0 "The dream of a united Roman world burns anew. Rome ignites the imperial ambition to reclaim lost territories and restore ancient borders. The legions march not for conquest alone, but for destiny. The flame of reconquest shall light the path to glory."
 
-alloutdefense:0 "Тотальна оборона"
-alloutdefense_desc:0 "Укріплення зростають, заводи гудять, а легіони готуються захищати батьківщину з непохитною рішучістю. Рим більше не впаде."
+ latinhellenicsolidatry:0 "Latin Hellenic Solidarity"
+ latinhellenicsolidatry_desc:0 "Though divided by centuries, the Latin West and Hellenic East share a common heritage. By fostering unity between Roman and Greek peoples, forges a cultural and military alliance rooted in shared history. Together, they stand as pillars of civilization against the chaos beyond."
 
-newdefenseindustry:0 "Оборонна промисловість"
-newdefenseindustry_desc:0 "Війна вимагає сталі, нафти та жертв. Ми розширюємо наш військово-промисловий комплекс, перетворюючи цивільні заводи на двигуни війни. Боєприпаси, техніка та зброя течуть із наших майстерень, забезпечуючи легіони всім необхідним. Виживання імперії залежить від її здатності озброюватися швидше за ворогів."
+ deathanddestruction:0 "Death and Destruction"
+ deathanddestruction_desc:0 "East Roman planes deliver death and destruction from the sky."
 
-armadefenseindustry:0 "Оборонна промисловість"
-armadefenseindustry_desc:0 "Війна вимагає сталі, нафти та жертв. Ми розширюємо наш військово-промисловий комплекс, перетворюючи цивільні заводи на двигуни війни. Боєприпаси, техніка та зброя течуть із наших майстерень, забезпечуючи легіони всім необхідним. Виживання імперії залежить від її здатності озброюватися швидше за ворогів."
+ ERE_sinolegions:0 "Sino Legions"
+ ERE_sinolegions_desc:0 "The Eastern Roman Imperial Legions have been sent to fight alongside their Chinese imperial brothers against the republican menance."
 
-heavyindustrydefense:0 "Оборонна промисловість"
-heavyindustrydefense_desc:0 "Війна вимагає сталі, нафти та жертв. Ми розширюємо наш військово-промисловий комплекс, перетворюючи цивільні заводи на двигуни війни. Боєприпаси, техніка та зброя течуть із наших майстерень, забезпечуючи легіони всім необхідним. Виживання імперії залежить від її здатності озброюватися швидше за ворогів."
+ ERE_sinolegions2:0 "Sino Legions"
+ ERE_sinolegions2_desc:0 "The Eastern Roman Imperial Legions have been sent to fight alongside their Chinese imperial brothers against the republican menance."
 
-increasedstatereserves:0 "Збільшення державних резервів"
-increasedstatereserves_desc:0 "У часи кризи передбачливість так само важлива, як вогнева міць. Імперія накопичує стратегічні матеріали — паливо, метали та продовольство, — забезпечуючи стійкість перед обличчям облоги чи ембарго. Ці резерви підтримають наші армії та народ, коли світ стане холодним і ворожим."
+ cassiandoctrine1:0 "Cassian Doctrine Plan"
+ cassiandoctrine1_desc:0 "TEST"
 
-integratedsubjecteconomies:0 "Інтеграція економік підлеглих"
-integratedsubjecteconomies_desc:0 "Провінції та клієнтські держави імперії повинні служити єдиній меті. Завдяки економічній інтеграції ми усуваємо неефективність і перенаправляємо їхній випуск на імперські цілі. Більше не роздроблена, імперія стає єдиною, синхронізованою машиною виробництва та сили."
+ cassiandoctrine2:0 "Cassian Doctrine Plan"
+ cassiandoctrine2:0 "TEST"
+ 
+ cassiandoctrine3:0 "Cassian Doctrine Plan"
+ cassiandoctrine3:0 "TEST"
 
-romanresearchinstitue:0 "Римський дослідницький інститут"
-romanresearchinstitue_desc:0 "Знання — це наріжний камінь переваги. Східний Рим повинен створити централізований інститут для координації наукових зусиль по всій імперії."
+ cassiandoctrinecompletedis:0 "Cassian Doctrine Completed"
+ cassiandoctrinecompletedis_desc:0 "TEST"
+ 
+ cassiandoctrinecompletedmax:0 "Cassian Doctrine Completed"
+ cassiandoctrinecompletedmax_desc:0 "TEST"
 
-antiteutoniclegions:0 "Анти-тевтонські легіони"
-antiteutoniclegions_desc:0 "Тевтонська загроза становить небезпеку для кордонів і ідеалів імперії. У відповідь Константинополь повинен сформувати спеціалізовані легіони, навчені протидіяти їхній тактиці та розбивати їхні формування. Ці елітні підрозділи несуть вогонь римської помсти та дисципліну століть. Варвари будуть відбиті знову."
+ cassiandoctrineisildur:0 "Cassian Doctrine Plan"
+ cassiandoctrineisildur_desc:0 "TEST"
+ 
+ cassiandoctrinemaxillian:0 "Cassian Doctrine Plan"
+ cassiandoctrinemaxillian_desc:0 "TEST"
+ 
+ aurelianreforms1:0 "Aurelian Reform Plan"
+ aurelianreforms1_desc:0 "TEST"
 
-antifrancicanlegions:0 "Анти-тевтонські легіони"
-antifrancicanlegions_desc:0 "Тевтонська загроза становить небезпеку для кордонів і ідеалів імперії. У відповідь Константинополь повинен сформувати спеціалізовані легіони, навчені протидіяти їхній тактиці та розбивати їхні формування. Ці елітні підрозділи несуть вогонь римської помсти та дисципліну століть. Варвари будуть відбиті знову."
-
-britishdestroyer:0 "Британський руйнівник"
-britishdestroyer_desc:0 "Нелегітимні узурпатори в Британії повинні відповісти за своє знищення, оскільки вони тепер атакують своїх колишніх володарів."
-
-reconquerer:0 "Полум'я відвоювання"
-reconquerer_desc:0 "Мрія про об'єднаний римський світ палає знову. Рим розпалює імперські амбіції, щоб повернути втрачені території та відновити стародавні кордони. Легіони марширують не лише заради завоювань, але заради долі. Полум'я відвоювання освітить шлях до слави."
-
-latinhellenicsolidatry:0 "Латино-еллінська солідарність"
-latinhellenicsolidatry_desc:0 "Хоча століттями розділені, латинський Захід і еллінський Схід мають спільну спадщину. Сприяючи єдності між римськими та грецькими народами, ми створюємо культурний і військовий союз, заснований на спільній історії. Разом вони стоять як стовпи цивілізації проти хаосу за їхніми межами."
-
-deathanddestruction:0 "Смерть і руйнування"
-deathanddestruction_desc:0 "Східноримські літаки несуть смерть і руйнування з небес."
-
-ERE_sinolegions:0 "Китайські легіони"
-ERE_sinolegions_desc:0 "Східноримські імперські легіони відправлені битися пліч-о-пліч зі своїми китайськими імперськими братами проти республіканської загрози."
-
-ERE_sinolegions2:0 "Китайські легіони"
-ERE_sinolegions2_desc:0 "Східноримські імперські легіони відправлені битися пліч-о-пліч зі своїми китайськими імперськими братами проти республіканської загрози."
-
-cassiandoctrine1:0 "План доктрини Кассіана"
-cassiandoctrine1_desc:0 "ТЕСТ"
-
-cassiandoctrine2:0 "План доктрини Кассіана"
-cassiandoctrine2_desc:0 "ТЕСТ"
-
-cassiandoctrine3:0 "План доктрини Кассіана"
-cassiandoctrine3_desc:0 "ТЕСТ"
-
-cassiandoctrinecompletedis:0 "Доктрина Кассіана завершена"
-cassiandoctrinecompletedis_desc:0 "ТЕСТ"
-
-cassiandoctrinecompletedmax:0 "Доктрина Кассіана завершена"
-cassiandoctrinecompletedmax_desc:0 "ТЕСТ"
-
-cassiandoctrineisildur:0 "План доктрини Кассіана"
-cassiandoctrineisildur_desc:0 "ТЕСТ"
-
-cassiandoctrinemaxillian:0 "План доктрини Кассіана"
-cassiandoctrinemaxillian_desc:0 "ТЕСТ"
-
-aurelianreforms1:0 "План реформ Авреліана"
-aurelianreforms1_desc:0 "ТЕСТ"
-
-aurelianreforms2:0 "План реформ Авреліана"
-aurelianreforms2_desc:0 "ТЕСТ"
-
-aurelianreforms3:0 "План реформ Авреліана"
-aurelianreforms3_desc:0 "ТЕСТ"
-
-aurelianreforms_AT:0 "План реформ Авреліана"
-aurelianreforms_AT_desc:0 "ТЕСТ"
-
-aurelianreforms_AA:0 "План реформ Авреліана"
-aurelianreforms_AA_desc:0 "ТЕСТ"
-
-aurelianreformscompleted1:0 "Реформи Авреліана завершені"
-aurelianreformscompleted1_desc:0 "ТЕСТ"
-
-aurelianreformscompleted2:0 "Реформи Авреліана завершені"
-aurelianreformscompleted2_desc:0 "ТЕСТ"
-
-armybill:0 "Військовий закон"
-armybill_desc:0 "ТЕСТ"
-
-ERE_womensarmy:0 "Жіночий армійський корпус"
-ERE_womensarmy_desc:0 "ТЕСТ"
-
-increasedmilitaryspending1:0 "Збільшення військових витрат"
-increasedmilitaryspending1_desc:0 "ТЕСТ"
-
-increasedmilitaryspending2:0 "Збільшення військових витрат"
-increasedmilitaryspending2_desc:0 "ТЕСТ"
-
-eastromanautoindustry:0 "Східноримська автомобільна промисловість"
-eastromanautoindustry_desc:0 "ТЕСТ"
-
-traditionalflyingdoctrine:0 "Традиційна льотна доктрина"
-traditionalflyingdoctrine_desc:0 "ТЕСТ"
-
-traditionalflyingdoctrine2:0 "Традиційна льотна доктрина"
-traditionalflyingdoctrine2_desc:0 "ТЕСТ"
-
-modernflyingdoctrine:0 "Сучасна льотна доктрина"
-modernflyingdoctrine_desc:0 "ТЕСТ"
-
-modernflyingdoctrine2:0 "Сучасна льотна доктрина"
-modernflyingdoctrine2_desc:0 "ТЕСТ"
-
-strikewest:0 "Фокус на Захід"
-strikewest_desc:0 "Східні римляни обирають допомагати своїм братам на заході, а не консолідуватися на своїй батьківщині."
-
-ERE_legacyofjustinian:0 "Спадщина Юстиніана"
-ERE_legacyofjustinian_desc:0 "Слідуючи спадщині Юстиніана Великого, Константинополь і його імперія нарешті зможуть досягти успіху та перемогти своїх ворогів."
-
-integratedwesterneconomies:0 "Інтеграція західних економік"
-integratedwesterneconomies_desc:0 "Західноримські галузі інтегруються в економічні зусилля Східного Риму."
-
-antirepublicanism:0 "Антиреспубліканізм у Китаї"
-antirepublicanism_desc:0 "Ця країна зайняла позицію проти республіканізму в Китаї."
-
-romaneurope:0 "Хрестовий похід за римську Європу"
-romaneurope_desc:0 "Константинополь зайняв позицію повернення свого законного місця в історії як лідер Європи та вершина цивілізації."
-
-dispersedworkshops:0 "Розпорошені майстерні"
-dispersedworkshops_desc:0 "Без скоординованих зусиль промисловий випуск відстає. Заводи та ремісники працюють розрізнено, обмежуючи виробництво."
-
-neglectedarmy:0 "Занедбана армія"
-neglectedarmy_desc:0 "Колись горді легіони тепер занепадають через нехтування, їхня дисципліна підірвана, а готовність послаблена."
-
-neglectedarmy2:0 "Занедбана армія"
-neglectedarmy2_desc:0 "Колись горді легіони тепер занепадають через нехтування, їхня дисципліна підірвана, а готовність послаблена."
-
-neglectedarmy3:0 "Занедбана армія"
-neglectedarmy3_desc:0 "Колись горді легіони тепер занепадають через нехтування, їхня дисципліна підірвана, а готовність послаблена."
-
-neglectedarmy4:0 "Модернізована армія"
-neglectedarmy4_desc:0 "Константинополь нарешті схаменувся і вклав кошти в свої легіони, відновивши честь, яку вони мали за часів Стародавнього Риму."
-
-eastwestschism:0 "Східно-західний розкол"
-eastwestschism_desc:0 "Колись гордий і єдиний, Рим і Константинополь розійшлися після втрати останнього імператора династії Белізарія в Західному Римі, що призвело до оголошення Константинополем свого брата-імперії нелегітимною. Недавня Іллірійська війна лише погіршила відносини."
-
-eastwestschism2:0 "Східно-західний розкол"
-eastwestschism2_desc:0 "Колись гордий і єдиний, Рим і Константинополь розійшлися після втрати останнього імператора династії Белізарія в Західному Римі, що призвело до оголошення Константинополем свого брата-імперії нелегітимною. Недавня Іллірійська війна лише погіршила відносини."
-
-eastromandiscipline:0 "Східноримська дисципліна"
-eastromandiscipline_desc:0 "Східноримська армія знову здобуває давньоримську честь легіонів — дисципліну, силу та гордість."
-
-imperiallegitimacycampaign:0 "Кампанія імперської легітимності"
-imperiallegitimacycampaign_desc:0 "Протягом століть імперію розділяли питання легітимності, з конкуруючими претендентами в Римі та Константинополі. Згуртовуючи вчених, юристів і літописців, ми розпочинаємо скоординовану кампанію, щоб довести, що наше право на імперський трон є єдино законним. Кожна промова, указ і памфлет зміцнюють ідею, що лише ми втілюємо справжню римську спадщину."
-
-nobleandpatriciansupport:0 "Підтримка дворян і патриціїв"
-nobleandpatriciansupport_desc:0 "Великі доми Риму та Константинополя довго формували долю імперій. Залучаючи їхню лояльність через шлюби, почесті та політичні поступки, ми можемо забезпечити їхню підтримку нашого проєкту об'єднання. З дворянством на нашому боці бачення єдиного Риму отримує легітимність не лише в законі, але й у традиціях."
-
-peopleledunificationmovements:0 "Народні рухи за об'єднання"
-peopleledunificationmovements_desc:0 "Заклик до єдності більше не обмежується палацами та сенатами. Від ринків Константинополя до вулиць Риму сам народ вимагає, щоб імперія знову стала єдиною. Хоча ці рухи неорганізовані, їхню пристрасть не можна ігнорувати; ці народні демонстрації надають нам імпульс, щоб перетворити мрію про об'єднання в реальність."
+ aurelianreforms2:0 "Aurelian Reform Plan"
+ aurelianreforms2_desc:0 "TEST"
+ 
+ aurelianreforms3:0 "Aurelian Reform Plan"
+ aurelianreforms3_desc:0 "TEST"
+ 
+ aurelianreforms_AT:0 "Aurelian Reform Plan"
+ aurelianreforms_AT_desc:0 "TEST"
+ 
+ aurelianreforms_AA:0 "Aurelian Reform Plan"
+ aurelianreforms_AA_desc:0 "TEST"
+ 
+ aurelianreformscompleted1:0 "Aurelian Reforms Completed"
+ aurelianreformscompleted1_desc:0 "TEST"
+
+ aurelianreformscompleted2:0 "Aurelian Reforms Completed"
+ aurelianreformscompleted2_desc:0 "TEST"
+
+ armybill:0 "Army Bill"
+ armybill_desc:0 "TEST"
+
+ ERE_womensarmy:0 "Womens Army Corps"
+ ERE_womensarmy_desc:0 "TEST"
+
+ increasedmilitaryspending1:0 "Increased Military Spending"
+ increasedmilitaryspending1_desc:0 "TEST"
+
+ increasedmilitaryspending2:0 "Increased Military Spending"
+ increasedmilitaryspending2_desc:0 "TEST"
+ 
+ eastromanautoindustry:0 "East Roman Auto-Industry"
+ eastromanautoindustry_desc:0 "TEST"
+ 
+ traditionalflyingdoctrine:0 "Traditional Flying Doctrine"
+ traditionalflyingdoctrine_desc:0 "TEST"
+ 
+ traditionalflyingdoctrine2:0 "Traditional Flying Doctrine"
+ traditionalflyingdoctrine2_desc:0 "TEST"
+ 
+ modernflyingdoctrine:0 "Modern Flying Doctrine"
+ modernflyingdoctrine_desc:0 "TEST"
+ 
+ modernflyingdoctrine2:0 "Modern Flying Doctrine"
+ modernflyingdoctrine_desc:0 "TEST"
+
+ strikewest:0 "Focus on the West"
+ strikewest_desc:0 "The Eastern Romans choose to assist their brothers in the west than consolidate within their homeland."
+
+ ERE_legacyofjustinian:0 "Legacy of Justinian"
+ ERE_legacyofjustinian_desc:0 "By following the legacy of Justinian the Great, can Constantinople and her Empire finally suceed and prevail over its foes. "
+
+ integratedwesterneconomies:0 "Integrated Western Economies"
+ integratedwesterneconomies_desc:0 "Western Roman industries are integrated into East Rome's economic efforts."
+
+ antirepublicanism:0 "Anti-Republican in China"
+ antirepublicanism_desc:0 "This country has taken a stance against all Republicanism in China."
+
+ romaneurope:0 "Crusade For A Roman Europe"
+ romaneurope_desc:0 "Constantinople has taken the stance of taking back its rightful place in history, as leader of Europe and pinnacle of civilisation."
+
+ dispersedworkshops:0 "Dispersed Workshops"
+ dispersedworkshops_desc:0 "Without coordinated effort, industrial output lags. Factories and artisans work at cross purposes, limiting production."
+
+ neglectedarmy:0 "Neglected Army"
+ neglectedarmy_desc:0 "Once proud legions now languish in neglect, their discipline eroded and readiness undermined by neglect."
+
+ neglectedarmy2:0 "Neglected Army"
+ neglectedarmy2_desc:0 "Once proud legions now languish in neglect, their discipline eroded and readiness undermined by neglect."
+
+ neglectedarmy3:0 "Neglected Army"
+ neglectedarmy3_desc:0 "Once proud legions now languish in neglect, their discipline eroded and readiness undermined by neglect."
+
+ neglectedarmy4:0 "Modernised Army"
+ neglectedarmy4_desc:0 "Constantinople has finally come to their senses and invested in their legions, restoring the honour they once had during the times of ancient Rome."
+
+ eastwestschism:0 "East-West Schism"
+ eastwestschism_desc:0 "Once proud and united, Rome and Constantinople has had a falling ever since the loss of the last Belisarius dynastic emperor of West Rome, which resulted in Constantinople declaring its twin empire illegitimate. The recent Illyrian War only eroded its relations even more."
+
+ eastwestschism2:0 "East-West Schism"
+ eastwestschism2_desc:0 "Once proud and united, Rome and Constantinople has had a falling ever since the loss of the last Belisarius dynastic emperor of West Rome, which resulted in Constantinople declaring its twin empire illegitimate. The recent Illyrian War only eroded its relations even more."
+
+ eastromandiscipline:0 "East Roman Discipline"
+ eastromandiscipline_desc:0 "Once again the Eastern Roman army regains its ancient Roman legion honour of discipline, strength, and pride."
+
+ imperiallegitimacycampaign:0 "Imperial Legitimacy Campaign"
+ imperiallegitimacycampaign_desc:0 "For centuries the Empire has been divided by questions of legitimacy, with rival claimants in Rome and Constantinople. By rallying scholars, jurists, and chroniclers, we are mounting a coordinated campaign to prove that our claim to the Imperial throne is the only rightful one. Every speech, decree, and pamphlet strengthens the idea that we alone embody the true Roman legacy."
+
+ nobleandpatriciansupport:0 "Noble and Patrician Support"
+ nobleandpatriciansupport_desc:0 "The great houses of Rome and Constantinople have long shaped the fate of empires. By courting their loyalty through marriages, honors, and political concessions, we can secure their backing for our unification project. With the nobility on our side, the vision of a single Rome gains legitimacy not only in law but in tradition."
+
+ peopleledunificationmovements:0 "People-led Unification Movements"
+ peopleledunificationmovements_desc:0 "The call for unity is no longer confined to palaces and senates. From the marketplaces of Constantinople to the streets of Rome, the people themselves demand that the Empire be one again. Though disorganised, their passion cannot be ignored; these popular demonstrations provide us with the momentum to turn a dream of unification into reality."

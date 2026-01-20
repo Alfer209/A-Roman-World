@@ -1,0 +1,45 @@
+﻿l_english:
+
+rsf.1.t:0 "Suppress the Extremists"
+rsf.1.d:0 "The remnants of the radical factions continue to threaten our young democracy. How shall we handle them?"
+rsf.1.a:0 "Crack down firmly."
+rsf.1.b:0 "We must allow some freedom for dissent."
+
+rsf.2.t:0 "International Socialism"
+rsf.2.d:0 "Our youth and workers are inspired by movements abroad. Shall we support international socialist efforts?"
+rsf.2.a:0 "Yes, with moral and political backing."
+
+rsf.3.t:0 "Finalising National Unity"
+rsf.3.d:0 "Years of revolution and instability have fractured our nation. We must unite all factions behind our social-democratic state."
+rsf.3.a:0 "Reconcile and strengthen unity."
+
+rsf.4.t:0 "Healing the Wounds of 1922"
+rsf.4.d:0 "Decades after the revolution, the scars of 1922 still linger. Our people demand closure and healing."
+rsf.4.a:0 "Embrace reconciliation, reform, and remembrance."
+
+RSF_workerrights:0 "Workers' Rights"
+RSF_workerrights_desc:0 "Basic reforms for labor protections, improving factory efficiency and morale."
+
+RSF_workerrights_2:0 "Advanced Workers' Welfare"
+RSF_workerrights_2_desc:0 "Expand consumer goods and improve living conditions."
+
+RSF_workerrights_3:0 "Educational & Research Reforms"
+RSF_workerrights_3_desc:0 "Invest in education and research to strengthen technological advancement."
+
+RSF_youth_mobilisation:0 "Youth Mobilisation"
+RSF_youth_mobilisation_desc:0 "Organize the youth to instill civic duty and national pride."
+
+moderatecooperation:0 "Moderate Cooperation"
+moderatecooperation_desc:0 "Collaborate with moderate factions to stabilize the government."
+
+RSF_pragmatic_conservatism:0 "Pragmatic Conservatism"
+RSF_pragmatic_conservatism_desc:0 "Concede some stability for economic efficiency and political power."
+
+RSF_workers_councils:0 "Workers' Councils"
+RSF_workers_councils_desc:0 "In the aftermath of upheaval, workers have taken initiative to form local councils. They manage production with surprising efficiency, though constant disputes and competing visions limit stability."
+
+RSF_five_year_plan:0 "Five-Year Plan"
+RSF_five_year_plan_desc:0 "A sweeping program of industrial expansion, the Five-Year Plan aims to harness the nation’s resources with relentless central direction. Factories will rise quickly, but the rigid bureaucracy and social sacrifices weigh heavily on the people."
+
+RSF_social_market:0 "Social Market Economy"
+RSF_social_market_desc:0 "Balancing state oversight with the vitality of private initiative, the Social Market Economy encourages growth while safeguarding social welfare. This hybrid model brings stability and prosperity, though some fear it compromises long-term ambition."

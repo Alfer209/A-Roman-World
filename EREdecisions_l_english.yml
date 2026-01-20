@@ -1,25 +1,30 @@
 ﻿l_english:
 
-ERE_byzantinebur_category:0 "Роздута імперська бюрократія"
-ERE_byzantinebur_category_desc:0 "Візантійська бюрократія повільна, неефективна та застаріла. Військово-промислова машина не може нормально функціонувати."
+ERE_byzantinebur_category: "Imperial Bureaucracy Bloat"
+ERE_byzantinebur_category_desc: "The Byzantine-style bureaucracy is slow, inefficient, and outdated. The military-industrial machine can’t function properly."
 
-ERE_blurboat_mission:0 "Неефективна бюрократія"
-ERE_blurboat_mission_desc:0 "Візантійська бюрократія повільна, неефективна та застаріла. Військово-промислова машина не може нормально функціонувати."
+ERE_blurboat_mission: "Inefficient Bureaucracy"
+ERE_blurboat_mission_desc: "The Byzantine-style bureaucracy is slow, inefficient, and outdated. The military-industrial machine can’t function properly."
 
-ERE_blurboatcomplete_mission:0 "Усунути бюрократичні перепони"
-ERE_blurboatcomplete_mission_desc:0 "Спростити та підвищити ефективність нашої імперської системи."
+ERE_blurboatcomplete_mission: "Cut Red Tape"
+ERE_blurboatcomplete_mission_desc: "Simplify and enhance efficiency of our imperial system."
 
-ERE_blurboatmodernise_mission:0 "Модернізувати адміністрацію"
-ERE_blurboatmodernise_mission_desc:0 "Модернізувати! Модернізувати! Негайно знищити корумповану систему!"
+ERE_blurboatmodernise_mission: "Modernise Adminstration"
+ERE_blurboatmodernise_mission_desc: "Modernise! Modernise! Destroy the corrupt system immediately!"
 
-ERE_blurboatpurge_mission:0 "Очистити від корумпованих чиновників"
-ERE_blurboatpurge_mission_desc:0 "Усунути всіх підозрюваних у корупції, і зробити це швидко"
+ERE_blurboatpurge_mission: "Purge Corrupt Officials"
+ERE_blurboatpurge_mission_desc: "Purge all suspected corruption no matter the cost."
 
-ERE_blurboatpurge:0 "Це усуне неефективну систему, але завдасть шкоди нашому уряду."
-ERE_blurboatmodernise:0 "Це усуне неефективну систему і є найкращим способом це зробити."
+ERE_blurboatpurge: "This will remove the inefficient system, but will take a toll on our government."
+ERE_blurboatmodernise: "This will remove the inefficient system, and the best possible way of doing it."
+ERE_blurboatcomplete: "This will remove the inefficient system, a more moderate option."
+ERE_blurboat: "Leaving this will have drastic consequences on our government for the foreseeable future!"
 
-ERE_blurboatcomplete:0 "Це усуне неефективну систему, більш поміркований варіант."
-ERE_blurboat:0 "Якщо ми виберимо цей варінат, то матимемо серйозні проблеми для нашого уряду в найближчому майбутньому"
+romanleaguecreation: "If the Western Romans accept our call, the Roman League will be formed."
+romanleagueacceptance: "By answering Constantinople's call, the Roman League will be formed."
 
-romanleaguecreation:0 "Якщо Західні Римляни приймуть наш заклик, буде створена Римська Ліга."
-romanleagueacceptance:0 "Відповівши на заклик Константинополя, буде створена Римська Ліга."
+form_spqr_great_rome_empire: "Reunite the Empire"
+form_spqr_great_rome_empire_desc: "It is finally here... we can finally proclaim the reunited Empire."
+
+form_great_spqr_category: "The Reunited Empire"
+form_great_spqr_category_desc: "Controlling all the necessary states of the old Empire may grant us the legitimacy to reunite the Empire...

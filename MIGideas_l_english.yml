@@ -1,145 +1,142 @@
 ﻿l_english:
 
-MING_placated_assembly:0 "Заспокоєна Імперська Асамблея"
-MING_placated_assembly_desc:0 "Через обережні переговори та стратегічне надання обмежених поступок, імперська асамблея була заспокоєна, забезпечуючи політичну стабільність, водночас зберігаючи верховенство трону. Хоча це відбувається ціною деякого уповільнення прогресу у виконанні політики, уряд користується підвищеною політичною маневреністю, що дозволяє лідерам консолідувати владу, забезпечувати союзи та зосереджувати ресурси на зміцненні імперії без постійного страху внутрішніх заворушень."
+MING_placated_assembly:0 "Placated Imperial Assembly"
+MING_placated_assembly_desc:0 "Through careful negotiation and the strategic granting of limited concessions, the imperial assembly has been placated, ensuring political stability while maintaining the primacy of the throne. Though this comes at the cost of some slowed progress in policy execution, the government enjoys increased political maneuverability, allowing leaders to consolidate power, secure alliances, and focus resources on strengthening the empire without the constant fear of internal unrest."
 
-MING_lessons_of_the_revolution:0 "Уроки Революції"
-MING_lessons_of_the_revolution_desc:0 "Шрами минулих повстань та громадянських заворушень не забуті. Покоління військових лідерів та науковців вивчали помилки та тріумфи попередніх повстань, застосовуючи їхні уроки до сучасної армії та повітряних сил. Методи підготовки вдосконалені, доктрини ретельно переглянуті, а досвід на полі бою скрупульозно задокументований. Як наслідок, сили імперії швидше набувають досвіду, можуть тренувати війська з більшою ефективністю та приймати нові тактики за зниженою ціною, гарантуючи, що помилки минулого ніколи не повторяться."
+MING_lessons_of_the_revolution:0 "Lessons of the Revolution"
+MING_lessons_of_the_revolution_desc:0 "The scars of past rebellions and civil unrest have not been forgotten. Generations of military leaders and scholars have studied the mistakes and triumphs of previous uprisings, applying their lessons to the modern army and air force. Training methods have been refined, doctrines carefully reviewed, and battlefield experience meticulously documented. As a result, the empire’s forces gain experience more rapidly, can train troops with greater efficiency, and adopt new tactics at reduced cost, ensuring that the mistakes of the past are never repeated."
 
-MING_rebuilding_efforts:0 "Зусилля з Відбудови"
-MING_rebuilding_efforts_desc:0 "Імперія перебуває в процесі монументального відновлення, відбудовуючи міста, фабрики та інфраструктуру, спустошені роками конфлікту. Ефективність виробництва неухильно зростає, оскільки фабрики модернізуються, тоді як стабільність та задоволеність громадян поступово покращуються. Обережне управління споживчими товарами гарантує, що населення залишається задоволеним та продуктивним, дозволяючи імперії відновити свою економічну силу та закласти основи для оновленого періоду процвітання та промислових досягнень."
+MING_rebuilding_efforts:0 "Rebuilding Efforts"
+MING_rebuilding_efforts_desc:0 "The empire is in the midst of a monumental recovery, rebuilding cities, factories, and infrastructure ravaged by years of conflict. Production efficiency increases steadily as factories are modernized, while stability and civilian satisfaction gradually improve. Careful management of consumer goods ensures that the populace remains content and productive, allowing the empire to regain its economic strength and lay the foundations for a renewed period of prosperity and industrial achievement."
 
-MING_militarisation:0 "Мілітаризація Імперії"
-MING_militarisation_desc:0 "Визнаючи бурхливий світ навколо нас, імперія надала пріоритет розширенню та модернізації своїх військових сил. Перетворюючи цивільні фабрики на військове виробництво та значно інвестуючи у верфі та розвиток сухопутної доктрини, ми гарантуємо, що наші збройні сили залишаються сильними, адаптованими та готовими до будь-якої загрози. Ця мілітаризація гарантує, що імперія може захищати свої кордони, проєктувати силу за океан та швидко реагувати на постійно мінливий геополітичний ландшафт."
+MING_militarisation:0 "Militarisation of the Empire"
+MING_militarisation_desc:0 "Recognizing the turbulent world around us, the empire has prioritized the expansion and modernisation of its military forces. By converting civilian factories to military production and investing heavily in dockyards and land doctrine development, we ensure our armed forces remain strong, adaptable, and prepared for any threat. This militarisation guarantees that the empire can defend its borders, project power overseas, and respond swiftly to the ever-changing geopolitical landscape."
 
-MING_antirepublicans:0 "Опозиція Республіканським Силам"
-MING_antirepublicans_desc:0 "Імперські сили залишаються пильними проти республіканських та сепаратистських фракцій, які прагнуть підірвати авторитет трону. Стратегічне планування, сувора підготовка та обережне розгортання дозволяють нашим арміям здобути перевагу над республіканськими силами, збільшуючи як наступальні, так і оборонні можливості проти таких супротивників. Єдність та стійкість імперії посилюються рішучою відданістю збереженню традиційного управління проти внутрішніх та зовнішніх загроз."
+MING_antirepublicans:0 "Opposition to Republican Forces"
+MING_antirepublicans_desc:0 "The imperial forces remain vigilant against republican and separatist factions that seek to undermine the authority of the throne. Strategic planning, rigorous training, and careful deployment allow our armies to gain an advantage over republican forces, increasing both offensive and defensive capabilities against such adversaries. The empire’s unity and resilience are reinforced by a determined commitment to preserving traditional governance against internal and external threats."
 
-MING_a_chinese_economy:0 "Китайська Економіка"
-MING_a_chinese_economy_desc:0 "Імперія розпочала кампанію економічної модернізації, надаючи пріоритет ефективності фабрик, промисловій потужності та оптимізованим будівельним процесам. Інвестиції в інфраструктуру та новітні виробничі технології гарантують неухильне зростання економіки, при цьому фабрики працюють з максимальною ефективністю, а нові промислові проєкти швидко завершуються. Цей економічний фундамент зміцнює як цивільне життя, так і військову готовність, забезпечуючи процвітання та стабільність по всій імперії."
+MING_a_chinese_economy:0 "A Chinese Economy"
+MING_a_chinese_economy_desc:0 "The empire has embarked on a campaign of economic modernization, prioritizing factory efficiency, industrial capacity, and streamlined construction processes. Investments in infrastructure and the latest production techniques ensure that the economy grows steadily, with factories operating at peak efficiency while new industrial projects are completed rapidly. This economic foundation strengthens both civilian life and military preparedness, securing prosperity and stability across the empire."
 
-unityvirtueprosperity:0 "Єдність, Чеснота та Процвітання"
-unityvirtueprosperity_desc:0 "Народ імперії натхненний спільним почуттям мети та повагою до чеснот традицій та управління. Стабільність зростає, оскільки громадяни приймають ці ідеали, тоді як політична влада тече вільніше, дозволяючи державі ефективніше впроваджувати реформи та реагувати на кризи. Гармонія населення підкріплює силу імперії, забезпечуючи стійке суспільство, готове зустрічати виклики з рішучістю та лояльністю."
+unityvirtueprosperity:0 "Unity, Virtue, and Prosperity"
+unityvirtueprosperity_desc:0 "The people of the empire are inspired by a shared sense of purpose and a reverence for the virtues of tradition and governance. Stability increases as citizens embrace these ideals, while political power flows more freely, allowing the state to implement reforms and respond to crises more effectively. The harmony of the populace underpins the empire’s strength, ensuring a resilient society prepared to face challenges with determination and loyalty."
 
-strengthordersoverignity:0 "Сила, Порядок та Суверенітет"
-strengthordersoverignity_desc:0 "Імперія наголошує на військовій готовності, дисциплінованому управлінні та підтримці суверенного авторитету. Військова підтримка посилюється, а армії швидше набувають досвіду, але суворі заходи, необхідні для підтримання порядку, можуть іноді напружувати внутрішню стабільність. Тим не менш, ці жертви вважаються необхідними для проєктування сили, збереження територіальної цілісності та утвердження законного місця імперії серед націй світу."
+strengthordersoverignity:0 "Strength, Order, and Sovereignty"
+strengthordersoverignity_desc:0 "The empire emphasizes martial readiness, disciplined governance, and the maintenance of sovereign authority. War support is bolstered, and armies gain greater experience, but the stringent measures required to maintain order may sometimes strain internal stability. Nonetheless, these sacrifices are deemed essential to project power, maintain territorial integrity, and assert the empire’s rightful place among the nations of the world."
 
-bloodobediencedestiny:0 "Кров, Покора та Доля"
-bloodobediencedestiny_desc:0 "Сила імперії черпається з непохитної лояльності, ієрархічного порядку та безперервної спадкоємності династичного авторитету. Політична влада генерується з надзвичайною ефективністю, дозволяючи уряду діяти рішуче, але ціною певної внутрішньої напруги. Цей баланс відданості та авторитету гарантує, що імперія слідує своїм призначеним шляхом, укріплена рішучістю свого народу та незмінною спадщиною своїх правителів."
+bloodobediencedestiny:0 "Blood, Obedience, and Destiny"
+bloodobediencedestiny_desc:0 "The empire’s strength is drawn from unwavering loyalty, hierarchical order, and the unbroken continuity of dynastic authority. Political power is generated with remarkable efficiency, allowing the government to act decisively, but at the cost of certain internal tensions. This balance of devotion and authority ensures the empire follows its destined path, fortified by the resolve of its people and the enduring legacy of its rulers."
 
-fruits_of_japan:0 "Плоди Японії"
-fruits_of_japan_desc:0 "Через торгівлю, придбання ресурсів та обережне управління закордонними відносинами, імперія отримує вигоду від розширеного доступу до необхідної сировини. Промислове будівництво прогресує ефективніше, а місцеві ресурси експлуатуються на повну потужність. Ці зусилля забезпечують імперії економічний та промисловий фундамент, необхідний для підтримки експансії, модернізації та створення самодостатнього військово-промислового комплексу."
+fruits_of_japan:0 "Fruits of Japan"
+fruits_of_japan_desc:0 "In the aftermath of the §YFirst Concession War§!, the §YTreaty of Nagasaki§! forced Japan to surrender a chain of §Yconcession cities§! to the victorious coalition of §GEast Rome, West Rome, the Teutonic Empire, Great Britain, Russia, and Ming§!. These enclaves stand not only as monuments to Japan’s humiliation, but as lucrative gateways for trade, profit, and influence in the East."
 
-MIG_foreign_contracts:0 "Іноземні Контракти"
-MIG_foreign_contracts_desc:0 "Імперія уклала вигідні угоди з іноземними державами, надаючи доступ до передового обладнання та виробничих технологій. Фабрики отримують вигоду від швидших темпів будівництва, тоді як виробництво споживчих товарів дещо зменшується, щоб надати пріоритет військовому та промисловому випуску. Ці контракти забезпечують як негайні ресурси, так і довгострокову передачу знань, зміцнюючи нашу промислову базу та забезпечуючи стабільне постачання необхідних матеріалів."
+MIG_foreign_contracts:0 "Foreign Contracts"
+MIG_foreign_contracts_desc:0 "The empire has entered into profitable agreements with foreign powers, granting access to advanced equipment and production techniques. Factories benefit from faster construction rates, while consumer goods production is slightly reduced to prioritize military and industrial output. These contracts provide both immediate resources and long-term knowledge transfer, strengthening our industrial base and ensuring a steady supply of essential materiel."
 
-MIG_foreign_production:0 "Підтримка Іноземного Виробництва"
-MIG_foreign_production_desc:0 "Використовуючи міжнародний досвід та промислові 'ноу-хау', імперія прискорює виробництво піхотного обладнання, артилерії та броньованих машин. Доступ до передових іноземних проєктів та технологій зменшує витрати та час виробництва, дозволяючи нашим збройним силам швидко модернізуватися та підтримувати технологічну перевагу над потенційними супротивниками. Вливання іноземних ресурсів зміцнює як наші військові, так і нашу спроможність для стійкого промислового зростання."
+MIG_foreign_production:0 "Foreign Production Support"
+MIG_foreign_production_desc:0 "By leveraging international expertise and industrial know-how, the empire accelerates the production of infantry equipment, artillery, and armored vehicles. Access to advanced foreign designs and techniques reduces costs and production time, allowing our armed forces to modernize swiftly and maintain a technological edge over potential adversaries. The infusion of foreign resources strengthens both our military and our capacity for sustained industrial growth."
 
-MIG_foreign_investors:0 "Іноземні Інвестори"
-MIG_foreign_investors_desc:0 "Інвестиції від закордонних фінансистів приносять критично важливий капітал та досвід у промисловий сектор імперії. Фабрики працюють ефективніше, виробничі лінії швидко адаптуються, і загальний промисловий випуск зростає. Хоча політичний вплив іноземних інвесторів дещо обмежує урядове прийняття рішень, відчутні переваги для виробництва та технологічного розвитку надають імперії міцніший економічний фундамент та покращену здатність підтримувати військове розширення."
+MIG_foreign_investors:0 "Foreign Investors"
+MIG_foreign_investors_desc:0 "Investment from overseas financiers brings critical capital and expertise to the empire’s industrial sector. Factories operate more efficiently, production lines adapt swiftly, and overall industrial output grows. While political influence from foreign investors slightly constrains governmental decision-making, the tangible benefits to production and technological development provide the empire with a stronger economic foundation and improved capacity to support military expansion."
 
-MIG_western_railways:0 "Західні Залізниці"
-MIG_western_railways_desc:0 "Розширення сучасних залізниць, спроєктованих та профінансованих за іноземною допомогою, революціонізувало транспорт по всій імперії. Сировина, готова продукція та війська можуть пересуватися з безпрецедентною швидкістю, тоді як місцеві ресурси експлуатуються ефективніше. Ця інфраструктура не лише зміцнює комерцію та промисловість, але й забезпечує швидку стратегічну мобільність, дозволяючи імперії швидко реагувати на загрози та проєктувати силу на своїх територіях."
+MIG_western_railways:0 "Western Railways"
+MIG_western_railways_desc:0 "The expansion of modern railways, designed and funded with foreign expertise, has revolutionized transport across the empire. Raw materials, finished goods, and troops can move with unprecedented speed, while local resources are exploited more efficiently. This infrastructure not only strengthens commerce and industry but also ensures rapid strategic mobility, allowing the empire to respond to threats swiftly and project power across its territories."
 
-kaiping_mines:0 "Копальні Кайпін"
-kaiping_mines_desc:0 "Експлуатація Кайпінських мінеральних родовищ стала наріжним каменем промислового зростання імперії. Фабрики, збройові заводи та важка промисловість отримують вигоду від стабільного потоку сировини, тоді як дослідження в галузі видобутку покращують ефективність. Ці копальні забезпечують як негайні ресурси для виробництва, так і довгострокове технологічне розуміння, підкріплюючи прагнення імперії до економічної та військової модернізації."
+kaiping_mines:0 "Kaiping Mines"
+kaiping_mines_desc:0 "The exploitation of the Kaiping mineral fields has become a cornerstone of the empire’s industrial growth. Factories, arms plants, and heavy industry benefit from a steady stream of raw materials, while research into mining techniques improves efficiency. These mines provide both immediate resources for production and long-term technological insight, underpinning the empire’s drive for economic and military modernization."
 
-daye_hanyang:0 "Промислова Експансія в Дає та Ханьян"
-daye_hanyang_desc:0 "Промислові центри Дає та Ханьян переживають безпрецедентне зростання, з фабриками та збройовими заводами, що працюють на максимальній потужності. Збільшена швидкість виробництва та промислова ефективність дозволяють швидко розширювати інфраструктуру, тоді як дослідження передових технологій гарантують, що ці регіони залишаються на передовій зусиль імперії з модернізації. Це розширення зміцнює як економічну, так і військову міць, цементуючи промислову основу імперії."
+daye_hanyang:0 "Daye and Hanyang Industrial Expansion"
+daye_hanyang_desc:0 "The industrial hubs of Daye and Hanyang are undergoing unprecedented growth, with factories and arms plants operating at maximum capacity. Increased production speed and industrial efficiency enable rapid expansion of infrastructure, while research into advanced techniques ensures these regions remain at the forefront of the empire’s modernization efforts. This expansion fortifies both economic and military strength, cementing the empire’s industrial backbone."
 
-achinaunited:0 "Об'єднаний Китай"
-achinaunited_desc:0 "Імперія успішно консолідувала контроль над раніше розколотими регіонами, приносячи єдність та порядок на землю. Промислова потужність максимізована, будівельні проєкти швидко просуваються, а додаткові слоти для будівництва в ключових провінціях дозволяють швидко розвиватися. Ця єдність не лише зміцнює економічну та військову базу імперії, але й посилює оборонні можливості, забезпечуючи, що внутрішня згуртованість підкріплює національну безпеку."
+achinaunited:0 "A United China"
+achinaunited_desc:0 "The empire has successfully consolidated control over previously fractured regions, bringing unity and order to the land. Industrial capacity is maximized, construction projects progress swiftly, and additional building slots in key provinces allow for rapid development. This unity not only strengthens the economic and military base of the empire but also enhances defensive capabilities, ensuring that internal cohesion underpins national security."
 
-distributed_real_country:0 "Розподілена Справжня Країна"
-distributed_real_country_desc:0 "Імперія підтримує стабільність та промислову ефективність, балансуючи регіональний розвиток із централізованим наглядом. Фабрики працюють на повну потужність, і населення відчуває підвищену політичну та соціальну стабільність. Цей обережний розподіл ресурсів та влади гарантує, що імперія залишається стійкою, здатною витримувати кризи, водночас продовжуючи свою програму промислового та військового прогресу."
+distributed_real_country:0 "Distributed Real Country"
+distributed_real_country_desc:0 "The empire maintains stability and industrial efficiency by balancing regional development with centralized oversight. Factories operate at full potential, and the populace experiences enhanced political and social stability. This careful distribution of resources and power ensures that the empire remains resilient, capable of enduring crises while continuing its program of industrial and military advancement."
 
-thedragonemperor:0 "Імператор Дракон"
-thedragonemperor_desc:0 "Правлячий Імператор Дракон забезпечує фігуру стабільності та натхнення для імперії. Під його керівництвом виробництво та будівництво йдуть ефективно, водночас підтримується політична стабільність. Присутність імператора посилює легітимність держави, забезпечуючи безперервність управління та збереження традиційного авторитету по всій імперії."
+thedragonemperor:0 "The Dragon Emperor"
+thedragonemperor_desc:0 "The reigning Dragon Emperor provides a figure of stability and inspiration for the empire. Under his guidance, production and construction proceed efficiently, while political stability is maintained. The emperor’s presence reinforces the legitimacy of the state, ensuring the continuity of governance and the preservation of traditional authority across the realm."
 
-thedragonemperor2:0 "Імператор Дракон"
-thedragonemperor2_desc:0 "Правлячий Імператор Дракон забезпечує фігуру стабільності та натхнення для імперії. Під його керівництвом виробництво та будівництво йдуть ефективно, водночас підтримується політична стабільність. Присутність імператора посилює легітимність держави, забезпечуючи безперервність управління та збереження традиційного авторитету по всій імперії."
+thedragonemperor2:0 "The Dragon Emperor"
+thedragonemperor2_desc:0 "The reigning Dragon Emperor provides a figure of stability and inspiration for the empire. Under his guidance, production and construction proceed efficiently, while political stability is maintained. The emperor’s presence reinforces the legitimacy of the state, ensuring the continuity of governance and the preservation of traditional authority across the realm."
 
-consolidatedinternationalindustries:0 "Консолідовані Міжнародні Промисловості"
-consolidatedinternationalindustries_desc:0 "Через стратегічні злиття та партнерства з міжнародними промисловими фірмами, імперія розширила свою спроможність для виробництва та технологічного прогресу. Фабрики досягають вищої ефективності, промисловий випуск зростає, а нові будівельні проєкти прискорюються. Хоча виникає певна напруга від централізації цих галузей, імперія отримує вигоду від неперевершених виробничих можливостей та посиленої економічної могутності."
+consolidatedinternationalindustries:0 "Consolidated International Industries"
+consolidatedinternationalindustries_desc:0 "Through strategic mergers and partnerships with international industrial firms, the empire has expanded its capacity for production and technological advancement. Factories achieve higher efficiency, industrial output increases, and new construction projects are accelerated. While some tension arises from centralizing these industries, the empire benefits from unparalleled manufacturing capabilities and enhanced economic power."
 
-cooperatingwithteutons:0 "Співпраця з Тевтонськими Інженерами"
-cooperatingwithteutons_desc:0 "Співпраця з Тевтонськими інженерами дозволяє імперії оптимізувати дослідження сухопутної доктрини, ефективніше приймаючи передові військові технології. Це партнерство сприяє швидкій модернізації армії, забезпечуючи, що наші сили залишаються конкурентоспроможними на полі бою та здатними виконувати складні операції з точністю."
+cooperatingwithteutons:0 "Cooperation with Teutonic Engineers"
+cooperatingwithteutons_desc:0 "Collaborating with Teutonic engineers allows the empire to streamline its land doctrine research, adopting advanced military techniques more efficiently. This partnership facilitates rapid modernization of the army, ensuring that our forces remain competitive on the battlefield and capable of executing complex operations with precision."
 
-MIG_eastromansupport:0 "Східноримська Підтримка"
-MIG_eastromansupport_desc:0 "Допомога від Східної Римської Імперії надає імперії цінні знання у військовій доктрині та організаційній стратегії. Дослідження сухопутної доктрини прискорюється, уможливлюючи ефективнішу розробку тактик та оперативних процедур. Ця підтримка гарантує, що наші збройні сили можуть приймати найкращі практики з-за кордону, водночас зберігаючи національні традиції та стратегічну автономію."
+MIG_eastromansupport:0 "Eastern Roman Support"
+MIG_eastromansupport_desc:0 "Assistance from the Eastern Roman Empire provides the empire with valuable knowledge in military doctrine and organizational strategy. Land doctrine research is accelerated, enabling more effective development of tactics and operational procedures. This support ensures that our armed forces can adopt best practices from abroad while preserving national traditions and strategic autonomy."
 
-MIG_eastromansupport2:0 "Східноримська Підтримка"
-MIG_eastromansupport2_desc:0 "Допомога від Східної Римської Імперії надає імперії цінні знання у військовій доктрині та організаційній стратегії. Дослідження сухопутної доктрини прискорюється, уможливлюючи ефективнішу розробку тактик та оперативних процедур. Ця підтримка гарантує, що наші збройні сили можуть приймати найкращі практики з-за кордону, водночас зберігаючи національні традиції та стратегічну автономію."
+MIG_eastromansupport2:0 "Eastern Roman Support"
+MIG_eastromansupport2_desc:0 "Assistance from the Eastern Roman Empire provides the empire with valuable knowledge in military doctrine and organizational strategy. Land doctrine research is accelerated, enabling more effective development of tactics and operational procedures. This support ensures that our armed forces can adopt best practices from abroad while preserving national traditions and strategic autonomy."
 
-MIG_a_fractured_mandate:0 "Розколотий Мандат"
-MIG_a_fractured_mandate_desc:0 "Імперія стикається з внутрішніми розколами та політичною фрагментацією, що підриває центральну владу. Стабільність хитка, і політичну владу важче ефективно здійснювати. Захист від відхилень страждає, вимагаючи обережного управління як внутрішніми, так і військовими справами. Радники коштують дорожче, що відображає виклик управління розділеною державою. Незважаючи на ці труднощі, імперія зберігає потенціал для відновлення через стратегічну реформу та консолідацію влади."
+MIG_a_fractured_mandate:0 "A Fractured Mandate"
+MIG_a_fractured_mandate_desc:0 "The empire faces internal divisions and political fragmentation, undermining central authority. Stability is tenuous, and political power is harder to exercise efficiently. Drift defense suffers, requiring careful management of both domestic and military affairs. Advisors are more costly, reflecting the challenge of governing a divided state. Despite these difficulties, the empire retains potential for recovery through strategic reform and consolidation of power."
 
-anti_japanese_warriors:0 "Антияпонські Воїни"
-anti_japanese_warriors_desc:0 "Патріотичні воїни та місцеві ополчення стоять пильно проти Японців. Їхня хоробрість та тактична майстерність підвищують ефективність імперських сил в операціях проти Японії, посилюючи як наступальну, так і оборонну ефективність. Ці воїни втілюють дух опору, надихаючи ширше населення та зміцнюючи рішучість імперії захищати свій суверенітет за будь-яку ціну."
+anti_japanese_warriors:0 "Anti-Japanese Warriors"
+anti_japanese_warriors_desc:0 "Patriotic warriors and local militias stand vigilant against the Japanese. Their bravery and tactical skill increase the effectiveness of imperial forces in operations against Japan, enhancing both offensive and defensive performance. These warriors embody the spirit of resistance, inspiring the broader population and reinforcing the empire’s determination to defend its sovereignty at all costs."
 
-indonesianliberationcampaign:0 "Індонезійська Визвольна Кампанія"
-indonesianliberationcampaign_desc:0 "Імперія виділила ресурси на підтримку визвольних рухів за кордоном, зокрема в архіпелазі Індонезії. Амфібійні операції посилюються, виснаження мінімізується, а атаки на малі держави стають ефективнішими. Ці кампанії зміцнюють імперський вплив за океаном, демонструють військові можливості та надають цінний досвід в експедиційній війні, забезпечуючи стратегічні позиції та сприяючи союзам у віддалених регіонах."
+indonesianliberationcampaign:0 "Indonesian Liberation Campaign"
+indonesianliberationcampaign_desc:0 "The empire has committed resources to supporting liberation movements abroad, particularly in the archipelago of Indonesia. Amphibious operations are enhanced, attrition minimized, and attacks on minor powers are more effective. These campaigns strengthen imperial influence overseas, demonstrate military capability, and provide valuable experience in expeditionary warfare, securing strategic positions and fostering alliances in distant regions."
 
-MIG_stockpiling_fuel:0 "Стратегічні Запаси Палива"
-MIG_stockpiling_fuel_desc:0 "Імперія надала пріоритет накопиченню та управлінню запасами палива для армії, флоту та повітряних сил. Зменшене споживання палива всіма силами, у поєднанні зі швидшим будівництвом сховищ палива, гарантує, що імперія залишається оперативно гнучкою та здатною підтримувати тривалі військові кампанії, як удома, так і за кордоном."
+MIG_stockpiling_fuel:0 "Strategic Fuel Stockpiles"
+MIG_stockpiling_fuel_desc:0 "The empire has prioritized the accumulation and management of fuel reserves for the army, navy, and air force. Reduced fuel consumption across all forces, combined with faster construction of fuel storage facilities, ensures that the empire remains operationally flexible and capable of sustaining extended military campaigns, both at home and abroad."
 
-MIG_imperial_marines:0 "Імперська Морська Піхота"
-MIG_imperial_marines_desc:0 "Спеціалізовані амфібійні підрозділи підвищують здатність імперії проводити прибережні штурми та закордонні операції. Ця елітна морська піхота збільшує спроможність вторгнення, покращує швидкість підготовки та високо навчена для швидкого розгортання, забезпечуючи, що імперія може проєктувати силу через річки, узбережжя та острови з винятковою ефективністю та тактичною точністю."
+MIG_imperial_marines:0 "Imperial Marines"
+MIG_imperial_marines_desc:0 "Specialized amphibious units enhance the empire’s ability to conduct coastal assaults and overseas operations. These elite marines increase invasion capacity, improve preparation speed, and are highly trained for rapid deployment, ensuring that the empire can project force across rivers, coasts, and islands with exceptional efficiency and tactical precision."
 
-MIG_superior_navy:0 "Вищий Флот"
-MIG_superior_navy_desc:0 "Через модернізацію та сувору підготовку імперський флот досягає вищих можливостей. Доктрини приймаються за зниженою ціною, моральний дух флоту посилюється, а штрафи за рух ударної сили мінімізуються. Це гарантує, що військово-морські сили імперії здатні захищати торговельні шляхи, забезпечувати територіальні води та ефективно проєктувати морську силу."
+MIG_superior_navy:0 "Superior Navy"
+MIG_superior_navy_desc:0 "Through modernization and rigorous training, the imperial navy achieves superior capabilities. Doctrines are adopted at reduced cost, fleet morale is enhanced, and strike force movement penalties are minimized. This ensures that the empire’s naval forces are capable of protecting trade routes, securing territorial waters, and projecting maritime power effectively."
 
-MIG_chinese_flotilla:0 "Китайська Флотилія"
-MIG_chinese_flotilla_desc:0 "Зосереджуючись на менших кораблях та підводних човнах, імперія розробляє спеціалізовані флотилії, здатні до рейдерства конвоїв, морських сутичок та операцій швидкого реагування. Підводні човни ефективніше відступають, критично важливі військово-морські дії мають вищий відсоток успіху, і вся флотилія діє з посиленою координацією, максимізуючи стратегічну корисність наших менших військово-морських підрозділів."
+MIG_chinese_flotilla:0 "Chinese Flotilla"
+MIG_chinese_flotilla_desc:0 "Focused on smaller ships and submarines, the empire develops specialized flotillas capable of convoy raiding, naval skirmishes, and rapid response operations. Submarines retreat more effectively, critical naval actions have higher success rates, and the entire flotilla operates with enhanced coordination, maximizing the strategic utility of our smaller naval units."
 
-MIG_naval_intelligence:0 "Морська Розвідка"
-MIG_naval_intelligence_desc:0 "Передова криптографія та збір розвідувальних даних покращують військово-морські операції імперії. Флот отримує вигоду від швидшої дешифровки та посиленої ефективності розвідки, надаючи командирам кращу інформацію для стратегічного прийняття рішень, тактичних маневрів та оперативного планування на всіх театрах морського залучення."
+MIG_naval_intelligence:0 "Naval Intelligence"
+MIG_naval_intelligence_desc:0 "Advanced cryptography and intelligence-gathering improve the empire’s naval operations. The navy benefits from faster decryption and enhanced intelligence efficiency, providing commanders with better information for strategic decision-making, tactical maneuvers, and operational planning across all theaters of maritime engagement."
 
-MIG_a_fractured_mandate2:0 "Розколотий Мандат"
-MIG_a_fractured_mandate2_desc:0 "Імперія продовжує боротися з внутрішніми політичними розколами та фрагментованою владою. Хоча стабільність маргінально підтримується, спроможність держави здійснювати владу обмежена, а захист від відхилень страждає. Управління вимагає обережного менеджменту для запобігання подальшого ослаблення, але залишаються можливості для консолідації влади та відновлення єдності та сили імперії з часом."
+MIG_a_fractured_mandate2:0 "A Fractured Mandate"
+MIG_a_fractured_mandate2_desc:0 "The empire continues to struggle with internal political divisions and fragmented authority. While stability is marginally maintained, the state’s ability to exercise power is constrained and drift defense suffers. Governance requires careful management to prevent further weakening, yet opportunities remain to consolidate power and restore the empire’s unity and strength over time."
 
-theguanziyingarmy:0 "Армія Гуанцзіїн"
-theguanziyingarmy_desc:0 "Армія Гуанцзіїн втілює дисципліновану, традиційну військову міць імперії. Війська ефективно тренуються, польові офіцери можуть бути підвищені з меншими витратами, а медалі надихають лояльність та моральний дух. Хоча відновлення організації відбувається поступово, обережна підготовка забезпечує, що ці війська формують надійну основу сухопутних сил імперії, здатних тримати лінію в тривалих конфліктах."
+theguanziyingarmy:0 "The Guanziying Army"
+theguanziyingarmy_desc:0 "The Guanziying Army embodies the disciplined, traditional military might of the empire. Troops train efficiently, field officers can be promoted with lower cost, and medals inspire loyalty and morale. Though regaining organization is gradual, careful preparation ensures that these troops form a reliable backbone of the empire’s land forces, capable of holding the line in prolonged conflicts."
 
-theguanziyingarmytraditional:0 "Армія Гуанцзіїн"
-theguanziyingarmytraditional_desc:0 "Вкорінена в історичній тактиці та освячених часом формуваннях, традиційна Армія Гуанцзіїн відмінно справляється як в атаці, так і в обороні. Армія отримує скромні бонуси до бойової ефективності та прийняття доктрини, відображаючи силу досвіду, дисципліни та тактичної спадкоємності, що передається через покоління імперських солдатів."
+theguanziyingarmytraditional:0 "Guanziying Army"
+theguanziyingarmytraditional_desc:0 "Rooted in historical tactics and time-honored formations, the traditional Guanziying Army excels in both attack and defense. The army gains modest bonuses to combat performance and doctrine adoption, reflecting the strength of experience, discipline, and tactical continuity passed down through generations of imperial soldiers."
 
-theguanziyingarmyoverwhelm:0 "Армія Гуанцзіїн"
-theguanziyingarmyoverwhelm_desc:0 "З посиленою підготовкою та агресивними доктринами, Армія Гуанцзіїн досягає домінування на полі бою. Війська завдають сильніших ударів, ефективніше захищаються та швидко відновлюють організацію, дозволяючи командирам виконувати рішучі операції та перевантажувати супротивників через вищу концентрацію сил та скоординовані маневри."
+theguanziyingarmyoverwhelm:0 "Guanziying Army"
+theguanziyingarmyoverwhelm_desc:0 "With enhanced training and aggressive doctrines, the Guanziying Army achieves dominance on the battlefield. Troops strike harder, defend more effectively, and regain organization rapidly, allowing commanders to execute decisive operations and overwhelm opponents through superior force concentration and coordinated maneuvers."
 
-theguanziyingarmyexpansion:0 "Армія Гуанцзіїн"
-theguanziyingarmyexpansion_desc:0 "Імперія зосереджується на розширенні бронетанкових та механізованих дивізій в Армії Гуанцзіїн. Танки та мобільні підрозділи діють зі збільшеною швидкістю та ефективністю, тоді як операції об'єднаних родів військ покращують загальну мобільність на полі бою. Це розширення зміцнює наступальні можливості та підвищує здатність імперії реагувати на численні загрози одночасно."
+theguanziyingarmyexpansion:0 "Guanziying Army"
+theguanziyingarmyexpansion_desc:0 "The empire focuses on expanding armored and mechanized divisions within the Guanziying Army. Tanks and mobile units operate with increased speed and effectiveness, while combined arms operations improve overall battlefield mobility. This expansion strengthens offensive capabilities and enhances the empire’s ability to respond to multiple threats simultaneously."
 
-theguanziyingarmygreenstandards:0 "Армія Гуанцзіїн"
-theguanziyingarmygreenstandards_desc:0 "Включення елітних підрозділів 'Зеленого Штандарту' (Green Standard) дозволяє Армії Гуанцзіїн поєднати традиційну піхотну дисципліну з модернізованою бронетехнікою та мобільністю. Бонуси до атаки та оборони покращуються, бронетанкові підрозділи завдають потужніших ударів та маневрують ефективніше, а відновлення організації відбувається швидше, роблячи ці сили високо адаптованими як у конвенційній, так і в мобільній війні."
+theguanziyingarmygreenstandards:0 "Guanziying Army"
+theguanziyingarmygreenstandards_desc:0 "By incorporating elite Green Standard units, the Guanziying Army combines traditional infantry discipline with modernized armor and mobility. Attack and defense bonuses improve, armored units strike more powerfully and maneuver more efficiently, and regaining organization occurs faster, making these forces highly adaptable in both conventional and mobile warfare."
 
-theguanziyingarmysuperior1:0 "Армія Гуанцзіїн"
-theguanziyingarmysuperior1_desc:0 "Армія Гуанцзіїн 'Вищий I' демонструє досконалість на полі бою. Піхота, бронетехніка та доктрини оптимізовані для максимальної ефективності, з швидким відновленням організації та швидшим окопуванням. Ці елітні формування становлять рішуче ядро, здатне виконувати складні операції та швидко адаптуватися до мінливих умов поля бою."
+theguanziyingarmysuperior1:0 "Guanziying Army"
+theguanziyingarmysuperior1_desc:0 "The Superior I Guanziying Army exemplifies battlefield excellence. Infantry, armor, and doctrines are optimized for maximum performance, with rapid recovery of organization and faster entrenchment. These elite formations form a decisive core capable of executing complex operations and adapting quickly to changing battlefield conditions."
 
-theguanziyingarmysuperior2:0 "Армія Гуанцзіїн"
-theguanziyingarmysuperior2_desc:0 "Підрозділи 'Вищий II' Армії Гуанцзіїн — це елітні сили, що поєднують виняткові можливості атаки та оборони, вищу броньовану ефективність та підвищену швидкість. Їхня організація швидко відновлюється, надаючи командирам можливість розпочинати стійкі операції та підтримувати домінування на багатьох фронтах."
+theguanziyingarmysuperior2:0 "Guanziying Army"
+theguanziyingarmysuperior2_desc:0 "Superior II units of the Guanziying Army are elite forces combining exceptional attack and defense capabilities, superior armored effectiveness, and enhanced speed. Their organization recovers swiftly, providing commanders with the ability to launch sustained operations and maintain dominance across multiple fronts."
 
-new_armoured_divisions:0 "Нові Бронетанкові Дивізії"
-new_armoured_divisions_desc:0 "Імперія інвестувала в сучасні бронетанкові дивізії, покращуючи можливості механізованої війни та зменшуючи витрати на доктрину. Танки виробляються ефективніше та доступні негайно, дозволяючи швидке розгортання бронетанкових підрозділів, які можуть проникати через ворожі лінії, захоплювати ключові об'єкти та підтримувати наступ піхоти рішучою силою."
+new_armoured_divisions:0 "New Armored Divisions"
+new_armoured_divisions_desc:0 "The empire has invested in modern armored divisions, improving mechanized warfare capabilities and reducing doctrine costs. Tanks are produced more efficiently and available immediately, enabling rapid deployment of armored units that can penetrate enemy lines, secure key objectives, and support infantry advances with decisive force."
 
-imperial_airforce_of_china:0 "Імперські Повітряні Сили Китаю"
-imperial_airforce_of_china_desc:0 "Повітряні сили імперії швидше набувають додаткового досвіду, гарантуючи, що пілоти та ескадрильї покращуються з кожною операцією. Ця професіоналізація зміцнює повітряні операції, посилює бойову готовність та покращує координацію з сухопутними та військово-морськими силами, сприяючи загальній стратегічній гнучкості."
+imperial_airforce_of_china:0 "Imperial Airforce of China"
+imperial_airforce_of_china_desc:0 "The empire’s air force gains incremental experience more rapidly, ensuring that pilots and squadrons improve with each operation. This professionalization strengthens aerial operations, enhances combat readiness, and improves coordination with ground and naval forces, contributing to overall strategic flexibility."
 
-imperial_airforce_of_china2:0 "Імперські Повітряні Сили Китаю"
-imperial_airforce_of_china2_desc:0 "Окрім набуття досвіду, повітряні сили приймають доктрини за зниженою ціною та ефективніше виробляють асів. Пілоти та ескадрильї можуть виконувати передові операції, тоді як загальна організація та готовність повітряних сил покращуються. Ці досягнення забезпечують вищу ефективність як у оборонних, так і в наступальних місіях."
+imperial_airforce_of_china2:0 "Imperial Airforce of China"
+imperial_airforce_of_china2_desc:0 "In addition to experience gains, the air force adopts doctrines at reduced cost and produces aces more efficiently. Pilots and squadrons can perform advanced operations, while the overall organization and readiness of the air force improve. These advancements ensure superior performance in both defensive and offensive missions."
 
-imperial_airforce_of_china3:0 "Імперські Повітряні Сили Китаю"
-imperial_airforce_of_china3_desc:0 "Повністю модернізовані повітряні сили отримують вигоду від посиленого досвіду, швидшого прийняття доктрини, збільшеної генерації асів та додаткової промислової потужності для виробництва. Ця всеосяжна модернізація уможливлює стійку перевагу в повітрі, швидке розгортання повітряних активів та ефективну підтримку сухопутних та морських операцій."
+imperial_airforce_of_china3:0 "Imperial Airforce of China"
+imperial_airforce_of_china3_desc:0 "The fully modernised air force benefits from enhanced experience, faster doctrine adoption, increased ace generation, and additional industrial capacity for production. This comprehensive modernization enables sustained air superiority, rapid deployment of air assets, and effective support for land and naval operations."
 
-MIG_superior_navy:0 "Вищий Флот"
-MIG_superior_navy_desc:0 "Флот імперії досяг вищої якості та організації, з ефективним прийняттям доктрин, посиленим моральним духом та мінімізованими штрафами за рух ударної сили. Кораблі готові до тривалих операцій, захисту торгівлі та швидкого розгортання, забезпечуючи панування на морі як у оборонних, так і в наступальних сценаріях."
+MIG_superior_navy2:0 "Superior Navy"
+MIG_superior_navy2_desc:0 "Building on prior achievements, this naval force maintains reduced doctrine costs, high morale, and enhanced strike force performance. Screening and consumer goods efficiency are improved, giving the empire a well-coordinated, resilient fleet capable of sustaining prolonged campaigns and projecting power across the seas."
 
-MIG_superior_navy2:0 "Вищий Флот"
-MIG_superior_navy2_desc:0 "Спираючись на попередні досягнення, ця військово-морська сила підтримує знижені витрати на доктрину, високий моральний дух та посилену ефективність ударної сили. Покращена ефективність скринінгу та споживчих товарів надає імперії добре скоординований, стійкий флот, здатний підтримувати тривалі кампанії та проєктувати силу через моря."
+MIG_superior_navy3:0 "Superior Navy"
+MIG_superior_navy3_desc:0 "This iteration of the navy maintains all previous advantages, including efficient doctrines, high morale, and effective strike force movement. Minor boosts to consumer goods production further enhance logistical support. The fleet operates as a cohesive, powerful instrument of imperial policy, capable of dominating regional waters and supporting global ambitions."
 
-MIG_superior_navy3:0 "Вищий Флот"
-MIG_superior_navy3_desc:0 "Ця ітерація флоту зберігає всі попередні переваги, включаючи ефективні доктрини, високий моральний дух та ефективний рух ударної сили. Незначні бонуси до виробництва споживчих товарів ще більше покращують логістичну підтримку. Флот діє як згуртований, потужний інструмент імперської політики, здатний домінувати в регіональних водах та підтримувати глобальні амбіції."
-
-strengtheningcivilianadminstration:0 "Зміцнення Цивільної Адміністрації"
-strengtheningcivilianadminstration_desc:0 "Зміцнюючи цивільний аспект політичного тіла Мінської Імперії, буде забезпечена більша співпраця між керуючими дворами Серединного Царства."
+strengtheningcivilianadminstration:0 "Strengthening of the Civilian Adminstration"
+strengtheningcivilianadminstration_desc:0 "By strengthening the civilian aspect of the political body of the Ming Empire, shall there be greater coorperation between the governing courts of the Middle Kingdom."

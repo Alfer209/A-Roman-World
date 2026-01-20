@@ -1,43 +1,47 @@
 ﻿l_english:
 
- MARCUS_VARRO_DESC:0 "Народжений у старовинній сенаторській родині в Равенні, Марк Варрон піднявся кар’єрними щаблями не через легіони, а через дипломатичний корпус Риму. Відомий своєю суворою вдачею та непохитною вірою в римський порядок, він став ключовою фігурою у переговорах щодо торгових привілеїв імперії в Азії. Коли було створено Міжнародний Мандат Японські Концесій, Варрона обрали його першим губернатором-головою — не лише за досвід у справах із чужоземними дворами, але й за репутацію людини, яку не можна підкупити у світі, де гроші й вплив часто переважають обов’язок.\n\nВаррон бачить себе не завойовником, а опікуном. Для нього міста-концесії — це не колонії, а “форпости цивілізації”, де римських, тевтонських, мінських, російських і британських торговців слід утримувати в крихкій рівновазі. Його патерналістська філософія підкреслює суворий соціальний порядок, керовану торгівлю та контрольовану модернізацію — те, що він називає “римською рукою над східним берегом”. Хоч корпорації та іноземні ради формально панують у Йокогамі, залізна присутність Варрона гарантує, що суперечки вирішуються під римським арбітражем.\n\nДля японців він — відсторонена постать, яку рідко бачать поза офіційними церемоніями; для міжнародної еліти — суворий, але надійний арбітр, що забезпечує прибутковість концесій. Критики шепочуть, що він лише розкішний корпоративний наглядач, але сам Варрон вірить, що служить історії — поєднуючи Схід і Захід під проводом Риму, порт за портом."
+ MARCUS_VARRO_DESC:0 "Born into an old senatorial family in Ravenna, Marcus Varro rose through the ranks of the Roman diplomatic corps rather than the legions. Known for his austere manners and unshakable faith in Roman order, he became a key figure in negotiating commercial privileges for the empire in Asia. When the International Mandate for Japanese Concessions was established, Varro was selected as its first Governor-Chairman — not only for his experience in handling foreign courts, but also for his reputation as incorruptible in a world where money and influence often outweighed duty.\n\nVarro sees himself as a custodian rather than a conqueror. To him, the Concession Cities are not colonies, but “outposts of civilization” where Roman, Teutonic, Ming, Russian, and Britannic traders must be kept in fragile balance. His paternalist philosophy emphasises strict social order, guided commerce, and controlled modernisation — what he calls the Roman hand upon the Eastern shore. While corporations and foreign councils technically dominate Yokohama, Varro’s iron presence ensures that disputes are settled with Roman arbitration.\n\nTo the Japanese, he is an aloof figure, rarely seen outside official ceremonies; to the international elites, he is a stern but reliable arbiter who ensures the concessions remain profitable. His critics whisper that he is little more than a glorified corporate overseer, but Varro himself believes he is serving history — binding East and West under Rome’s guidance, one port at a time."
  
- ZACH_MAK_DESC:0 "Король Захарій Макурій походить від стародавніх християнських царів Макурії — середньовічного нубійського королівства, що століттями чинило опір арабським завоюванням. Освічений в Александрії під покровительством Східноримської церкви, він повернувся до Хартума з рішучим наміром створити сучасну Нубію, здатну гордо протистояти як імперському тиску, так і ісламським сусідам.\n\nЗахарій править як патерналістичний автократ — наполовину монарх, наполовину верховний жрець — поєднуючи візантійський придворний церемоніал із місцевими традиціями. Він є покровителем Коптської церкви, називає себе “Захисником Нілу” та ретельно зберігає баланс між східноримським заступництвом і нубійською гордістю.\n\nХоча його держава не має промислової потуги сусідів, Захарій користується палкою відданістю свого народу, який бачить у ньому останнього християнського царя Верхнього Нілу."
+ ZACH_MAK_DESC:0 "King Zacharias Makourios traces his lineage back to the ancient Christian kings of Makuria, the medieval Nubian kingdom that resisted Arab conquest for centuries. Educated in Alexandria under the patronage of the East Roman Church, he returned to Khartoum determined to forge a modern Nubia that could stand proud against both imperial encroachment and Islamic neighbors. Zacharias rules as a paternal autocrat — half monarch, half high priest — blending Byzantine-style court ceremony with local traditions. He champions the Coptic Church, presents himself as the “Defender of the Nile,” and carefully balances East Roman patronage with Nubian pride. Though lacking the industrial might of his neighbors, he commands fierce loyalty among his people, who see him as the last Christian king on the Upper Nile."
+ ERE_isidoros_palaiologos:0 "Isidoros Palaiologos"
+ ERE_isidoros_palaiologos_desc:0 "Emperor of the Eastern Roman Empire!"
 
- ERE_isidoros_palaiologos:0 "Ісидор Палейолог"
- ERE_isidoros_palaiologos_desc:0 "Імператор Східної Римської Імперії!"
+ WANG_MING_DESC:0 "Once a fiery revolutionary poet, Wang Jingwei has become the unlikely unifier of the fractured Republic. Rising to prominence as a loyal disciple of Sun Yat-Sen, he was long regarded as one of the Tongmenghui’s most eloquent voices, capable of weaving ideology with the raw grievances of the common people. His oratory and writings earned him both admiration and suspicion; admiration from those who saw in him the promise of a new China, suspicion from those wary of his radical reinterpretations of Sun’s 'Three Principles of the People.'\n\nThe sudden of Sun Yat-Sen and the assassination of Chiang Kai-Shek in 1925 thrust Wang into leadership at the moment the Republic seemed destined to implode under factionalism. Rather than collapse, Wang imposed a new order by reviving the Tongmenghui under his personal guidance, binding together quarrelling republicans, radical reformers, and weary soldiers into a unified state. His answer to the chaos was Minsheng—the principle of people’s livelihood—emphasised and recast not merely as social policy but as an ideological cornerstone. Land reform, industrial planning, rural welfare, and redistribution became the Republic’s creed, transforming it into a bastion of radical socialism in Asia.\n\nYet Wang’s Republic survives in the shadow of an empire that refuses to die. The Ming dynasty, supported by Constantinople and buoyed by new reforms, threatens to strike south at any moment. Wang understands the existential stakes; the Republic cannot afford to be merely a government—it must be a revolution, a living alternative to the Mandate of Heaven.\n\nPragmatic, charismatic, and ruthlessly idealistic, Wang Jingwei embodies the contradictions of the Republic itself. To some, he is the savior of Chinese republicanism, a man who gave purpose to a failing revolution. To others, he is a dangerous dreamer whose radicalism will plunge China into chaos once again. What cannot be denied is that Wang now stands as the final bulwark between the weakened dynasty in Beijing and the revolutionary promise of southern China."
+ 
+ GEM_wilhelm_ii:0 "Wilhelm II"
+ GEM_wilhelm_ii_desc:0 "Emperor of the Teutonic Empire"
 
- WANG_MING_DESC:0 "Колись запальний революційний поет, Ван Цзінвей став несподіваним об’єднувачем роздробленої Республіки. Ставши відомим як відданий учень Сунь Ят-сена, він довго вважався одним з найкрасномовніших голосів Тунменхуей, здатним поєднувати ідеологію з гострими обуреннями простого народу. Його ораторське мистецтво та письма здобули йому як популярність, так і підозру серед населення; захоплення тих, хто бачив у ньому обіцянку нової Китаю, підозру тих, хто остерігався його радикальної інтерпретації «Трьох принципів народу» Сунь Ят-сена.\n\nРаптова смерть Сунь Ят-сена та вбивство Чан Кайши в 1925 році поставили Вана на чолі Республіки саме в той момент, коли вона здавалася приреченою на крах через фракційні суперечки. Замість падіння, Ван запровадив новий порядок, відродивши Тунменхуей під своїм особистим керівництвом, об’єднавши сварливих республіканців, радикальних реформаторів та виснажених солдатів у єдину державу. Його відповідь на хаос — Міншень, принцип народного добробуту, підкреслений і переосмислений не просто як соціальна політика, а як ідеологічний фундамент. Земельна реформа, планування промисловості, сільське благоустроєння та перерозподіл стали кредом Республіки, перетворивши її на бастіон радикального соціалізму в Азії.\n\nПроте Республіка Вана існує в тіні імперії, яка відмовляється вмирати. Династія Мін, підтримувана Константинополем та підкріплена новими реформами, будь-якої миті може завдати удару на південь. Ван усвідомлює існування екзистенційної загрози; Республіка не може дозволити собі бути лише урядом — вона має бути революцією, живою альтернативою Мандату Неба.\n\nПрактичний, харизматичний та безжально ідеалістичний, Ван Цзінвей втілює суперечності самої Республіки. Для одних він — рятівник китайського республіканізму, людина, яка надала сенсу провальній революції. Для інших — небезпечний мрійник, радикалізм якого знову занурить Китай у хаос. Не можна заперечувати, що Ван тепер стоїть як останній бар’єр між ослабленою династією в Пекіні та революційною обіцянкою південного Китаю."
+ WRE_lorenzo_laurence:0 "Lorenzo Laurence"
+ WRE_lorenzo_laurence_desc:0 "Emperor of the Western Roman Empire"
 
- GEM_wilhelm_ii:0 "Вільгельм II"
-GEM_wilhelm_ii_desc:0 "Імператор Тевтонської Імперії"
+ MIG_zhu_wanshan:0 "Zhu Wanshan"
+ MIG_zhu_wanshan_desc:0 "Heavenly Mandated Emperor of the Central Kingdom"
 
-WRE_lorenzo_laurence:0 "Лоренцо Лоренс"
-WRE_lorenzo_laurence_desc:0 "Імператор Західної Римської Імперії"
+ ERE_dimitris_theodorakos:0 "Dimitris Theodorakos"
+ ERE_dimitris_theodorakos_desc:0 "Eastern Roman's best army reformer!"
+ ERE_cassian_alexiou:0 "Cassian Alexiou"
+ ERE_cassian_alexiou_desc:0 "Mobile Warfare"
 
-MIG_zhu_wanshan:0 "Чжу Ваньшан"
-MIG_zhu_wanshan_desc:0 "Імператор Центрального Королівства за Небесним Мандатом"
+ RMT_antoninus_miller:0 "Antoninus Miller"
+ RMT_antoninus_miller_desc:0 "Last Roman Republican Senator"
 
-ERE_dimitris_theodorakos:0 "Дімітріс Теодоракос"
-ERE_dimitris_theodorakos_desc:0 "Найкращий реформатор армії Східного Риму!"
+ RSF_yerzov_bogdan:0 "Yerzov Bogdan"
+ RSF_yerzov_bogdan_desc:0 "Bastion of Democracy"
 
-ERE_cassian_alexiou:0 "Кассіан Алексіу"
-ERE_cassian_alexiou_desc:0 "Мобільна війна"
+ UKA_mykhailo_omelianovych_pavlenko:0 "Mykhailo Omelianovych-Pavlenko"
+ UKA_mykhailo_omelianovych_pavlenko_desc:0 "Who is this guy?"
 
-RMT_antoninus_miller:0 "Антонін Міллер"
-RMT_antoninus_miller_desc:0 "Останній римський республіканський сенатор"
+ BKA_yakiv_marackin:0 "Yakiv Maračkin"
+ BKA_yakiv_marackin_desc:0 "Yakiv Maračkin"
 
-RSF_yerzov_bogdan:0 "Єрзов Богдан"
-RSF_yerzov_bogdan_desc:0 "Бастіон демократії"
+ CRP_wang_jingwei:0 "Wang Jingwei"
+ CRP_wang_jingwei_desc:0 "Wang Jingwei"
 
-UKA_mykhailo_omelianovych_pavlenko:0 "Михайло Омелянович-Павленко"
-UKA_mykhailo_omelianovych_pavlenko_desc:0 "Хто цей чоловік?"
+ FAC_albert_lebrun:0 "Albert Lebrun"
+ FAC_albert_lebrun "Francian President"
 
-BKA_yakiv_marackin:0 "Яків Марачкін"
-BKA_yakiv_marackin_desc:0 "Яків Марачкін"
+ AUT_KURT_SCHUSCHNIGG_LEADER_DESC:0 "Kurt Schuschnigg rose from the tumult of Austria’s fractured politics with a singular message: Austria must be more than a pawn. For centuries, the land had been trapped between two giants — the Teutonic Empire to the north and the West Roman Empire to the south — reduced to little more than a buffer state, its sovereignty tolerated only so long as it served the ambitions of others. Schuschnigg rejected this role outright.\n\nA staunch nationalist, he became the first leader to openly champion a distinct Austrian path, arguing that the nation’s history, culture, and destiny placed it above its so-called “protectors.” To him, both Teutonic militarism and Roman imperial pretensions were hollow relics of faded glory, while Austria embodied a purer and more enduring strength. His fiery speeches denounced foreign meddling and declared that Austria would no longer kneel before the weight of its neighbors’ empires.\n\nAs his influence grew, Schuschnigg transformed from a cautious politician into the standard-bearer of Austrian independence. He vowed to fortify the nation against Roman intrigue and Teutonic dominance alike, declaring Austria not as a buffer, but as the rightful arbiter of Central Europe’s future. In his vision, Austria was no longer a line on someone else’s map — it was the center of its own world, destined to stand superior to the great powers that once overshadowed it."
 
-CRP_wang_jingwei:0 "Ван Цзінвей"
-CRP_wang_jingwei_desc:0 "Ван Цзінвей"
-
-FAC_albert_lebrun:0 "Альбер Лебрен"
-FAC_albert_lebrun_desc:0 "Президент Франкії"
+ DAM_ANH_NGUYEN_LEADER_DESC:0 "Born in the crowded alleys of Huế to a family of impoverished farmers, Anh Nguyen’s story is one of relentless ambition and unshakable devotion to her people. Raised amid hardship, she grew to embody the voice of the dispossessed, refusing to bow to emperors, colonial officers, or foreign merchants who saw Đại Nam only as a pawn in their endless wars. Fiercely intelligent and uncompromising, Nguyen rose from the lowest ranks of society to become a figurehead of resistance and reform, winning the admiration of peasants, soldiers, and scholars alike.\n\nPolitically, she is unwavering: pro-Ming to the core, seeing in China not only a cultural kinship but also a bulwark against Western imperialism and the predations of rival empires. To Nguyen, the Teutonic and Roman empires represent the worst of European arrogance, threatening to carve up Asia as they once carved up Europe. She despises Japan as well, viewing it as a treacherous imitator of Western colonialism, cloaking conquest in pan-Asian rhetoric. Her speeches rail against the 'false promises of progress' brought by colonial bayonets, insisting instead that true progress must come from within, by and for the people of Đại Nam.\n\nNguyen is no mere ideologue; she is pragmatic, ruthless when needed, and utterly ambitious. She envisions an empire reborn not as a monarchy of privilege, but as a state forged from the sweat of its people — a nation that can meet the world as an equal, not a vassal. To her supporters, she is the daughter of Đại Nam, proof that destiny does not belong solely to nobles or generals. To her enemies, she is a dangerous radical whose words ignite rebellion and whose rise threatens centuries of imperial order. For Anh Nguyen, however, the struggle is clear; the people of Đại Nam will either stand tall and sovereign, or be crushed beneath the boots of empire."
+ 
+ 
