@@ -1243,7 +1243,13 @@
  STATE_1044: "Wuwei"
  STATE_1045: "Guyuan"
  STATE_1046: "Yulin"
-
+ STATE_1047: "Yokohama"
+ STATE_1048: "Nagaski"
+ STATE_1049: "Nagoya"
+ STATE_1050: "Okayama"
+ STATE_1051: "Kochi"
+ STATE_1052: "South Arizona"
+ STATE_1053: "San Francisco"
 
 
 
